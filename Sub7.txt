@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@198.202.211.1:2053?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@216.24.57.1:2053?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@www.hivenet.com:2053?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@www.ftc.net:2053?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@www.panel.com:2053?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing4.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=/proxy#%3E%3E%40configshub2%3A%3AJP
-vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.18.185.26:80/?type=ws&encryption=none&flow=&host=lucky-voice-d6f3.difat89954-0c6.workers.dev#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://8f25d191-c31c-4d07-86ec-db01fe1085d9@london1.ap221.com:443?sni=london.ap221.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%3E%3E%40v2nodes%3A%3AGB
 vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.21.224.5:80?encryption=none&host=lucky-voice-d6f3.difat89954-0c6.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://93f0761d-4393-4b43-a523-e812fa0b7e83@chatgpt.com:443?encryption=none&host=cf.cfvip.lol&path=%2Fpyip%3D47.251.95.178&security=tls&sni=cf.cfvip.lol&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -468,8 +461,8 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.136.21:8080#%F0%9F%87%BA%F0%
 vless://11111111-2222-1111-1111-111111111111@Everyday-VPN.Telegram-Channel:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=#سرورها به ترتیب خلوت بودن از بالا به پایین مرتب شده اند:
 vless://764a13da-76a5-4bc0-a2c9-e2a02f62408f@[2a01:4f8:1c1b:7df::1]:443?encryption=none&security=reality&sni=gsmarena.com&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&fp=chrome&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&sid=32d7a82d&spx=%2F&type=grpc#@Everyday_VPN | 01 🇩🇪⚡️
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?path=%2F222.167.202.31%3A744...&security=tls&encryption=none&echfq=none&host=2026.hhhhh.eu.org&allowinsecure=1&type=ws&sni=2026.hhhhh.eu.org#%40V2ray_confiig`
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%40Pi
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@162.159.36.5:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#%40Pi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#🇳🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOVmN3OU9UR3dtVGhXbWhzMXVoN3JySUpjVno3bG45NmlmWVppdjR6c1d2VG9Uamc=@109.104.155.45:41348#🇧🇷🤨😒😒```
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRGVDSFN1NGx0OHFmbENTNXpET3k4@195.93.253.245:49137#%40v2FreeHub%20%F0%9F%87%B3%F0%9F%87%B1`
+vless://0b89c53e-1d55-463f-90d7-f28b0e17b8a7@45.15.160.132:443?security=reality&spx=&encryption=none&pbk=2YrB1VDud3ZDZp-fnEGO7BKsHZQN9NVJuXU_5j-uzVI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=ddb9#@mtproto_proserver
+vless://0b89c53e-1d55-463f-90d7-f28b0e17b8a7@45.15.160.132:443?encryption=none&type=tcp&security=reality&headerType=none&sni=yahoo.com&fp=chrome&allowInsecure=1&pbk=2YrB1VDud3ZDZp-fnEGO7BKsHZQN9NVJuXU_5j-uzVI&sid=ddb9#%40ᴍɪɢᴀ
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@sw1tzerl4nd.gxcore.net:443?security=reality&sni=sw1tzerl4nd.gxcore.net&fp=chrome&pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY&sid=a1ab5a56bc42&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp#🚀@VPNine1-Pro🇩🇪```

@@ -3,11 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@104.16.147.104:443?sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment#v2ray_dalghak
-trojan://humanity@104.20.6.134:443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=0#v2ray_dalghak
 trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#%40V2raysCollector%20%F0%9F%99%8A
 trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#v2ray_dalghak
 trojan://humanity@185.18.250.245:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#%40V2raysCollector%20%F0%9F%91%BA
+trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&type=ws#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%3A%20%40customv2ray
+trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%E2%9C%85%20%40V2raysCollector%2029-02
 trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?allowInsecure=1#United+States
 trojan://045a2a7a27ffbef5@185.165.119.254:443?type=xhttp&path=/&host=&mode=auto&security=none#@Vpn_jet7
@@ -221,6 +221,3 @@ trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.creationlong.org&p
 trojan://r137979f@162.159.153.212:2087?allowInsecure=1&fp=chrome&host=sheleqaz.emotionreza.workers.dev&path=%2F&sni=sheleqaz.emotionreza.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://humanity@www.ignitelimit.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://mSzFVhUczD@104.20.5.134:443?allowInsecure=1&alpn=http%2F1.1&host=abest.api-tel.xyz&path=%2F&sni=abest.api-tel.xyz&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
-trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#%F0%9F%87%B9%F0%9F%87%B7TR-193.124.46.134-0208
-trojan://a13820c547fa34c5c45515c12f0cd576@zz6.91js.pw:10051?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-172.233.221.214-0233
-trojan://8r%3C%5B9%27l6hAO%238ZQi@51.89.226.75:2083?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AC%F0%9F%87%A7GB-51.89.226.75-0234

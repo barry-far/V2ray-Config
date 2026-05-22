@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8c4604ef-749c-4b56-adf1-7da405002a21@8.6.112.0:2053?allowInsecure=1&encryption=none&fp=chrome&host=qyi.fqjd663.ggff.net&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://8c4604ef-749c-4b56-adf1-7da405002a21@216.24.57.1:443/?type=ws&encryption=none&flow=&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net#%3E%3E%40ultrasurf_12%3A%3AUS
 vless://8c4604ef-749c-4b56-adf1-7da405002a21@shop.app:2053?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://8c4604ef-749c-4b56-adf1-7da405002a21@160.153.0.78:443?allowInsecure=1&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS

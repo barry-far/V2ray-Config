@@ -3,17 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://telegram-id-directvpn@15.188.165.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
-trojan://strong-secret-pass-777@45.12.146.179:4443?security=tls#v2ray_dalghak
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:443?path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&security=tls&alpn=http%2F1.1&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#v2ray_dalghak
-trojan://humanity@104.16.147.104:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org&fragment=10-20%2C1-3%2Ctlshello#v2ray_dalghak
-trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&host=www.calmlunch.com&path=/assignment#%40V2raysCollector%20%F0%9F%A9%B6
-trojan://humanity@v3.dabache.top:443?type=ws&security=tls&sni=www.multiplydose.com&host=www.multiplydose.com&path=%2Fassignment%23#%40V2raysCollector%20%F0%9F%97%BD
-trojan://humanity@104.18.11.110:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#v2ray_dalghak
-trojan://humanity@208.103.161.110:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#v2ray_dalghak
-trojan://humanity@208.103.161.110:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&allowInsecure=1#%F0%9F%A5%9060%40proxy_kafee
+trojan://humanity@104.20.6.134:443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&allowInsecure=0#v2ray_dalghak
+trojan://humanity@8.6.112.0:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#proxymelimon
+trojan://humanity@104.18.16.56:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%3A%20%40customv2ray
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#%40VPNSSHOCEAN%2023
 trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%20
-trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%40V2raysCollector%20%F0%9F%8D%8E
+trojan://humanity@185.18.250.245:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#%40V2raysCollector%20%F0%9F%91%BA
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&path=%2fassignment#%40V2raysCollector%20%F0%9F%8C%88
+trojan://humanity@104.18.11.110:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%40flyv2ray
 trojan://045a2a7a27ffbef5@185.165.119.254:443?type=xhttp&path=/&host=&mode=auto&security=none#@Vpn_jet7
 trojan://1111@104.18.32.75:2083?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wijahol963.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wijahol963.workers.dev#1 🇩🇪 @V2ngFast
 trojan://1111@104.18.34.41:2087?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sedac13124.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sedac13124.workers.dev#5 🇩🇪 @V2ngFast

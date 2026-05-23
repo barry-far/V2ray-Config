@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2f1ac68e-06d4-4222-98c9-876fb47d1b0d@dl2.penguin-easyconnet.ir:80?path=/games/battlefied4&security=none&encryption=none&host=dl2.penguin-easyconnet.ir&type=ws#⏳@Proxy_Vpney (1)
-vless://2fb8086a-a107-437c-bbc6-13c2d066fcd5@vh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#@Amrica
-vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@25.129.199.122:2096?path=/eyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=http/1.1&encryption=none&host=digikalaa.dpdns.org&fp=chrome&type=ws&sni=DiGIkALaA.dpdns.ORG#@FreeVlessVpnبیااینجا
-vless://30509c0b-6031-4024-9bb6-3a73d8fa1fd2@185.143.233.235:2086?encryption=none&security=none&type=ws&headerType=none&path=/&host=MLI.ARTARONA.IR#@V2ray_confiig
-vless://30509c0b-6031-4024-9bb6-3a73d8fa1fd2@185.143.233.235:2095?encryption=none&security=none&type=ws&headerType=none&path=/&host=DLM.ARTARONA.IR#@V2ray_confiig
 vless://30509c0b-6031-4024-9bb6-3a73d8fa1fd2@185.143.233.235:2095?encryption=none&security=none&type=ws&headerType=none&path=/&host=SIWI.ARTARONA.IR#@V2ray_confiig
 vless://30509c0b-6031-4024-9bb6-3a73d8fa1fd2@185.143.233.235:8880?encryption=none&security=none&type=ws&headerType=none&path=/&host=MLI.ARTARONA.IR#@V2ray_confiig
 vless://30689d42-d2f2-4495-a49b-dd0fdba10fb8@liad.maf-tahas.ir:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=harro-likeh2.sdcards1.ir#Telegram : @V2ynpv
@@ -503,3 +498,8 @@ vless://7b66db43-3468-49d6-8d79-b0728918739d@rfral.aghanami.ir:80?path=/&securit
 vless://7bb9d414-44ee-4e66-92a1-abae3a862709@185.222.163.105:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=home.naxm.ir&type=grpc&serviceName=/dashboard&fp=chrome&alpn=h2,http/1.1#@GozargahAzad|🇮🇷
 vless://7bb9d414-44ee-4e66-92a1-abae3a862709@185.222.163.105:443?security=tls&sni=home.naxm.ir&type=grpc&serviceName=/dashboard&fp=chrome&alpn=h2,http/1.1#🇮🇷28197 | ⚡️Telegram = t.me/SOSkeyNET
 vless://7c59f883-3668-4ed3-a29b-09a0f2d60be7@snapp.ir:2086?path=/&security=none&encryption=none&host=in.side.nextbt.ir&type=ws#تلگرام  @irconfi روبیکا  @wizardxray
+vless://7d55a004-dd79-4350-8c8d-e3fe43d0b0b4@188.121.123.73:443?encryption=none&type=ws&security=tls&path=/ws?ed=500&sni=plus.sabavision.com&fp=chrome&allowInsecure=1#@@FreeConffning
+vless://7d79f908-7fcf-46a5-b813-4530b2a89dd3@It1.Xn--fjQYeXxiDv2znoe9rK1n8aGb1E05q.XN--6qQ79v59WHUl.COM:2342?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#🔵@chillguy_vpn
+vless://7e346122-2ee0-406e-b964-a8ee665f1814@104.19.173.68:443?encryption=none&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&path=/&security=tls&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&type=ws#🍀21@oneclickvpnkeys
+vless://7eac8a88-fea3-40d2-8a6a-e0dd4e8ac6e6@varzesh3.com:8080?path=/cdn&security=none&encryption=none&host=Za.movizdl.ir&type=ws#@techbod
+vless://7ed47b2b-3654-436e-8b34-7bdf03854164@aparatrat1.info:2083?security=&encryption=none&headerType=&type=tcp#

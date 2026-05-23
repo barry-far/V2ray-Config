@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://deb06db2-5dda-4ce7-9a75-a5ab0acbf6b2@37.32.26.173:11328?encryption=none&security=none&type=tcp&headerType=none#🔵@chillguy_vpn
-vless://df516e14-fca6-4b1c-ae8b-1679ae5e63eb@185.143.233.122:8080?path=/&security=none&encryption=none&host=penhoon-ref.morvaridvps.ir&type=ws#@techbod
-vless://df6bcab7-8445-44c7-a6d0-c1a688eef0db@91.192.160.7:9999?encryption=none&security=none&type=tcp&headerType=none#🔵@chillguy_vpn
-vless://dff554dd-646c-4154-aaf4-ac0429f17648@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#@vpnbaz | ترکیبی
-vless://dff5f175-ef05-4800-a844-cc417d6e0f15@185.226.140.140:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=s2.330ts.ir&path=/Uploader.php&security=tls&sni=s2.330ts.ir&type=ws#@canfigiop
 vless://e03ddd14-0af0-49c7-a80e-a593b62cd6c1@185.143.232.200:443?path=/&security=tls&encryption=none&insecure=0&host=download1.farsdroid.online&fp=chrome&type=ws&allowInsecure=0&sni=download1.farsdroid.online#🇮🇷28078 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e08a582e-c158-46ff-0bd7-8affdfe1dfa0@bmi.ir:8080?path=/&security=none&encryption=none&host=cdn-665e-o0g.fars-rehan.ir&type=ws#🔵⚪️@confihub-psiphon²²⁸
 vless://e139566b-3a6b-4bdc-a106-4bed64e12666@Dot.psdgold.st:51636?security=none&encryption=none&headerType=none&type=tcp#@hi_proxy_iran :👈کانال تلگرام
@@ -503,3 +498,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#%3E%3E%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.171.254:990#%3E%3E%40OutlineVpnOfficial%3A%3AID
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%3E%3E%40v2ray_configs_pool%3A%3ARO
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%3E%3E%40FreakConfig%3A%3AGB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#%3E%3E%40FreakConfig%3A%3AGB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#%3E%3E%40v2nodes%3A%3AGB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHeVo1WG8waHQ0MXZZbVczSDQ=@149.28.255.6:816#%3E%3E%40v2ray_configs_pool%3A%3AUS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#%3E%3E%40oneclickvpnkeys%3A%3ADE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFWnBkbzc2RjExRlNVUldES214UXdB@130.51.22.40:2096#%3E%3E%40v2nodes%3A%3AUS

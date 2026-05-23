@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7d55a004-dd79-4350-8c8d-e3fe43d0b0b4@188.121.123.73:443?encryption=none&type=ws&security=tls&path=/ws?ed=500&sni=plus.sabavision.com&fp=chrome&allowInsecure=1#@@FreeConffning
-vless://7d79f908-7fcf-46a5-b813-4530b2a89dd3@It1.Xn--fjQYeXxiDv2znoe9rK1n8aGb1E05q.XN--6qQ79v59WHUl.COM:2342?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#🔵@chillguy_vpn
-vless://7e346122-2ee0-406e-b964-a8ee665f1814@104.19.173.68:443?encryption=none&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&path=/&security=tls&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&type=ws#🍀21@oneclickvpnkeys
-vless://7eac8a88-fea3-40d2-8a6a-e0dd4e8ac6e6@varzesh3.com:8080?path=/cdn&security=none&encryption=none&host=Za.movizdl.ir&type=ws#@techbod
-vless://7ed47b2b-3654-436e-8b34-7bdf03854164@aparatrat1.info:2083?security=&encryption=none&headerType=&type=tcp#
 vless://7ed47b2b-3654-436e-8b34-7bdf03854164@aparatrat1.info:2083?security=none&encryption=none&headerType=none&type=tcp#@NetZone_ir
 vless://7f089934-6e4a-737f-7244-b4cfc3ecdf60@varzesh3.com:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn-reb-aaa.fasrgobar.ir#⏳@Proxy_Vpney (1)
 vless://7f8da1f9-2d1c-43d8-ae16-2222e0c5da6b@s2.mesterkit.com:52917?security=none&encryption=none&headerType=http&type=tcp#@NETMelliAnti
@@ -503,3 +498,8 @@ vless://dd5ae38a-5204-4f12-9d2c-a44fc923dba2@llc.feelpower.ir:2042?encryption=no
 vless://dd6af632-e4bb-400a-922f-43f75ec89d64@190.93.245.94:443?mode=auto&path=/v1/api/sync/f47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&host=api-ws-de.nxping.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ws-de.nxping.ir#IR-@V2rayAlpha-12
 vless://dead75ac-00ab-507f-8f5c-0c03e844a5fb@185.143.233.198:80/?path=/p/fr/2/l/w/5a7079eef615?ed=2047&security=none&encryption=none&insecure=1&host=cdn1.ufduiudud.site&type=ws&allowInsecure=1#ترکیبیConfixio@
 vless://deadd32c-e3d2-5884-a605-c72341093830@185.143.235.198:443?path=/p/fr/2/l/w/a3257bce5dec?ed=2047&security=tls&encryption=none&host=cdn1.ufduiudud.site&type=ws&sni=cdn1.ufduiudud.site#@V2ray_confiig
+vless://deb06db2-5dda-4ce7-9a75-a5ab0acbf6b2@37.32.26.173:11328?encryption=none&security=none&type=tcp&headerType=none#🔵@chillguy_vpn
+vless://df516e14-fca6-4b1c-ae8b-1679ae5e63eb@185.143.233.122:8080?path=/&security=none&encryption=none&host=penhoon-ref.morvaridvps.ir&type=ws#@techbod
+vless://df6bcab7-8445-44c7-a6d0-c1a688eef0db@91.192.160.7:9999?encryption=none&security=none&type=tcp&headerType=none#🔵@chillguy_vpn
+vless://dff554dd-646c-4154-aaf4-ac0429f17648@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#@vpnbaz | ترکیبی
+vless://dff5f175-ef05-4800-a844-cc417d6e0f15@185.226.140.140:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=s2.330ts.ir&path=/Uploader.php&security=tls&sni=s2.330ts.ir&type=ws#@canfigiop

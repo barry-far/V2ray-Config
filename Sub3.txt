@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://77ee0e8e-66a8-4ff1-bc2a-9d5f54a909e0@register.mobile-khayam.ir:50121?security=none&encryption=none&headerType=none&type=tcp#چنل عضو شو @v2ra_config
 vless://78426b35-89e3-4c8f-b21a-65717bc5c411@snapp.ir:8880?path=/&security=none&encryption=none&host=bot.stnolenza.ir&type=ws#@V2ray_confiig
 vless://793b2d46-4437-4fee-a25a-3ba6381e9dae@snapp.ir:80?path=/&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#@vpnbaz | ترکیبی
 vless://799f939b-964b-4416-84ac-18a6ace7fe70@camp.nahidapp.com:443?path=/IF_VPN_Bot&security=tls&encryption=none&insecure=0&host=camp.nahidapp.com&type=ws&allowInsecure=0#@Brayirani •☕ | عضو شید قطع نشید.
@@ -503,3 +502,4 @@ vless://dff554dd-646c-4154-aaf4-ac0429f17648@snapp.ir:80?path=/&security=none&en
 vless://dff5f175-ef05-4800-a844-cc417d6e0f15@185.226.140.140:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=s2.330ts.ir&path=/Uploader.php&security=tls&sni=s2.330ts.ir&type=ws#@canfigiop
 vless://e0dce552-056e-46da-86d1-2716e246f334@irna.ir:2087?type=ws&security=tls&encryption=none&path=/web&host=m2.fardaamoz.ir&sni=m2.fardaamoz.ir&alpn=h2&fp=chrome#🇮🇷27809 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e139566b-3a6b-4bdc-a106-4bed64e12666@Dot.psdgold.st:51636?security=none&encryption=none&headerType=none&type=tcp#@hi_proxy_iran :👈کانال تلگرام
+vless://e16d126f-682c-4bb9-a0da-243b23f9f030@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#HooshNet-8324595607

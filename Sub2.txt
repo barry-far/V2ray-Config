@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2fe27e8f-3d31-4083-8105-41f62c6b88ef@rayan.tehranionliine.ir:80?path=/&security=none&encryption=none&type=ws#برای اتصال دائمی جوین شو🗾 prrofile_purple@
 vless://30509c0b-6031-4024-9bb6-3a73d8fa1fd2@185.143.233.235:2086?encryption=none&security=none&type=ws&headerType=none&path=/&host=MLI.ARTARONA.IR#@V2ray_confiig
 vless://30509c0b-6031-4024-9bb6-3a73d8fa1fd2@185.143.233.235:2095?encryption=none&security=none&type=ws&headerType=none&path=/&host=DLM.ARTARONA.IR#@V2ray_confiig
 vless://30509c0b-6031-4024-9bb6-3a73d8fa1fd2@185.143.233.235:2095?encryption=none&security=none&type=ws&headerType=none&path=/&host=SIWI.ARTARONA.IR#@V2ray_confiig
@@ -503,3 +502,4 @@ vless://77534396-dead-4a6c-8761-03939cd4fdc8@172.64.149.54:443?path=/&security=t
 vless://77a2fa7d-39b5-45af-9758-74e1fbaf1995@home1.metaworkcloud.ir:8449?security=none&encryption=none&headerType=none&type=tcp#🔵@chillguy_vpn
 vless://77a52785-c460-4e6f-94b1-f09ad8e6d7af@5.10.249.6:2058?security=none&type=tcp&host=fast.com&headerType=http#🇮🇷27815 | ⚡️Telegram = t.me/SOSkeyNET
 vless://77a52785-c460-4e6f-94b1-f09ad8e6d7af@m3.masih1-ah.site:2058?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🔵@chillguy_vpn
+vless://77ee0e8e-66a8-4ff1-bc2a-9d5f54a909e0@register.mobile-khayam.ir:50121?security=none&encryption=none&headerType=none&type=tcp#چنل عضو شو @v2ra_config

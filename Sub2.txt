@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&security=reality&encryption=none&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&fp=chrome&type=grpc&serviceName=JNIR&sni=nobitex.ir&sid=1d64e9805b4f9ae3#@CUSTOMVPNSERVER
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&security=reality&encryption=none&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&fp=chrome&type=grpc&serviceName=JNIR&sni=nobitex.ir&sid=1d64e9805b4f9ae3#Telegram : @V2ynpv
 vless://31c40ee4-4da2-48fb-bf7c-d3785ff0fb72@hosting.linuweb.ir:1234?path=/index.php&security=none&encryption=none&type=ws#⏳@Proxy_Vpney (3)
 vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@freetg.strettenvpn.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&security=reality&sid=8248954896&sni=eh.vk.com&type=tcp#🛡️59@oneclickvpnkeys
 vless://32bef899-6c34-4a8d-8eab-550a3443df5a@varzesh3.com:8443?encryption=none&fp=chrome&host=p1.sesrsa.com&path=/&security=tls&sni=sub.sesrsa.com&type=ws#@icv2ray
@@ -501,5 +503,3 @@ vless://92d24447-d064-4876-a7cd-6f6f19b2c79f@45.134.99.37:8880?encryption=none&t
 vless://936257d2-b533-412d-c575-137316f7c355@iran.overdoes.site:15320?type=tcp&path=/&host=zula.ir&headerType=http#OverdoseVPN 🇩🇪-rjx1vz
 vless://93654286-35ba-4b7e-b124-5ed795756181@arvancloud.ir:2095?encryption=none&security=none&type=ws&path=/stream&host=god.flash-net.ir#@irconfi
 vless://93a2f05b-9f8f-4781-8112-07e9a0ebf2ea@ircell2.fillpower.ir:2042?security=tls&allowInsecure=0&encryption=none&type=ws&path=/&sni=mona.arrvancaas.ir&fp=chrome&alpn=h2,h3,http/1.1#@Mabahamim
-vless://93f2debc-acbb-4129-ab27-b90eb7c0d787@178.239.151.29:9443?type=tcp&encryption=none&security=none#@icv2ray
-vless://941c30a8-3d4b-4db4-b59a-49449a6fb65a@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#@vpnbaz | ترکیبی

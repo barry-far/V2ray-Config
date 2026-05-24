@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=none&type=ws&path=/?ed=2560&host=sv-1.jservices.ir#%speedtunnel  23d
+vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=none&type=ws&path=/?ed=2560&host=sv-1.jservices.ir#@Pirimod
 vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=none&type=ws&path=/?ed=2560&host=sv-1.jservices.ir#@speedtunnel 23d
 vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=none&type=ws&path=/?ed=2560&host=sv-1.jservices.ir#speedtunnel
 vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=none&type=ws&path=/?ed=2560&host=sv-1.jservices.ir#تلگرام : V2ynpv @
@@ -501,5 +503,3 @@ vless://2f0f84ed-9e4c-40ef-8a6c-286839e11a63@104.18.40.152:8880?encryption=none&
 vless://20e295db-a6af-4006-bfd6-91453f169968@mci.buzzmuzzpanel.online:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=057.electrocellco-cf-057.workers.dev&path=%2FeyJqdW5rIjoiSFM1N0lLQmx2UU1qRzlnTiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=057.ElecTRocElLco-Cf-057.wOrKeRs.dEv&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://363a6072-05d7-48d5-8f19-312b05fdd9cd@104.18.13.229:2052?encryption=none&host=chosenflyesqt-q3y28ipf-v3.chosen-fly-esqt.workers.dev&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://363a6072-05d7-48d5-8f19-312b05fdd9cd@www.visa.com.sg:2052?encryption=none&host=chosenflyesqt-q3y28ipf-v3.chosen-fly-esqt.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://2088ef0d-4d2c-43b3-874b-b6a03531c81b@104.20.6.134:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=r.mediashoppp.sbs&path=%2FeyJqdW5rIjoiVVpPeXNodUFQMHNVcU12aCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=r.meDiASHOPPp.sbS&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
-vless://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@104.16.9.24:80?encryption=none&host=fragrant-recipe-09f4.wopecuyubak61.workers.dev&path=%2F&security=none&type=ws#%3E%3E%40configshub2%3A%3AUS

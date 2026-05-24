@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f1ee684c-c0e2-4c26-9875-910f5939c536@anten.ir:443?path=/&security=tls&alpn=h3&encryption=none&insecure=1&host=nimisv2.pbvsrk.carnagesv.top&fp=chrome&type=ws&allowInsecure=1&sni=nimisv2.pbvsrk.carnagesv.top#🇮🇷28372 | ⚡️Telegram = t.me/SOSkeyNET
-vless://f203ec9c-7efb-401d-a8f3-fd8c3c033297@sub.pardisvps.ir:2086?type=ws&security=none&path=/&host=connect.pardisvps.ir#🇮🇷28410 | ⚡️Telegram = t.me/SOSkeyNET
-vless://f2f7ebdf-f163-4d6f-9901-9ea9bf06d6f5@212.80.24.71:777?path=@BlueberryNetWork&security=&encryption=none&type=ws#🔵@chillguy_vpn
-vless://f4039ab1-a6f3-41d6-8874-ce961d0316b3@185.143.233.5:2096?path=/&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=chrome&type=ws&allowInsecure=0&sni=sub.sesrsa.com#@config_free2
 vless://f406b718-5af9-4fbc-8387-b109a979c4bb@philadelphia2.shahvip.lol:8443?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=philadelphia2.shahvip.lol&path=/api&security=tls&sni=philadelphia2.shahvip.lol&type=ws#🌐 tel : @v2ray_unit
 vless://f4af15b0-8994-48bf-b0d2-117a49f3f503@blubank.sb24.ir:80?encryption=none&type=ws&path=/&host=static.aliyanserver.ir#@electvpn0
 vless://f546691e-c631-45a5-a399-fbf0d1a4fa02@185.120.16.208:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=BDyM9fEqTWGuUfygYOQVEomwVdNv2A3cj-M1t00fBHw&security=reality&sid=d1e8a2f6c3b90754&sni=fastcdn.hoyoverse.com&type=tcp#🌶️16@oneclickvpnkeys
@@ -503,3 +499,7 @@ trojan://JaFKnqNcvnBT63t3rquidGsln@91.210.108.201:443?sni=HL-FREEDOM-1.UNDEF.NET
 trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?allowInsecure=0&sni=HL-FREEDOM-1.UNDEF.NETWORK&ws=1&wspath=%2Ff2fc2a1f#%3E%3E%40v2nodes%3A%3ANL
 trojan://humanity@104.16.147.104:443?host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://humanity@104.17.150.76:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://humanity@104.18.12.149:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
+trojan://humanity@104.18.11.110:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%3E%3E%40configshub2%3A%3ANL
+trojan://humanity@104.18.13.149:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#%3E%3E%40v2line%3A%3ANL

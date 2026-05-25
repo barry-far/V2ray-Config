@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://983da2df-bc52-4226-84c1-bbfef0704427@016fab73dd0e5521.freestly.sapienza-mahan.ir:443?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=nazan-baba-z1.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=speedtest.net#t.me/ConfigFori  -  Config 73734
-vless://98875208-5356-4bb4-9e1a-d0eed4a53844@45.90.72.231:30760?type=tcp#@canfigiop
-vless://98d677be-b14b-4c14-a96b-4a39a3be645a@cfcdn.zopli.ir:443?path=/eyJqdW5rIjoiZHJmTGlJSmciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev#@v2rayngzendegimamad🕊️
-vless://98e85ab7-5ed2-c5a5-f734-226074d50aa3@193.176.240.115:80?security=none&type=ws&path=/#🇮🇷29000 | ⚡️Telegram = t.me/SOSkeyNET
-vless://98e85ab7-5ed2-c5a5-f734-226074d50aa3@sdl.ciliko.ir:80?path=/&security=none&encryption=none&type=ws#@Proxy_Vpney v+p (2)
-vless://991519c1-3680-49b7-bb9f-9029a7a39067@c2.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=0&sni=backup.f-sub.cfd#IR-@V2rayAlpha-16
 vless://991872e3-8d0b-482d-b412-43b680b4fd60@snapp.ir:80?encryption=none&type=ws&path=/&host=srv.diamond-theBEST.online#🇮🇷28926 | ⚡️Telegram = t.me/SOSkeyNET
 vless://99ffb57b-e844-417a-ba51-f0b63971b4c2@snapp.ir:8880?type=ws&encryption=none&path=/&host=hunter2x.sorecloud.ir&security=none#🦉@FreeConfigForYou
 vless://9a39f63e-28c8-4560-af18-b01b9916ef1b@104.18.41.138:8443?path=/?ed=2048&security=tls&encryption=none&host=pardazesh-tgws.pages.dev&type=ws&sni=pardazesh-tgws.pages.dev#@v2rayconfigamir 6169
@@ -503,3 +497,9 @@ vless://jina@20.79.162.37:443?security=tls&alpn=h2,http/1.1&encryption=none&head
 vless://monacoVPN@172.65.111.43:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#@monacoVPN
 vless://monacoVPN@83.228.228.44:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#@monacoVPN
 vless://telegram-dickiriptorbot@13.249.2.122:443?path=/&security=tls&encryption=none&insecure=1&host=dbw9jfe94rh28.cloudfront.net&type=ws&allowInsecure=1&sni=3.173.21.63#t.me/ConfigFori  -  Config 73744
+vless://telegram-id-ArV2ray2@www.speedtest.net:8880?path=/-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter&security=none&encryption=none&host=www.speedtest.net.a.3.speedtest2029.com.&type=ws#[63534] - Telegram : @V2All
+vmess://04621bae-ab36-11ec-b909-0242ac120002@45.92.70.236:22324?encryption=auto&security=none&type=tcp#🌶️11@oneclickvpnkeys
+vmess://e02c67a8-d769-4d73-833a-ab6acdb86e6e@107.172.75.141:10086?encryption=auto&security=none&type=tcp#🛡️81@oneclickvpnkeys
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrvCfh7cyODkzNCB8IOKaoe+4j1RlbGVncmFtID0gdC5tZS9TT1NrZXlORVQiLCAiYWRkIjogInMyLnZlcmFzcGVlZC5pciIsICJwb3J0IjogIjIwNTIiLCAiaWQiOiAiM2EzN2EwZjktOTgxMS00YWViLWFjZTctNmMwYmQ4Y2EwOThkIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIm5vbmUiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrvCfh7cyOTAxNCB8IOKaoe+4j1RlbGVncmFtID0gdC5tZS9TT1NrZXlORVQiLCAiYWRkIjogInMyLnZlcmFzcGVlZC5pciIsICJwb3J0IjogIjIwNTIiLCAiaWQiOiAiOGM2ZDlkNGEtYmUzZS00OTIyLWExOTItMjc2NDcyYjIxOTc0IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIm5vbmUiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJhZGQiOiAiMjE3LjIxOC41Mi4xIiwgInBvcnQiOiAiMTA0MTAiLCAiaWQiOiAiZjkzZjEzNGYtN2FkYi00OGMzLWJjZDEtMjUzMmVkYjBiNDc4IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaW5zZWN1cmUiOiAiMCJ9

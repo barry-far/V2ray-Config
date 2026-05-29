@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://e258977b-e413-4718-a3af-02d75492c349@69.84.182.49:2096?path=/&security=tls&encryption=none&host=jp.aniua.qzz.io&fp=chrome&type=ws&sni=jp.aniua.qzz.io#@vmesskhodam
 vless://e258977b-e413-4718-a3af-02d75492c349@69.84.182.49:2096?path=/&security=tls&encryption=none&host=jp.aniua.qzz.io&type=ws&sni=jp.aniua.qzz.io#@hi_proxy_iran :👈کانال تلگرام
 vless://e258977b-e413-4718-a3af-02d75492c349@69.84.182.49:2096?path=/&security=tls&encryption=none&host=jp.aniua.qzz.io&type=ws&sni=jp.aniua.qzz.io#⚡@V2ray_official
 vless://e258977b-e413-4718-a3af-02d75492c349@69.84.182.49:2096?path=/&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#@Vpn_jet7
@@ -502,4 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.150.157:990#%3E%3E%40configshub2%3A%3AZA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#%3E%3E%40v2ray_configs_pool%3A%3ASG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@23.95.76.59:990#%3E%3E%40v2ray_configs_pool%3A%3AMD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.93.173.60:990#%3E%3E%40OutlineVpnOfficial%3A%3ABO

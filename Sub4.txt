@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8e378a41-d5e1-427a-aaf8-30190d4be0a0@Spd-mynames.global.ssl.fastly.net:80?mode=auto&path=/&security=none&encryption=none&host=Spd-mynames.global.ssl.fastly.net&type=xhttp#@KAFING_2
 vless://8e6d6d70-5f7e-4f2c-89b6-8f5f8db4c3a1@104.16.7.70:443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=chatgpt.g9q.fun&fp=chrome&type=xhttp&allowInsecure=0&sni=chatgpt.g9q.fun#🇨🇦 @V2ngFast
 vless://8ea69b47-ba42-4a23-932a-8d7834f84e20@helixgaming.ir:80?path=/&security=none&encryption=none&host=play.google.com&type=ws#@Filtershekan_channel |7
 vless://8f15b403-178e-4361-900c-086e56134280@snapp.ir:80?type=ws&security=none&path=/&host=derakhshan.molvliafor.ir#🇮🇷26636 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +502,4 @@ vless://cef2e5c6-23d6-415a-ac38-8d96e10b9053@connect.nyxserver.ir:80?path=/arvan
 vless://d06b11bb-08ea-4ca0-a726-819fddc0b0ee@de.cloxybot.eu:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=de.cloxybot.eu&fp=chrome&pbk=XrgcuVGiYiIs1VSeprZnmEaEPjG4G-Yqqh9mMPihWXQ&sid=d0a6f71a14b169d3#@v2rayconfigamir 6128
 vless://d08a3998-d155-4541-9d46-85014b182ee8@45.39.230.25:42391?encryption=none&fp=chrome&pbk=vWLA2Hvig6fUErrisZvXBRs9ioeqegs_xmGkZf1uZ04&security=reality&sid=1608&sni=www.yahoo.com&spx=/a91vwk8Tl6f5E3g&type=tcp#@config_free2
 vless://d08a3998-d155-4541-9d46-85014b182ee8@45.39.230.25:42391?security=reality&encryption=none&pbk=vWLA2Hvig6fUErrisZvXBRs9ioeqegs_xmGkZf1uZ04&headerType=&fp=chrome&spx=/a91vwk8Tl6f5E3g&type=tcp&sni=www.yahoo.com&sid=1608#%vmesskhodam
+vless://d0b60427-ccb0-4026-aeec-d095b6b7dd08@de-2.srv.vpnza300.org:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=4Y1wdeQGqDecReK5UrA5RV7Dcq9QnfuArtSzujdJbXo&security=reality&sid=6eda877655137aff&sni=de-2.srv.vpnza300.org&type=tcp#🦄39@oneclickvpnkeys

@@ -4,11 +4,9 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 vless://fa12c1f5-24be-4119-8506-aad16f3bcd35@3.126.31.60:443?security=none&encryption=none&headerType=none&type=tcp#
-vless://b94194df-c343-4d77-96be-ab530f1b06ec@179.237.72.235:56391?security=none&encryption=none&host=my.mci.ir&headerType=http&type=tcp#@farsiproxy
 vless://ea484535-0170-4ec8-bb3c-a9dbaa7412d7@v843042.hosted-by-vdsina.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=wlYNxgezkkjoIEXATEBsOo7rZu5qkQaCOqDrysvuGR4&security=reality&sid=46e746366ed5c1b9&sni=v843042.hosted-by-vdsina.com&type=tcp#%F0%9F%8C%9D46@oneclickvpnkeys
 vless://5e8ee155-0962-4307-98f2-b65f6bbbd5bb@213.108.2.130:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=c9eCHF41FReFLIdarpg8M5edw4_E133EJBzrvYS02Ck&security=reality&sid=cd9a5f0edff48da4&sni=cloudflare.com&type=tcp#Russia
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.186.26:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#%F0%9F%AB%9C71@oneclickvpnkeys
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.25:443?sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#
 vless://01ef96b4-e7ec-4218-8ffe-a59e1cdfd836@downlod.musicribvar.com:45029?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%AB%9C44%40proxy_kafee
 vless://256c5f48-4908-4255-83d1-c86cb58f22b4@fr.denditop.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.denditop.site&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&type=tcp&headerType=none#%20
 vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@84.32.70.206:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=FhYXVO-0BlCdga4MFczEVVC_clTA2UaIhWUiaWvYlR0&security=reality&sid=fb2a682d44bdc70c&sni=dfgh.falsemirrov.com&type=tcp#%F0%9F%90%8F87@oneclickvpnkeys
@@ -27,7 +25,6 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?allowInsecure=1
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443/?type=tcp&encryption=none&flow=&security=tls&sni=uk1.fromblancwithlove.com&alpn=h2&allowInsecure=1#%E2%99%A614%40oneclickvpnkeys
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&encryption=none&alpn=h2&headerType=none&type=tcp&sni=uk1.fromblancwithlove.com#v2ray_dalghak
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#%E2%99%A614@oneclickvpnkeys
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@fr.denditop.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.denditop.site&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&spx=%2F&type=tcp&headerType=none#%40V2raysCollector%20%F0%9F%92%96
 vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=hkg1.fromblancwithlove.com&type=tcp#%F0%9F%90%8D98@oneclickvpnkeys
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01&note=---@Ho3ein_ezd%0A---@Ho3ein_ezd%0A---@Ho3ein_ezd%0A---@Ho3ein_ezd%0A---@Ho3ein_ezd%0A---@Ho3ein_ezd#%54%65%6C%65%67%72%61%6D%20%69%64%3A%48%6F%33%65%69%6E%5F%65%7A%64
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40VPNSSHOCEAN%20306

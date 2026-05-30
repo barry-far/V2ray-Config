@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80?path=/&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#@FREECONFIGSPLUS
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80?path=/&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#T.me/erfwp
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.27:80?path=/&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#T.me/erfwp
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.43:80?path=/&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#@Black_Star_Vpn
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.43:80?path=/&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#@icv2ray
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.43:80?path=/&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#T.me/erfwp
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.165:80?path=/&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#https://t.me/v2raynplus |United+States
@@ -499,7 +503,3 @@ vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.244:443?security=tls&encr
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.244:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision-udp443&sni=sub.sbrf-cdn342.ru#🔵@chillguy_vpn
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.244:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443&sni=sub.sbrf-cdn342.ru#@filembad
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.244:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443&sni=sub.sbrf-cdn342.ru#🔵@chillguy_vpn
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.25:443?encryption=none&type=tcp&security=tls&headerType=none&sni=sub.sbrf-cdn342.ru&fp=chrome&allowInsecure=0&flow=xtls-rprx-vision-udp443#🇩🇪38188 | ⚡️Telegram = t.me/SOSkeyNET
-vless://9245d535-66fc-49b9-ba71-6d8c06c38b60@api.naxm.ir:38817?type=grpc&encryption=none&serviceName=/dashboard&authority=home.naxm.ir&security=tls&fp=chrome&alpn=h2,http/1.1&sni=home.naxm.ir#🔵@config_free2
-vless://92676547-950f-4c52-826c-92f4db058c67@snapp.ir:2095?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/sbs&security=none&encryption=none&host=clo-rivv.tonbrownton.com&type=ws#[67605] - Telegram : @V2All
-vless://9306f42a-3e45-449e-8d26-d01904133418@anten.ir:443?encryption=mlkem768x25519plus.native.0rtt.DriHGiD-ShgRTG9X5U8I-j6LPm9FMZMOPnzShlHtDk8&type=xhttp&security=tls&path=/&host=twoline.mr-incognito.ir&mode=auto&sni=twoline.mr-incognito.ir&alpn=h2,http/1.1&fp=chrome&allowInsecure=1#1ConfigX2ray

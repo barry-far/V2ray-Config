@@ -3,7 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://v2raydia-channel@45.130.125.69:443?encryption=none&type=ws&security=tls&path=%2F%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia--%40v2raydia&host=mEn.cCnnX.IR&sni=mEn.cCnnX.IR&fp=chrome&allowInsecure=0#@V2raysCollector
 vless://ea484535-0170-4ec8-bb3c-a9dbaa7412d7@v843042.hosted-by-vdsina.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=wlYNxgezkkjoIEXATEBsOo7rZu5qkQaCOqDrysvuGR4&security=reality&sid=46e746366ed5c1b9&sni=v843042.hosted-by-vdsina.com&type=tcp#%F0%9F%8C%9D46@oneclickvpnkeys
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.25:443?sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#
 vless://256c5f48-4908-4255-83d1-c86cb58f22b4@fr.denditop.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.denditop.site&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&type=tcp&headerType=none#%20
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=uk1.fromblancwithlove.com#%40proxy_kafee4
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=uk1.fromblancwithlove.com#%40filtershekan_channel%20%7C5

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://TIGNAL-CRYPTO@151.101.193.57:80?type=xhttp&security=none&path=%2F&host=InternetAzadRobot07gt745.global.ssl.fastly.net&mode=auto#%3E%3E%40ultrasurf_12%3A%3AFR
-vless://TOFAN-TRADE@151.101.193.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot19to502.global.ssl.fastly.net&type=xhttp#%3E%3E%40configV2rayNG%3A%3AXX
 vless://a3798125-5413-0002-a8eb-267708c85be8@spb.connectv.net:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&security=reality&sni=spb.connectv.net&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AEE
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.25.242.61:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@162.159.13.206:443?allowInsecure=1&encryption=none&host=juzi.qea.ccwu.cc&path=%2F&security=tls&sni=juzi.qea.ccwu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS

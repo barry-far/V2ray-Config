@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vmess://89371dfc-2618-40d7-a558-693ff4f7f1eb@uk5.taskflowhub.org:2053?alpn=h3,h2,http/1.1&encryption=auto&security=tls&type=tcp#🦄54@oneclickvpnkeys
-vmess://cd682302-c9d7-4c0d-bada-52e7d652c22c@82.40.62.106:2080?encryption=auto&security=none&type=tcp#🦄82@oneclickvpnkeys
 vmess://cd682302-c9d7-4c0d-bada-52e7d652c22c@91.107.179.170:2080?encryption=auto&security=none&type=tcp#🦄19@oneclickvpnkeys
 vmess://cd682302-c9d7-4c0d-bada-52e7d652c22c@91.107.244.117:2080?encryption=auto&security=none&type=tcp#🦄17@oneclickvpnkeys
 vmess://cd682302-c9d7-4c0d-bada-52e7d652c22c@azmononline.konkuriran.sbs:2080?encryption=auto&security=none&type=tcp#🦄9@oneclickvpnkeys
@@ -503,3 +501,5 @@ vless://InternetAzadRobot@fastly.com:80?encryption=none&type=xhttp&mode=auto&hos
 vless://TIGNAL-CRYPTO@151.101.129.57:80?type=xhttp&security=none&path=%2F&host=InternetAzadRobot07gt745.global.ssl.fastly.net&mode=auto#%3E%3E%40ultrasurf_12%3A%3AFR
 vless://TIGNAL-CRYPTO@fastly.com:80?type=xhttp&security=none&path=%2F&host=InternetAzadRobot07gt745.global.ssl.fastly.net&mode=auto#%3E%3E%40ultrasurf_12%3A%3AFR
 vless://TIGNAL-CRYPTO@151.101.67.57:80?type=xhttp&security=none&path=%2F&host=InternetAzadRobot07gt745.global.ssl.fastly.net&mode=auto#%3E%3E%40ultrasurf_12%3A%3AFR
+vless://TIGNAL-CRYPTO@151.101.193.57:80?type=xhttp&security=none&path=%2F&host=InternetAzadRobot07gt745.global.ssl.fastly.net&mode=auto#%3E%3E%40ultrasurf_12%3A%3AFR
+vless://TOFAN-TRADE@151.101.193.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot19to502.global.ssl.fastly.net&type=xhttp#%3E%3E%40configV2rayNG%3A%3AXX

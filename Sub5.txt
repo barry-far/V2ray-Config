@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&security=reality&sid=a120&sni=cdn.cdnjst.org&type=tcp#@v2rayconfigamir 5658
+vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?security=reality&encryption=none&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn.cdnjst.org&sid=a120#@filembad
+vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?security=reality&encryption=none&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn.cdnjst.org&sid=a120#@v2rayng_vpn403جوی
+vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?security=reality&encryption=none&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn.cdnjst.org&sid=a120#@v2rayng_vpn403جوین بدید
+vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&sid=a120&sni=cdn.cdnjst.org&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad#🔵@chillguy_vpn
 vless://ae852d97-85f5-45cf-82a4-254eba345480@cdn.cdnjst.org:443?security=reality&encryption=none&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&host=@v2rayNplus-@v2rayNplus-@v2rayNplus&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=cdn.cdnjst.org&sid=a120#@v2rayNplus🇦🇱
 vless://ae852d97-85f5-45cf-82a4-254eba345480@cdn.cdnjst.org:443?security=reality&encryption=none&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&host=@v2rayNplus-@v2rayNplus-@v2rayNplus&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=cdn.cdnjst.org&sid=a120#@v2rayconfigamir 1070
 vless://ae852d97-85f5-45cf-82a4-254eba345480@cdn.cdnjst.org:443?security=reality&encryption=none&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=cdn.cdnjst.org&sid=a120#@v2rayNplus |🇦🇱
@@ -498,8 +503,3 @@ vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478?type=raw&securi
 vless://e9adbac6-90e1-4c1f-ad17-46226d45a262@85.133.221.52:3001?security=&encryption=none&host=fast.con&headerType=http&type=tcp#canfingV2rayNG-210
 vless://e9d6b936-5164-40a0-9279-4b588ae1e29a@tamam-1.conf-tun.site:44441?path=Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-Telegram-@V2ynpv-&security=none&encryption=none&host=zarebin.ir&headerType=http&type=tcp#Telegram : @V2ynpv
 vless://e9f2e9d2-2b25-41a8-8334-14e692c907d7@snapp.ir:80?path=/&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#@SayanStoree
-vless://ea484535-0170-4ec8-bb3c-a9dbaa7412d7@144.124.228.113:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=odHeTqoDcoPA6jeZStmaFPqoFg0ZiWwOKREEB0X-ez4&sid=e069bfaf9ba2069c&sni=nl3.panel11.ru#🔵@chillguy_vpn
-vless://ea484535-0170-4ec8-bb3c-a9dbaa7412d7@45.12.136.81:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=GsKY4XpP6sr905aHvCrj0JEHhgcAD5aEcmbjyLSNjAU&security=reality&sid=8ae24275272f&sni=cdp.x5.ru&type=tcp#2🦄@oneclickvpnkeys
-vless://ea484535-0170-4ec8-bb3c-a9dbaa7412d7@45.12.136.81:443?security=reality&encryption=none&pbk=GsKY4XpP6sr905aHvCrj0JEHhgcAD5aEcmbjyLSNjAU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdp.x5.ru&sid=8ae24275272f#@VPN_PASARGAD
-vless://ea484535-0170-4ec8-bb3c-a9dbaa7412d7@45.12.136.81:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=GsKY4XpP6sr905aHvCrj0JEHhgcAD5aEcmbjyLSNjAU&sid=8ae24275272f&sni=cdp.x5.ru#kurdconfig
-vless://ea484535-0170-4ec8-bb3c-a9dbaa7412d7@45.12.136.81:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=GsKY4XpP6sr905aHvCrj0JEHhgcAD5aEcmbjyLSNjAU&sid=8ae24275272f&sni=cdp.x5.ru#🔵@chillguy_vpn

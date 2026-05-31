@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f86f5a03-3872-46b5-bf03-a50388a0261d@a1-tss.pages.dev:443?encryption=none&host=a1-tss.pages.dev&path=/&security=tls&sni=a1-tss.pages.dev&type=ws#🦄90@oneclickvpnkeys
-vless://f86f5a03-3872-46b5-bf03-a50388a0261d@a1-tss.pages.dev:443?encryption=none&path=/&security=tls&type=ws#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
-vless://f8fd5db7-c529-41a4-aa10-93302fec650c@varzesh3.com:8880?path=/aban&security=none&encryption=none&host=tlite.abanservers.ir&type=ws#Telegram:@MrWebVpn | مستر وب ⚡ متصل ✅💯 وصل شدید برای دوستانتون هم
-vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=none&type=ws&path=/?ed=2560&host=sv-1.jservices.ir#@Pirimod
-vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=none&type=ws&path=/?ed=2560&host=sv-1.jservices.ir#تلگرام : V2ynpv @
-vless://fa12c1f5-24be-4119-8506-aad16f3bcd35@3.126.31.60:443?security=none&encryption=none&headerType=none&type=tcp#@mtproto_proserver
 vless://fa12c1f5-24be-4119-8506-aad16f3bcd35@3.126.31.60:443?security=none&encryption=none&headerType=none&type=tcp#@tanhanet🔷️
 vless://fa12c1f5-24be-4119-8506-aad16f3bcd35@3.126.31.60:443?security=none&encryption=none&host=v2rayNplus-v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&type=tcp#https://t.me/v2raynplus |🇩🇪
 vless://fa12c1f5-24be-4119-8506-aad16f3bcd35@3.65.58.129:443?security=none&encryption=none&headerType=none&type=tcp#@FreeConffning
@@ -503,3 +497,9 @@ trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&
 trojan://humanity@www.ignitelimit.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?allowInsecure=0&sni=www.directorypipeline.click#%3E%3E%40v2nodes%3A%3AXX
 trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3APL
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443#%3E%3E%40oneclickvpnkeys%3A%3AXX
+vless://19804f6b-3661-4eca-b294-ba37196dab5b@129.6.29.255:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=graph.instagram.com.cyylr.eu.cc&path=%2Fid-tksi&security=tls&sni=graph.instagram.com.cyylr.eu.cc&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#%3E%3E%40outline_vpn%3A%3ACA
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&security=reality&sni=aws.amazon.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AXX
+vless://15afc695-0be3-4c48-aa05-912bf15b4a95@snapp.ir:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=upload.yasinyasin.ir&fp=chrome&alpn=http%2F1.1&type=ws&host=t.yasinyasin.ir&path=%2Fxcore-9f3a7c1d2b4e%2F#%3E%3E%40configshub2%3A%3ANL

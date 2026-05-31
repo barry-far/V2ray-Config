@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?path=/download&security=&encryption=none&host=sabzb2.global.ssl.fastly.net&type=ws#@KAFING_2
-vless://0587169e-7864-400a-a648-074cdd64f4e2@www.speedtest.net:443?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=v2configlab.f-arhamho21.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=v2configlab.f-arhamho21.workers.dev#@v2configlab 🇩🇪
-vless://0587169e-7864-400a-a648-074cdd64f4e2@www.speedtest.net:80?path=/?ed=2048&security=none&encryption=none&host=v2configlab.f-arhamho21.workers.dev&type=ws#@v2configlab 🇩🇪
-vless://0596d8de-cf34-402a-b533-163b15e642eb@198.41.199.255:443?path=/downloader.php&security=tls&encryption=none&insecure=0&host=windy.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=windy.adaspoloandco.com&note=@FreeOnlineVPN#🇺🇸 - US - @FreeOnlineVPN
-vless://0596d8de-cf34-402a-b533-163b15e642eb@198.41.199.255:443?path=/downloader.php&security=tls&encryption=none&insecure=1&host=windy.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=1&sni=windy.adaspoloandco.com&note=@FreeOnlineVPN#🇺🇸 - US - @FreeOnlineVPN
-vless://05c42a4d-c59e-4b18-bf34-af3f486c426d@apiko.vexifynx.ir:2086?encryption=none&type=ws&host=irang.apirealstate.ir#@VPN_PASARGAD
 vless://05c42a4d-c59e-4b18-bf34-af3f486c426d@snapp.ir:2086?encryption=none&type=ws&host=irang.apirealstate.ir#@VPN_PASARGAD
 vless://05c42a4d-c59e-4b18-bf34-af3f486c426d@snapp.ir:2086?security=&encryption=none&host=irang.apirealstate.ir&type=ws#@Vpn_jet7
 vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?security=reality&encryption=none&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=5fe811ec9283ce51#Telegram : @V2ynpv
@@ -503,3 +497,9 @@ vless://40fde68e-da2e-4e6f-ae4c-2d7422a6a172@104.16.122.177:443?path=/Kose-nanat
 vless://40fde68e-da2e-4e6f-ae4c-2d7422a6a172@188.114.97.6:443?path=/Kose-nanat-decoder&security=tls&alpn=h2,http/1.1&encryption=none&host=Freealireza2.nscl.ir&fp=chrome&type=ws&sni=Freealireza2.nscl.ir#@hi_proxy_iran :👈کانال تلگرام
 vless://40fde68e-da2e-4e6f-ae4c-2d7422a6a172@188.114.97.6:443?path=/Kose-nanat-decoder&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=Freealireza2.nscl.ir&fp=chrome&type=ws&allowInsecure=1&sni=Freealireza2.nscl.ir#@meliproxyy
 vless://4166019f-0448-4eda-b29a-f824ff017083@blog.arioonlineshop.ir:13465?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp&note=@FreeOnlineVPN#🇫🇮 - FI - @FreeOnlineVPN
+vless://41ac3f4e-c27e-421a-a060-e13f9079f0e6@snapp.ir:80?path=/&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#@SayanStoree
+vless://41b903e0-7d0a-45d0-9b29-83086024a88b@88.218.120.60:4443?security=reality&encryption=none&pbk=-psPIZaOXQOuX1O1BpZ0_zyXEvx1YwW6ouBIkYGb2Dg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=sni4.streisand.lt&sid=612d8fa72c#TEL;Father_vpn
+vless://41bc5a50-7c41-4078-9a2a-611ab1c6dddb@fsxhh.fastshop1.com:443?mode=packet-up&path=/lizzard&security=tls&encryption=none&insecure=0&host=lizzard.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#@outline_ir
+vless://41bc5a50-7c41-4078-9a2a-611ab1c6dddb@fsxhh.fastshop1.com:443?mode=packet-up&path=/lizzard&security=tls&encryption=none&insecure=0&host=lizzard.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#kurdconfig
+vless://41bc5a50-7c41-4078-9a2a-611ab1c6dddb@snapp.ir:2095?path=/&security=none&encryption=none&host=lizardf1.fastshop11.ir&type=ws#🦉@FreeConfigForYou
+vless://41bc5a50-7c41-4078-9a2a-611ab1c6dddb@snapp.ir:2096?encryption=none&type=ws&security=tls&path=/&host=lizards2.fastshop11.ir&sni=lizards2.fastshop11.ir&allowInsecure=0#🔵 @config_free2

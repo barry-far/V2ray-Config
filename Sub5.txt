@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@104.17.156.147:8443?path=/RoBeRt&security=tls&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#🇫🇮 Finland Helsinki | ⏱2181ms | ⚡489KB/s | @NamazVPN
-vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@104.19.208.184:8443?path=/RoBeRt&security=tls&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#kurdconfig
 vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@104.19.208.184:8443?type=ws&security=tls&sni=interim.adaspoloandco.com&host=interim.adaspoloandco.com&path=/RoBeRt&fp=chrome#🇫🇮 Finland Helsinki | ⏱3506ms | ⚡93KB/s | @NamazVPN
 vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@104.19.64.105:8443?path=/RoBeRt&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#@Tanhanet
 vless://bb3f7d41-a044-4937-bf6f-4a3d1a70db06@104.19.64.105:8443?path=/RoBeRt&security=tls&encryption=none&alpn=h2,http/1.1&host=interim.adaspoloandco.com&fp=chrome&allowinsecure=0&type=ws&sni=interim.adaspoloandco.com#🔵@chillguy_vpn
@@ -503,3 +501,5 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tl
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@KAFING_2
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@KAFING_2
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=/&security=tls&encryption=none&insecure=0&host=dev.nestandneighbours.com&type=ws&allowInsecure=0&sni=dev.nestandneighbours.com#Telegram : @V2ynpv
+vless://ff121be2-3882-46e2-a3fe-346ae85cf10f@snapp.ir:80?path=/&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#@SayanStoree
+vless://ff246f65-8ecf-4e08-901e-3a15e09c68d0@varzesh3.com:80?type=ws&path=/&host=kabotar.garfar.ir&security=none#@imokping

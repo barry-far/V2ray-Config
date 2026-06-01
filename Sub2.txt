@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://telegram-id-directvpn@13.39.205.209:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷42498 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://telegram-id-privatevpns@13.36.249.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@13.37.36.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@13.37.65.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@13.39.177.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@13.39.205.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@13.39.205.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[68943] - Telegram : @V2All
-trojan://telegram-id-privatevpns@13.39.205.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷42499 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://telegram-id-privatevpns@13.39.4.77:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.97.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.184.212.180:22222?Telegram=@kurdconfig&Telegram=@kurdconfig&security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#kurdconfig
@@ -503,3 +495,11 @@ vless://34a9bd8b-e657-41ae-bc11-b0fa8393465b@193.151.135.97:443?security=none&al
 vless://34a9bd8b-e657-41ae-bc11-b0fa8393465b@193.151.135.97:443?security=none&encryption=none&headerType=none&type=tcp#@HiByeVPNN✅⭕🔥
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?encryption=none&type=xhttp&mode=stream-one&host=dey.lnmarketplace.net&path=/kavir&security=tls&fp=chrome&sni=dey.lnmarketplace.net&alpn=h2#@ehsawn8
 vless://358e8d08-65f0-4ef3-9686-7dfb16211439@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#t.me/ConfigFori  -  Config 73728
+vless://358e8d08-65f0-4ef3-9686-7dfb16211439@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#t.me/ConfigFori  -  Config 73731
+vless://35939cbe-5d57-4413-f4d0-cc115db0e000@a.cflive.top:35535?security=reality&type=tcp&sni=www.speedtest.org&fp=chrome&flow=xtls-rprx-vision&pbk=g1f1wLjim5gOVGnI5LGUV0dL4iFXPoiepOPZfSxJe14#🇺🇸42534 | ⚡️Telegram = t.me/SOSkeyNET
+vless://3593ac15-e270-41a1-943f-d9efe4e54dd4@188.114.97.6:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=oo.nvclud.ir&fp=chrome&type=ws&allowInsecure=0&sni=oo.nvclud.ir#4https://t.me/ConfigX2ray
+vless://3593ac15-e270-41a1-943f-d9efe4e54dd4@188.114.97.6:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=oo.nvclud.ir&fp=chrome&type=ws&allowInsecure=0&sni=oo.nvclud.ir#4https://t.me/v2rayng_vpn403
+vless://3593ac15-e270-41a1-943f-d9efe4e54dd4@188.114.97.6:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=oo.nvclud.ir&fp=chrome&type=ws&allowInsecure=0&sni=oo.nvclud.ir#@ProxyEliteVPN
+vless://3593ac15-e270-41a1-943f-d9efe4e54dd4@188.114.97.6:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=oo.nvclud.ir&fp=chrome&type=ws&allowInsecure=0&sni=oo.nvclud.ir#@Proxy_Vpney (8)
+vless://3593ac15-e270-41a1-943f-d9efe4e54dd4@188.114.97.6:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=oo.nvclud.ir&fp=chrome&type=ws&allowInsecure=0&sni=oo.nvclud.ir#kurdconfig
+vless://3593ac15-e270-41a1-943f-d9efe4e54dd4@45.130.125.168:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=eco.gcure.top#🇸🇨42547 | ⚡️Telegram = t.me/SOSkeyNET

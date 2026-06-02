@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a9cd18d2-dbf3-462b-9380-920a08fbc16b@104.17.121.71:443?path=/sg-do&security=tls&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#🔵@chillguy_vpn
+vless://aa5e25fc-c7d7-4e6e-b7f7-105a35c0175a@tamin.ir:80?path=/&security=none&encryption=none&host=tr1.kianorbit.ir&type=httpupgrade#@tanhanet
+vless://aa918a17-0c07-49b2-aec5-b72809d91a17@185.211.101.214:38200?mode=auto&path=/lightyagami&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=JL7JvLV0E3dvB48lp5UpSyzx1ATHPS3Kgjv2Ox9HtjQ&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=4306#@Studio_Sjd
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=.afrcloud22.mmv.kr#@v2rayngzendegimamad🕊️
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#IR-@V2rayAlpha-10
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=/43.218.77.16=1443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=ProxyVPN11.afrcloud22.mmv.kr#@v2rayngzendegimamad🕊️
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?path=/64.181.218.67=443&security=none&encryption=none&host=afrcloud22.mmv.kr&type=ws#@v2rayngzendegimamad🕊️
 vless://aac3348a-5adb-45b8-875a-305102c3bfa7@Hes.purplrose.ir:8443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=meh.purplrose.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=meh.purplrose.ir#@ai_duet
@@ -498,8 +503,3 @@ vless://e3000e19-78b5-4943-832b-d1e4bdb4e457@89.44.113.37:7080?security=reality&
 vless://e3000e19-78b5-4943-832b-d1e4bdb4e457@89.44.113.37:7080?security=reality&encryption=none&pbk=Sg4onLyYlTftShqKh320LJzdfy249cuxLZP2Dra3EBI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.aparat.com&sid=4b64acc76b#🇮🇷44752 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e3000e19-78b5-4943-832b-d1e4bdb4e457@89.44.113.37:7080?security=reality&encryption=none&pbk=Sg4onLyYlTftShqKh320LJzdfy249cuxLZP2Dra3EBI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.aparat.com&sid=4b64acc76b#🇳🇱 Netherlands | @on_proxy1
 vless://e3000e19-78b5-4943-832b-d1e4bdb4e457@89.44.113.37:7080?security=reality&encryption=none&pbk=Sg4onLyYlTftShqKh320LJzdfy249cuxLZP2Dra3EBI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.aparat.com&sid=4b64acc76b#🇳🇱 The Netherlands Amsterdam | ⏱1033ms | ⚡108KB/s | @NamazVPN
-vless://e30ba9e9-afc6-4236-803f-7b4ca30ce44b@193.22.229.138:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=pimxpass.alex96336997.workers.dev&path=/&security=none&type=ws#🚘37@oneclickvpnkeys
-vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?path=/?ed&security=none&encryption=none&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&type=ws&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
-vless://e32167a6-1571-45aa-8b58-c2592c4dfc48@my.ssabzlearn.ir:9443?path=/pourya&security=&encryption=none&type=ws#@icv2ray
-vless://e38208a6-9230-4b2e-8429-2388e861c6f7@nextjs.org:443?mode=auto&path=/bamacloud&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vercel-xhttpnimacloud.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=nextjs.org#t.me/ConfigFori  -  Config 73735
-vless://e3ac9d1b-4311-4f6c-8642-035acd3507a8@95.179.208.194:17568?encryption=none&type=tcp&headerType=none#@v2rayNGcloud

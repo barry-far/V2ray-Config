@@ -8,18 +8,23 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+
+
+vless://a44321b7-22ec-4255-bdb0-88a3e3b83668@ads01.vxmaxpro.online:443?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=b7b70c104ad267b8#%40iguanaVPN
 vless://28428914-fab5-4690-a1e1-c115385bc596@104.19.64.105:8443?path=%2Fadmin.php&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ratatouille.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=ratatouille.adaspoloandco.com#
 vless://d0dc32f6-e531-41af-9df6-1547adfb2f35@188.114.97.6:443?encryption=none&security=tls&sni=www.genflix.co.id.cyylr.eu.cc&type=ws&host=www.genflix.co.id.cyylr.eu.cc&path=%2Fae-bo#@proxy_kafee
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdg-1.fromblancwithlove.com&allowInsecure=0#%40v2raybaaz%20%283%29
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=cyylr.eu.cc#Free%2052%20%40Outline_Vpn
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.11.151:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=google.com&fp=random&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none#
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#%F0%9F%8C%B6%EF%B8%8F12%40proxy_kafee
 vless://c7ccd788-1172-46f2-a749-c1a743da2ef2@104.17.121.71:443?encryption=none&type=xhttp&security=tls&path=%2FTelegram-Zedmodeon&host=faboo.tll-far.ir&mode=auto&sni=faboo.tll-far.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%DB%B1%DA%A9%D9%88%D8%B1%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20proxy_kafee%40
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?alpn=h2&encryption=none&security=tls&sni=cdg-1.fromblancwithlove.com&type=tcp#%F0%9F%A6%8448@oneclickvpnkeys
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?encryption=none&fp=chrome&host=cyylr.eu.cc&path=%2Fsg-melbi&security=tls&sni=cyylr.eu.cc&type=ws#%F0%9F%A6%8436@oneclickvpnkeys
 vless://d78c12c4-6927-40b8-8550-ed9be00334da@162.217.249.72:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=MFedImeNi-4keZx_rkV8WL6jjY6sLncSaXgNjpUBPGo&security=reality&sid=8917bfb9900788d5&sni=nether1cxc.chickenkiller.com&type=tcp#%F0%9F%A6%8420@oneclickvpnkeys
 trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#%40vpnbaz%20%F0%9F%8C%B4
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?encryption=none&type=grpc&mode=gun#@V2raysCollector
 vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?encryption=none&host=cyylr.eu.cc&path=%2Fsg-melbi&security=tls&sni=cyylr.eu.cc&type=ws#%F0%9F%AB%9C73@oneclickvpnkeys
-vless://4e783787-4de7-51de-ae32-01ce7203b838@185.171.202.76:42652?allowInsecure=1&alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=omm.kotlet.org&mode=stream-one&path=%2Fskkwkqknsjejejwj&security=tls&sni=yahoo.com&type=xhttp#%F0%9F%92%9912@oneclickvpnkeys
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=uk1.fromblancwithlove.com#%40proxy_kafee4
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?encryption=none&security=tls&sni=de1.fromblancwithlove.com&type=tcp#v2ray_dalghak
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%20
@@ -498,8 +503,3 @@ trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&ins
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@v2rayngzendegimamad🕊️
 trojan://rQZjCMGZEN@188.114.97.6:443?path=/&security=tls&alpn=h2,http/1.1&host=cloud.magicservice.top&fp=chrome&type=ws&sni=cloud.magicservice.top#@outline_ir
 trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443/?type=tcp&security=tls&sni=172.236.220.10&allowInsecure=1&fp=chrome#🇩🇪 آلمان | https://t.me/FREECONFIGSPLUS ✨
-trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#TEL;Father_vpn
-trojan://telegram-id-directvpn@3.73.163.13:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[69523] - Telegram : @V2All
-trojan://telegram-id-directvpn@3.73.163.13:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪44789 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://telegram-id-directvpn@63.185.173.123:22223?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[69539] - Telegram : @V2All
-trojan://telegram-id-directvpn@63.185.173.123:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[69519] - Telegram : @V2All

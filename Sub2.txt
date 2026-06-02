@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#TEL;Father_vpn
+trojan://telegram-id-directvpn@3.73.163.13:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[69523] - Telegram : @V2All
+trojan://telegram-id-directvpn@3.73.163.13:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪44789 | ⚡️Telegram = t.me/SOSkeyNET
+trojan://telegram-id-directvpn@63.185.173.123:22223?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[69539] - Telegram : @V2All
+trojan://telegram-id-directvpn@63.185.173.123:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[69519] - Telegram : @V2All
 trojan://telegram-id-directvpn@63.185.173.123:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪44792 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://telegram-id-privatevpns@13.39.178.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.205.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
@@ -498,8 +503,3 @@ vless://3ae2fe58-7650-47f7-8759-772a9b8616e9@srv1.21ayar.ir:11000?encryption=non
 vless://3b01a777-55e7-49f6-8637-d94ee69607c6@188.114.97.6:443?path=/id-tksi&security=tls&alpn=h2,h3,http/1.1&encryption=none&insecure=0&host=m.udemy.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=m.udemy.com.cyylr.eu.cc#kurdconfig
 vless://3b01a777-55e7-49f6-8637-d94ee69607c6@188.114.97.6:443?path=/id-tksi&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=m.udemy.com.cyylr.eu.cc&fp=chrome&type=ws&sni=m.udemy.com.cyylr.eu.cc#@hi_proxy_iran :👈کانال تلگرام
 vless://3b01a777-55e7-49f6-8637-d94ee69607c6@188.114.97.6:443?path=/id-tksi&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=m.udemy.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=m.udemy.com.cyylr.eu.cc#@icv2ray
-vless://3b01a777-55e7-49f6-8637-d94ee69607c6@188.114.97.6:443?path=/id-tksi&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=m.udemy.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=m.udemy.com.cyylr.eu.cc#@mehrosaboran
-vless://3b01a777-55e7-49f6-8637-d94ee69607c6@188.114.97.6:443?path=/id-tksi&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=m.udemy.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=m.udemy.com.cyylr.eu.cc#@meliproxyy
-vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@104.16.80.144:2083?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=all-dm1.netsnap.ir.&fp=chrome&type=ws&allowInsecure=0&sni=all-dm1.netsnap.ir.&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
-vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=all-tm1.netsnap.ir.&fp=chrome&type=ws&sni=all-tm1.netsnap.ir.&note=@FreeOnlineVPN#🇹🇷 - TR - @FreeOnlineVPN
-vless://3bbdb4ac-4d52-4f4b-9df3-a67bcee3b62d@5.75.200.142:30915?security=reality&encryption=none&pbk=pevfh90s1njkhxXqlEliTJdXMU5dw6TnlsfVUR8gxmY&headerType=none&fp=chrome&spx=/SBMrU3xeS3pxfSb&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=55cd9ac5#🇩🇪44779 | ⚡️Telegram = t.me/SOSkeyNET

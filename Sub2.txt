@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@104.18.152.179:443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🚀@V2Ray_Hub1200
+trojan://humanity@104.18.152.208:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🕊️Tel: @Proxy_Vpney (5)
 trojan://humanity@104.18.152.219:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🕊️Tel: @Proxy_Vpney (3)
 trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#proxymelimon
 trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#⚡@V2ray_official
@@ -501,5 +503,3 @@ vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?path=/&security=tls
 vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?path=/&security=tls&encryption=none&insecure=0&host=foucse1.goooooooozoooo.sbs&fp=chrome&type=ws&allowInsecure=0&sni=foucse1.goooooooozoooo.sbs#Telegram : @V2ynpv
 vless://26b10d68-fbd3-4320-9ac5-91c7a8be204d@169.40.32.5:80?security=reality&encryption=none&pbk=UmcGXETXGRBPOjchm2HKHHdvhXpn57G-Fd8Skr_0gVs&headerType=none&fp=chrome&spx=/RT0MDHJZ47F5ztE&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=52fd6449#TEL;Father_vpn
 vless://27302727-9dfa-4975-990e-88c7a63747cd@188.114.97.6:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=tc.amoovictor.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=tc.amoovictor.cc.cd#TEL;Father_vpn
-vless://27302727-9dfa-4975-990e-88c7a63747cd@188.114.97.6:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=xv2.irx.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=xv2.irx.cc.cd#چنل عضو شو @v2ra_config
-vless://27302727-9dfa-4975-990e-88c7a63747cd@188.114.97.6:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=tc.amoovictor.cc.cd&fp=chrome&type=ws&allowInsecure=1&sni=tc.amoovictor.cc.cd#@v2raybaaz

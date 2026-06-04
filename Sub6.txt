@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b0f0160f-0d3c-4252-88a1-d10725af131f@213.142.133.4:1212?security=none&encryption=none&headerType=http&type=tcp#TEL;FATHER_VPN¹⁴
+vless://b1620800-d06d-4a6f-a07f-e610eb3217b6@v2ngfast-v2ngfast-v2ngfast-v2ngfast.wenet91172.workers.dev:443?path=ws&security=tls&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wenet91172.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.wenet91172.workers.dev#5 🇩🇪 @V2ngFast
 vless://b19f805e-7c05-40e3-9156-2a282214ec2e@v2ngfast-v2ngfast-v2ngfast-v2ngfast.honexe3853.workers.dev:443?path=ws&security=tls&encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.honexe3853.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.honexe3853.workers.dev#2 🇩🇪 @V2ngFast
 vless://b1a0ca85-93ec-4bcb-a6cc-dad52fda897f@:80?encryption=none&security=none&type=xhttp&host=&path=/&mode=auto#@GRIZZLYVPN
 vless://b285bdf6-8972-45a2-c37c-405379f8b458@iran.overdoes.site:15320?type=tcp&path=/&host=zula.ir&headerType=http#OverdoseVPN 🇩🇪-9ne0ah23l
@@ -501,5 +503,3 @@ vless://f17874f4-43c7-4040-9a41-1b05e58950cb@1.qpworld.shop:31218?path=/&securit
 vless://f1eb7fed-bc91-4285-9e7f-23d941a0204a@www.speedtest.net:443?mode=gun&security=tls&alpn=h3,h2,http/1.1&encryption=none&authority=&fp=chrome&type=grpc&serviceName=@ConfigTell,@ConfigTell,@ConfigTell&sni=www.felafel.org#@v2rayconfigamir 8282
 vless://f2fcab1d-12b4-415b-9f00-755af2ad34e1@104.236.12.64:8080?
 vless://f2fcab1d-12b4-415b-9f00-755af2ad34e1@104.236.12.64:8080?security=none&encryption=none&headerType=none&type=tcp#@appsooner کانال تلگرام 🕊️
-vless://f2fcab1d-12b4-415b-9f00-755af2ad34e1@104.236.12.64:8080?security=none&encryption=none&headerType=none&type=tcp#🇺🇸 United States Clifton | ⏱526ms | ⚡469KB/s | @NamazVPN
-vless://f2fcab1d-12b4-415b-9f00-755af2ad34e1@104.236.12.64:8080?security=none&encryption=none&headerType=none&type=tcp#🇺🇸US-🚀@V2Ray_Hub1200

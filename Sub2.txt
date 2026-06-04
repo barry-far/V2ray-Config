@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@45.130.125.0:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&allowInsecure=1#7https://t.me/ConfigX2ray
-trojan://humanity@45.130.125.160:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#@Vibe_Zoone|@MojeVazheh|@Radixvpn|@ForiMarketGp
-trojan://humanity@45.130.125.160:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@Filtershekan_channel |12
-trojan://humanity@45.130.125.160:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&brand=@Arvand_soul#@Arvand_soul ❤️🧑‍💻: کانفیگ ملی در #4
-trojan://humanity@45.130.125.69:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&allowInsecure=1#11https://t.me/ConfigX2ray
-trojan://humanity@45.130.125.76:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@Proxy_Vpney (6)
 trojan://humanity@45.130.125.76:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@RzChanel1
 trojan://humanity@45.130.125.76:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@YekeTarikh
 trojan://humanity@45.130.125.76:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@bored_vpn
@@ -503,3 +497,9 @@ vless://3686e17d-3b01-48e3-bbc2-3ec7d141b815@bLiT2.hAmRaHcOrE.iR:719?path=/api/v
 vless://3686e17d-3b01-48e3-bbc2-3ec7d141b815@blit2.hamrahcore.ir:719?security=none&allowInsecure=0&encryption=none&type=ws&host=play.google.com&path=/api/v2/xtrnwqjbkr?ed=2560#@Netzone_ir
 vless://3686e17d-3b01-48e3-bbc2-3ec7d141b815@web.subster.ir:2083?encryption=none&type=ws&security=tls&path=/?ed=2048&host=chIKArMiKoNi.X-UpLoAd.oRG&sni=chIKArMiKoNi.X-UpLoAd.oRG&allowInsecure=0#@meliproxyy
 vless://36d51eae-04be-473f-9a34-096e2f466826@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#t.me/ConfigFori  -  Config 73730
+vless://36f018b5-c463-44b3-814f-217bfc5c519f@185.143.233.235:80?path=/&security=none&encryption=none&host=tow.pastebali.cam&type=ws#چنل عضو شو @v2ra_config
+vless://3715db1f-e5f1-4e30-beb9-6ebf49925ec2@snapp.ir:80?path=/&security=none&encryption=none&host=dl1-farsi.persianmusics.site&type=ws#V2rayng_Fast
+vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@185.221.199.37:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=reality&sni=vruaz.mostserv.xyz&fp=chrome&flow=xtls-rprx-vision&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d#🔵@chillguy_vpn
+vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@185.221.199.37:443?security=reality&encryption=none&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vruaz.mostserv.xyz&sid=226509f017e4c36d#@iguanaVPN
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?Telegram=@armindone,@armindone,@armindone,@armindone&encryption=none&host=beichuan.serv00.net&path=/&security=none&type=ws#@armindone👈چنل تلگراممون
+vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&host=support.zoom.us.beichuan.serv00.net&path=/&security=none&type=ws#🫑80@oneclickvpnkeys

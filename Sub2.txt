@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://VPTFm=oZ++SuNT+jMRqGZqrAnWq-r8KJyY@172.104.237.100:443?security=tls&sni=172.104.237.100&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#hope of freedom - @anotherme_night
 trojan://Vpn_Shield@104.19.229.21:443?type=xhttp&security=tls&path=/&host=sell.sigikala.site&sni=sell.sigikala.site&alpn=h2,http/1.1&fp=chrome&allowInsecure=1#@v2ray_configs_pools
 trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click&fp=chrome&type=tcp#@VPsave
 trojan://YixjMjqjIImF14EzoPNV5LXE@185.255.95.247:23161?path=/ws&security=none&host=185.255.95.247&type=ws#Kurdconfig
@@ -502,4 +503,3 @@ vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@ip.hamrahto.com:443?path=/&security
 vless://160909d1-9d69-4bc2-b15a-33ff13c9b150@s5.fastspeeds.ir:443?path=/&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#Telegram : @V2ynpv
 vless://167a1892-1236-4355-92d5-97ee09256e09@mrsibil.ezgateway.net:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=mrsibil.ezgateway.net#@appsooner کانال تلگرام 🕊️
 vless://167a1892-1236-4355-92d5-97ee09256e09@mrsibil.ezgateway.net:80/?type=tcp&encryption=none&flow=&security=tls&sni=mrsibil.ezgateway.net&alpn=h2,http/1.1&fp=chrome#🖲️53@oneclickvpnkeys
-vless://167a1892-1236-4355-92d5-97ee09256e09@mrsibil.ezgateway.net:80?encryption=none&type=tcp&security=tls&headerType=none&sni=mrsibil.ezgateway.net&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#@meliproxyy

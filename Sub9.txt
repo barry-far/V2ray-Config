@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@fit.jojack.ru:443?security=reality&encryption=none&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fit.jojack.ru&sid=f8865ecbb9bc11a3#IR-@V2rayAlpha-15
+vless://fede9d06-7ba2-45ee-8ca1-b2f45be05dca@185.16.110.117:2052?security=none&type=httpupgrade&host=7.V.V2.www.speedtest.net.fh.cloudflare.com.Sepahan-Esfahan.dE&path=/#@v2reya88 | @confinghub2
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.1.252:443?path=/&security=tls&encryption=none&insecure=1&host=dev.nestandneighbours.com&type=ws&allowInsecure=1&sni=dev.nestandneighbours.com#IR-@V2rayAlpha-13
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@CUSTOMVPNSERVER
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@KAFING_2
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@KAFING_2
@@ -500,6 +503,3 @@ trojan://humanity@sourceforge.net:443?allowInsecure=1&alpn=http%2F1.1&host=www.c
 trojan://humanity@141.101.90.101:443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=ios&type=ws&allowInsecure=1&sni=www.ignitelimit.com#%3E%3E%40configV2rayNG%3A%3AFR
 trojan://humanity@www.calmlunch.com:443?allowInsecure=1&fp=chrome&host=www.calmlunch.com&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@v3.dabache.top:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@162.159.17.189:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
-trojan://humanity@165.215.250.14:443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR

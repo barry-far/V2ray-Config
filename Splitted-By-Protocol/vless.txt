@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://42026ed0-7d74-4585-8e46-0fe6aa4d665a@104.18.155.229:443?path=%2Fau-do&security=tls&encryption=none&insecure=1&host=www.genflix.co.id.r3xxe.eu.cc&type=ws&allowInsecure=1&sni=www.genflix.co.id.r3xxe.eu.cc#%40HajmVPN_Config%20%E2%9A%A1
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443?security=tls&encryption=none&insecure=0&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#Free%20100%20%40Outline_Vpn
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443?encryption=none&fp=chrome&security=tls&sni=cdn7-39.vk-cdnvideo.com&type=tcp#1%F0%9F%96%B2%EF%B8%8F@oneclickvpnkeys
@@ -21,7 +22,6 @@ vless://4e783787-4de7-51de-ae32-01ce7203b838@185.171.202.76:42652?mode=stream-on
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.myfymain.com:8880?encryption=none&type=grpc&mode=gun#@V2raysCollector
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca12.myfymain.com:8880?encryption=none&security=none&type=grpc#
 vless://4e783787-4de7-51de-ae32-01ce7203b838@185.171.202.76:42652?allowInsecure=1&alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=omm.kotlet.org&mode=stream-one&path=%2Fskkwkqknsjejejwj&security=tls&sni=yahoo.com&type=xhttp#%F0%9F%92%9912@oneclickvpnkeys
-vless://c931f737-cafe-4e4f-998a-a65517941256@node-fi.dostup-est.info:8443?security=reality&encryption=none&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=88ce6b586fcaf681#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?encryption=none&security=tls&sni=de1.fromblancwithlove.com&type=tcp#v2ray_dalghak
 vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=hkg1.fromblancwithlove.com&type=tcp#%F0%9F%90%8D98@oneclickvpnkeys
 vless://002b3ece-bb23-47f0-bdd8-62fed7311540@45.77.64.108:38723?security=reality&encryption=none&pbk=fjVkBw3GtFj_P4rcY8Su2MCtY4YE5Obkrr9wfbCt0G8&headerType=none&fp=chrome&spx=/usMsalV4yJscE1E&allowinsecure=0&type=tcp&sni=aws.amazon.com&sid=56165b6906#SafeV2ray🇩🇪🍌🍌

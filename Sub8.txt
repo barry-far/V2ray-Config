@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@45.130.125.0:443?path=/sg-orcl&security=tls&encryption=none&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&sni=ads.ruangguru.com.cyylr.eu.cc#🛸@V2ray_official
+vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@45.130.125.0:443?path=/sg-orcl&security=tls&encryption=none&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#@VPsave
+vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@45.130.125.0:443?path=/sg-orcl&security=tls&encryption=none&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#TEL:Father_vpn
 vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@45.130.125.0:443?path=/sg-orcl&security=tls&encryption=none&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#🇩🇪@FreakConfig
 vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@45.130.125.0:443?path=/sg-orcl&security=tls&encryption=none&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#🇩🇪@V2rayng_Fast
 vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@45.130.125.0:443?path=/sg-orcl&security=tls&encryption=none&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc&brand=@Arvand_soul#@Arvand_soul @Arvand_soul ❤️🧑‍💻: کانفیگ ملی در
@@ -500,6 +503,3 @@ vless://fdab366a-367e-4996-ae05-aebd594f92dc@151.101.108.223:443?path=/&security
 vless://fe648983-f4c9-4590-8495-e89d45e056c5@uwu.blueknightnet.qzz.io:8443?mode=auto&path=/api-v1&security=tls&alpn=h2&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=uwu.blueknightnet.qzz.io&fp=chrome&type=xhttp&sni=uwu.blueknightnet.qzz.io#🔵@chillguy_vpn
 vless://fe648983-f4c9-4590-8495-e89d45e056c5@uwu.blueknightnet.qzz.io:8443?mode=auto&path=/api-v1&security=tls&alpn=h2&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&insecure=0&host=uwu.blueknightnet.qzz.io&fp=chrome&type=xhttp&allowInsecure=0&sni=uwu.blueknightnet.qzz.io#🔵@chillguy_vpn
 vless://feade342-9a00-427e-b049-752a4e584ba5@85.133.161.168:443?security=none&encryption=none&host=fsn.bestlive.ir&headerType=http&type=tcp#@v2rayngzendegimamad🕊️
-vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@fit.jojack.ru:443?security=reality&encryption=none&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fit.jojack.ru&sid=f8865ecbb9bc11a3#IR-@V2rayAlpha-15
-vless://fede9d06-7ba2-45ee-8ca1-b2f45be05dca@185.16.110.117:2052?security=none&type=httpupgrade&host=7.V.V2.www.speedtest.net.fh.cloudflare.com.Sepahan-Esfahan.dE&path=/#@v2reya88 | @confinghub2
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.1.252:443?path=/&security=tls&encryption=none&insecure=1&host=dev.nestandneighbours.com&type=ws&allowInsecure=1&sni=dev.nestandneighbours.com#IR-@V2rayAlpha-13

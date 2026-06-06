@@ -3,8 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@45.130.125.160:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=0#
 trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
-trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&fp=random&insecure=1&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#%40V2raysCollector%20%F0%9F%A4%94
+trojan://humanity@185.18.250.245:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%F0%9F%90%BB70@oneclickvpnkeys
+trojan://humanity@185.18.250.245:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=random&allowInsecure=1#%40V2raysCollector%20%F0%9F%92%96
 trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
 trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#🇭🇰 HK
@@ -572,27 +574,28 @@ trojan://ppmk@104.18.32.47:8443?allowInsecure=1&alpn=http%252F1.1&ed=2560&eh=Sec
 trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?allowInsecure=0&sni=www.homelywebs.click#%3E%3E%40v2nodes%3A%3AXX
 trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ADE
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443#%3E%3E%40oneclickvpnkeys%3A%3ADE
-trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?security=tls&sni=172.237.145.189#%F0%9F%87%BA%F0%9F%87%B8US-172.237.145.189-0132
-trojan://rXyShM8Jni+5Sbq3k4gkyr5Lq0zOMRL2Uf@45.79.8.17:443?security=tls&sni=45.79.8.17#%F0%9F%87%BA%F0%9F%87%B8US-45.79.8.17-0131
-trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&sni=172.235.63.252#%F0%9F%87%BA%F0%9F%87%B8US-172.235.63.252-0094
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&sni=de-1.hysteria.ltd#%F0%9F%87%A9%F0%9F%87%AADE-94.103.173.70-0161
-trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click#%F0%9F%87%AB%F0%9F%87%B7FR-217.69.2.107-0165
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-64.176.65.85-0168
-trojan://E_hUHrn0+6VeZO=v9=fLgoPDXZWGfcrejg@172.238.19.11:443?security=tls&sni=172.238.19.11#%F0%9F%87%AF%F0%9F%87%B5JP-172.238.19.11-0164
-trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?security=tls&sni=www.sandbox-cloud.click#%F0%9F%87%AE%F0%9F%87%B3IN-65.20.90.225-0178
-trojan://l64tlWoGT6USQr%3D3WnjWedzvVSHXn8TNTE@130.94.68.100:443?security=tls&sni=www.rolll.click#%F0%9F%87%B2%F0%9F%87%BEMY-130.94.68.100-0173
-trojan://lTs6OZOMoqYAkDEbK10t-tE8KMjuREBW3m@130.94.104.210:443?security=tls&sni=www.cdn-structure.click#%F0%9F%87%A8%F0%9F%87%B1CL-130.94.104.210-0171
-trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&sni=www.directorypipeline.click#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.254-0739
-trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&sni=172.236.220.10#%F0%9F%87%A9%F0%9F%87%AADE-172.236.220.10-0187
-trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?security=tls&sni=www.homelywebs.click#%F0%9F%87%A9%F0%9F%87%AADE-91.233.8.138-0492
-trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-172.238.120.124-0188
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#%F0%9F%87%A8%F0%9F%87%BFCZ-46.8.113.142-0182
-trojan://s.wRSE4ANZp4=4h.=B_9Qbetw6XUc0V1SV@130.94.107.171:443?security=tls&sni=www.logger-guard.click#%F0%9F%87%A6%F0%9F%87%B7AR-130.94.107.171-0183
-trojan://Z3_=ewk_+l1U4OT4usQ5=o2vFfk95yfy1V@130.94.97.11:443?security=tls&sni=www.selectnet.click#%F0%9F%87%AE%F0%9F%87%B6IQ-130.94.97.11-0177
-trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?security=tls&sni=yazhou10.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW-211.76.176.98-0200
-trojan://7b561e94-42f3-4f92-979c-4cf97c328025@azhk.ziqiyun.xyz:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-103.224.182.214-0082
-trojan://7b561e94-42f3-4f92-979c-4cf97c328025@azrb.ziqiyun.xyz:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-103.224.182.214-0081
-trojan://7b561e94-42f3-4f92-979c-4cf97c328025@shs.ziqiyun.xyz:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-103.224.182.214-0066
-trojan://7b561e94-42f3-4f92-979c-4cf97c328025@xjp.ziqiyun.xyz:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-103.224.182.214-0052
+trojan://rXyShM8Jni+5Sbq3k4gkyr5Lq0zOMRL2Uf@45.79.8.17:443?security=tls&sni=45.79.8.17#%F0%9F%87%BA%F0%9F%87%B8US-45.79.8.17-0071
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&sni=de-1.hysteria.ltd#%F0%9F%87%A9%F0%9F%87%AADE-94.103.173.70-0120
+trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click#%F0%9F%87%AB%F0%9F%87%B7FR-217.69.2.107-0121
+trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?security=tls&sni=172.237.145.189#%F0%9F%87%BA%F0%9F%87%B8US-172.237.145.189-0149
+trojan://E_hUHrn0+6VeZO=v9=fLgoPDXZWGfcrejg@172.238.19.11:443?security=tls&sni=172.238.19.11#%F0%9F%87%AF%F0%9F%87%B5JP-172.238.19.11-0117
+trojan://Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg@65.20.90.225:443?security=tls&sni=www.sandbox-cloud.click#%F0%9F%87%AE%F0%9F%87%B3IN-65.20.90.225-0131
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&sni=www.directorypipeline.click#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.254-0141
+trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&sni=fra34.tracker-ws.click#%F0%9F%87%A9%F0%9F%87%AADE-91.233.8.25-0465
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-172.238.120.124-0139
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&sni=172.236.220.10#%F0%9F%87%A9%F0%9F%87%AADE-172.236.220.10-0138
+trojan://lTs6OZOMoqYAkDEbK10t-tE8KMjuREBW3m@130.94.104.210:443?security=tls&sni=www.cdn-structure.click#%F0%9F%87%A8%F0%9F%87%B1CL-130.94.104.210-0125
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#%F0%9F%87%A8%F0%9F%87%BFCZ-46.8.113.142-0135
+trojan://l64tlWoGT6USQr%3D3WnjWedzvVSHXn8TNTE@130.94.68.100:443?security=tls&sni=www.rolll.click#%F0%9F%87%B2%F0%9F%87%BEMY-130.94.68.100-0126
+trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&sni=172.235.63.252#%F0%9F%87%BA%F0%9F%87%B8US-172.235.63.252-0134
+trojan://Z3_=ewk_+l1U4OT4usQ5=o2vFfk95yfy1V@130.94.97.11:443?security=tls&sni=www.selectnet.click#%F0%9F%87%AE%F0%9F%87%B6IQ-130.94.97.11-0132
+trojan://s.wRSE4ANZp4=4h.=B_9Qbetw6XUc0V1SV@130.94.107.171:443?security=tls&sni=www.logger-guard.click#%F0%9F%87%A6%F0%9F%87%B7AR-130.94.107.171-0144
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-64.176.65.85-0123
+trojan://7b561e94-42f3-4f92-979c-4cf97c328025@azhk.ziqiyun.xyz:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-103.224.182.214-0197
+trojan://7b561e94-42f3-4f92-979c-4cf97c328025@azrb.ziqiyun.xyz:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-103.224.182.214-0198
+trojan://7b561e94-42f3-4f92-979c-4cf97c328025@shs.ziqiyun.xyz:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-103.224.182.214-0208
+trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?security=tls&sni=yazhou10.dynu.net#%F0%9F%87%B9%F0%9F%87%BCTW-211.76.176.98-0212
+trojan://9c289eb1-59b1-49ff-9c80-9a3c879c654e@527hk5.fans8.xyz:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-0240
+trojan://a09dd8f9-564f-40bc-9ae6-e30ce742cfe2@hk64.fans8.xyz:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-0042
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#@v2reya88
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@52.77.224.71:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=dxy1h.twiladaphne.ndjp.net&fp=chrome&sni=dxy1h.twiladaphne.ndjp.net&path=%2Fproxyip%3D104.168.132.123%2C172.104.53.198%2C85.121.50.16%2C151.242.125.226&encryption=none#@v2reya88

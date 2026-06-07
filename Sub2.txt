@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=de-1.hysteria.ltd#V2dogs_n
-trojan://Masir_Sefid@195.15.253.91:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/aRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#@meliproxyy
-trojan://Masir_Sefid@195.15.253.91:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/aRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#🇨🇭54279 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://Masir_Sefid@195.15.253.91:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/W8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70#@meliproxyy
-trojan://Masir_Sefid@195.15.253.91:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/W8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70#🇨🇭54280 | ⚡️Telegram = t.me/SOSkeyNET
 trojan://Masir_Sefid@195.15.253.91:2083?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/ChZzHJgLH1mdM6A&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#@meliproxyy
 trojan://Masir_Sefid@195.15.253.91:2083?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/ChZzHJgLH1mdM6A&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#telegram @mtmvpn 33
 trojan://Masir_Sefid@195.15.253.91:2083?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/ChZzHJgLH1mdM6A&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#🇨🇭54281 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +498,8 @@ vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=/vle
 vless://0908c075-ce73-4b4c-8e87-2171682b3989@forallpanel.srtongston.ir:2052?path=/&security=none&encryption=none&host=abol2.srtongston.ir&type=httpupgrade#@v2raybaaz
 vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=365c07ed#@v2rayngzendegimamad🕊️
 vless://09ea0947-06f4-42df-9ea6-d1727a79a240@185.143.235.253:2095?path=/TV&security=&encryption=none&host=eLaHiToKoMaKkOn.aRvHaMrAh.iR&type=ws#@on_proxy1
+vless://09ea0947-06f4-42df-9ea6-d1727a79a240@blit111.hamrahcore.ir:719?path=/api/v2/xtrnwqjbkr?ed=2560&security=none&encryption=none&host=play.google.com&type=ws#@hi_proxy_iran :👈کانال تلگرام
+vless://09ea0947-06f4-42df-9ea6-d1727a79a240@blit111.hamrahcore.ir:719?path=/api/v2/xtrnwqjbkr?ed=2560&security=none&encryption=none&host=play.google.com&type=ws#@meliproxyy
+vless://0a2f8145-290f-4848-a011-3d1e5fe62a14@45.130.125.160:443?path=/?ed=80&security=tls&encryption=none&insecure=0&host=ssj.new-persian-song.ir&fp=chrome&type=ws&allowInsecure=0&sni=ssj.new-persian-song.ir#@V2dogs_n
+vless://0a2f8145-290f-4848-a011-3d1e5fe62a14@45.130.125.160:443?path=/?ed=80&security=tls&encryption=none&insecure=0&host=ssj.new-persian-song.ir&fp=chrome&type=ws&allowInsecure=0&sni=ssj.new-persian-song.ir#@tootffarangi🍓⁴
+vless://0a2f8145-290f-4848-a011-3d1e5fe62a14@45.130.125.162:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&insecure=0&host=vi.mojaz-persian-music.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=vi.mojaz-persian-music.ir#@Morrfinchnl

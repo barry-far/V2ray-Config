@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/index.html&sni=ve52.pages.dev&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#@filembad
-vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/index.html&sni=ve52.pages.dev&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#[73669] - Telegram : @V2All
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/index.html&sni=ve52.pages.dev&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#🇨🇦55256 | ⚡️Telegram = t.me/SOSkeyNET
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/index.html&sni=ve52.pages.dev&allowInsecure=0&ech=ip.gs+udp://8.8.8.8#🔵@chillguy_vpn
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?encryption=none&type=ws&security=tls&path=/index.html&sni=vrnt4.pages.dev&allowInsecure=0&ech=54.mk+udp://8.8.8.8#2https://t.me/ConfigX2ray
@@ -503,3 +501,5 @@ vless://3cc28977-5eff-42b7-bc6f-d29da5c2192d@digi.ahourapv.ir:7443?path=/&securi
 vless://3cc28977-5eff-42b7-bc6f-d29da5c2192d@digi.ahourapv.ir:7443?path=/&security=tls&alpn=h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.cdonH5KGuB-CiOPUiu0PWiMu892SNmn8nZ2FCJsEE1k&insecure=0&host=digi.ahourapv.ir&fp=chrome&type=ws&allowInsecure=0&sni=digi.ahourapv.ir#kurdconfig
 vless://3ccf9767-6648-4efa-b13c-1cdef021c371@5.75.196.174:20141?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&security=reality&sid=14&sni=arvancloud.ir&spx=/fuyDxo1D1hIDYFH&type=tcp#🇩🇪55217 | ⚡️Telegram = t.me/SOSkeyNET
 vless://3ccf9767-6648-4efa-b13c-1cdef021c371@5.75.196.174:20141?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&security=reality&sid=14&sni=arvancloud.ir&spx=/fuyDxo1D1hIDYFH&type=tcp#🇩🇪DE-🚀@VPNine1
+vless://3ccf9767-6648-4efa-b13c-1cdef021c371@5.75.196.174:20141?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&security=reality&sid=14&sni=arvancloud.ir&spx=/fuyDxo1D1hIDYFH&type=tcp#🔵@chillguy_vpn
+vless://3ccf9767-6648-4efa-b13c-1cdef021c371@5.75.196.174:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&security=reality&sid=1e012324864f4510&sni=www.cloudflare.com&spx=/o5jPxkupmgmbjQ4&type=tcp#🇩🇪55218 | ⚡️Telegram = t.me/SOSkeyNET

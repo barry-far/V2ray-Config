@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c24a32f1-b645-47da-98a3-1e7c713229c1@104.18.12.149:8880?path=/api&security=none&encryption=none&host=armenia.chatgpt.com.siasia.ir&type=httpupgrade#Armenia(@proSSH)
-vless://c2938682-20c2-4eda-b4ac-c863483cf351@arvancloud.ir:8880?encryption=none&security=none&type=ws&host=wt.programming-coding.ir&path=/#V2RFA
 vless://c2c301e9-a9db-4d91-9c7b-ff8935aeb4e1@92.243.74.4:8443?encryption=none&security=tls&sni=ioioioi.pages.dev&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=ioioioi.pages.dev&path=/?ed=2560#telegram:@FVPNProxy
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.147.236:443?path=/udfyfws&security=tls&encryption=none&host=octopusss5.info&fp=chrome&type=ws&sni=octopusss5.info#@HiByeVPNN ❤️‍🔥🧧🔥 72
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443?path=/udfyfws&security=tls&encryption=none&host=octopusss5.info&fp=chrome&type=ws&sni=octopusss5.info#@HiByeVPNN ❤️‍🔥🧧🔥 33
@@ -503,3 +501,5 @@ vless://f10146c9-d58d-4d82-b4b9-6e4746f6e11b@104.25.218.198:443?path=/eyJqdW5rIj
 vless://f10146c9-d58d-4d82-b4b9-6e4746f6e11b@172.67.238.69:443?path=/eyJqdW5rIjoiTUVIdDFZcFJTMGlVaW8iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=green-wood-9abc.dayoos2000.workers.dev&fp=chrome&type=ws&sni=GReEN-wooD-9Abc.DAYoOs2000.woRKers.dEv#⚡@V2ray_official
 vless://f112ad3b-9c4c-4f76-b1a9-12ed9dd7e63c@91.107.183.8:843?security=none&encryption=none&headerType=none&type=tcp#Telegram : @V2ynpv
 vless://f1408962-8163-4718-a293-200fe7ca1ef4@snapp.ir:2052?path=/&security=&encryption=none&host=b4.aptudp.ir&type=ws#@vmesskhodam
+vless://f2083aa4-f27d-43da-81cf-8bab31730400@cdn.tzpro.xyz:80?security=none&allowInsecure=0&encryption=none&type=ws&host=germany.vipserver14.workers.dev&path=/?ed=2048#🇩🇪 CxrolVPN
+vless://f2083aa4-f27d-43da-81cf-8bab317304c0@cdn.tzpro.xyz:80?security=none&allowInsecure=0&encryption=none&type=ws&host=germany.vipserver14.workers.dev&path=/?ed=2048#🇩🇪 CxrolVPN

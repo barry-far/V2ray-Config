@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3ccf9767-6648-4efa-b13c-1cdef021c371@5.75.196.174:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&security=reality&sid=1e012324864f4510&sni=www.cloudflare.com&spx=/o5jPxkupmgmbjQ4&type=tcp#🇩🇪DE-🚀@VPNine1
-vless://3ccf9767-6648-4efa-b13c-1cdef021c371@5.75.196.174:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&security=reality&sid=1e012324864f4510&sni=www.cloudflare.com&spx=/o5jPxkupmgmbjQ4&type=tcp#🔵@chillguy_vpn
 vless://3ccf9767-6648-4efa-b13c-1cdef021c371@5.75.196.174:443?security=reality&encryption=none&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&headerType=none&fp=chrome&spx=/o5jPxkupmgmbjQ4&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=1e012324864f4510#🔵@chillguy_vpn
 vless://3ccf9767-6648-4efa-b13c-1cdef021c371@5.75.196.174:8080?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&security=reality&sid=8fa9&sni=www.cloudflare.com&spx=/ahUXOMz6VtL0iNm&type=tcp#🇩🇪55216 | ⚡️Telegram = t.me/SOSkeyNET
 vless://3ccf9767-6648-4efa-b13c-1cdef021c371@5.75.196.174:8080?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&security=reality&sid=8fa9&sni=www.cloudflare.com&spx=/ahUXOMz6VtL0iNm&type=tcp#🇩🇪DE-🚀@VPNine1
@@ -503,3 +501,5 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&se
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&allowInsecure=1&type=ws&host=sni.jpmj.dev&path=/#@GrizzlyVPN
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2=#@SheriffNet
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:8443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳+@WangCai2#@SheriffNet
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:8443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=1&allowInsecure=1&type=ws&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳+@APPXA#@SheriffNet
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.101.139:443?host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&security=tls&sni=sni.111000.dynv6.net&type=ws#🇨🇦55275 | ⚡️Telegram = t.me/SOSkeyNET

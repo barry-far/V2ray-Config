@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?path=/fflsws&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=lmn1701789842450.lmn66.sbs&amp%3Btype=ws&amp%3Bsni=wrk1701790178919.lmn66.sbs#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40goldenshiinevpn%20%231
-vless://a2dadb95-3f15-4e1c-b517-0b54c336a5fd@104.21.12.150:8443?path=/%3Fed%3D2048&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Bhost=nl57.vlessx.us&amp%3Bfp=chrome&amp%3Btype=ws&amp%3Bsni=nl57.Vlessx.us#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40goldenshiinevpn%20%232
 vless://001bb217-4cf2-4b8a-b48d-b80ac72b116a@v2proxy.v2p.top:443?type=tcp&amp%3Bpath=/&amp%3Bhost=speedtest.net&amp%3BheaderType=http&amp%3Bsecurity=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40goldenvpn_v2rayy%20%231
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&amp%3Bsecurity=tls&amp%3Bsni=sni.jpmj.dev&amp%3Binsecure=1&amp%3BallowInsecure=1&amp%3Btype=ws&amp%3Bhost=sni.jpmj.dev&amp%3Bpath=/#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40grizzlyvpn%20%231
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.225:443?security=tls&amp%3Bsni=js.ylks01.eu.org&amp%3Btype=ws&amp%3Bpath=/blue#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20%40hope_net%20%231
@@ -503,3 +501,5 @@ vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.64.32.75:443?encryption=none&ho
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@173.245.58.75:443?encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@185.18.250.245:443?encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@185.18.250.252:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.3:443?encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFI
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?path=%2Ftsghdws&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#%3E%3E%40V2rayNG3%3A%3AFI

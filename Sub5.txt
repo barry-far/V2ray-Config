@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://68de0a0f-25bc-4fd4-ba78-183a1b80495e@188.95.12.110:8080?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,&mode=multi&security=tls& encryption=none&path=/?ed=2048&security=none&encryption=none&host=wazd.bot2.ir&type=ws#🇩🇪@V2RAYNGRAISI | All1
 vless://696915f2-5ad4-452b-987c-d83d29d0503a@185.191.118.33:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&security=reality&sid=89c7866901c21bce&sni=de.moktana.app&type=tcp#🫒10@oneclickvpnkeys
 vless://696915f2-5ad4-452b-987c-d83d29d0503a@185.191.118.33:443?security=reality&encryption=none&pbk=JZppw-ux1-GsHY6eN1B-sFcVjXNVvb1D6-qKBKCrxAo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.moktana.app&sid=89c7866901c21bce#TEL;Father_vpn
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@213.176.77.65:443?security=reality&encryption=none&pbk=1kAsEwUWwatnjpeQ2qUwHSccFucFOKzXVICm9tC0eWA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=25425ff6fa#@v2raybaaz ⁵
@@ -502,4 +503,3 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca23.myfymain.com:8880?mode=gun&se
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca23.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#Irancell @MoOon_proxy
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca23.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#kurdconfig
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca23.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#برای اتصال دائمی جوین شو🏵 TelegramID ⌲Express_freevpn 🪩
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?encryption=none&security=none&type=grpc#✅  @vistav2ray  👈👈کانال ما ✅

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#@brayirani •☕ | عضو شید قطع نشید.
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=/de&security=tls&encryption=none&insecure=1&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=1&sni=de.xn--q9jyb4c.online#@free_conf_iran 👈 کانفیگ بیشتر
 vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@45.130.125.160:443?mode=stream-one&path=/de&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=de.lezzatzone.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#@ai_duet تنهانت
 vless://407f838f-5fae-47b4-81eb-ec6af7da480e@57.128.174.124:8443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1#@v2FreeHub 🇬🇧
@@ -502,4 +503,3 @@ vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tl
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#⚡Telegram =@CUSTOMVPNSERVER
 vless://68de0a0f-25bc-4fd4-ba78-183a1b80495e@188.95.12.110:8080?path=/?ed=2048&security=none&encryption=none&host=wazd.bot2.ir&type=ws#✔︎𝐜𝐡
 vless://68de0a0f-25bc-4fd4-ba78-183a1b80495e@188.95.12.110:8080?path=/?ed=2048&security=none&encryption=none&host=wazd.bot2.ir&type=ws#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@V2rayng_vpn403
-vless://68de0a0f-25bc-4fd4-ba78-183a1b80495e@188.95.12.110:8080?type=grpc&serviceName=@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,@V2RAYNGRAISI,&mode=multi&security=tls& encryption=none&path=/?ed=2048&security=none&encryption=none&host=wazd.bot2.ir&type=ws#🇩🇪@V2RAYNGRAISI | All1

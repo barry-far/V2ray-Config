@@ -24,15 +24,14 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.myfymain.com:8880?mode=gun&se
 vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdg-1.fromblancwithlove.com&allowInsecure=0#%40v2raybaaz%20%283%29
 vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?alpn=h2&encryption=none&security=tls&sni=cdg-1.fromblancwithlove.com&type=tcp#%F0%9F%A6%8448@oneclickvpnkeys
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca12.myfymain.com:8880?encryption=none&security=none&type=grpc#
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?flow=xtls-rprx-vision&security=tls&allowInsecure=0&encryption=none&type=tcp&sni=r1.mizulina.top&fp=chrome&headerType=none#Russia
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?encryption=none&security=tls&sni=de1.fromblancwithlove.com&type=tcp#v2ray_dalghak
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#v2ray_dalghak
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080?type=tcp#%40V2raysCollector%20%E2%98%83%EF%B8%8F
 trojan://humanity@185.18.250.252:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%40V2raysCollector%20%F0%9F%A9%B5
-trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
 trojan://humanity@185.18.250.252:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%9F%A2%20telegram%3A%20%40tajrobe_wiki%20%F0%9F%9F%A2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#United+Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#United+Kingdom
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#美国2
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#新加坡1
 hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP
@@ -503,3 +502,4 @@ trojan://SoftNetConnect@213.165.45.15:443?type=xhttp&security=reality&path=/&mod
 trojan://SoftNetConnect@213.165.45.15:8443?security=reality&pbk=is6qOkhScQVyCdEAAfj2tqa_VLSLOEkVn2-D8ogWxBc&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=d6d0ee80cb096d21#@outline_ir
 trojan://SoftNetConnect@213.165.45.15:8443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=is6qOkhScQVyCdEAAfj2tqa_VLSLOEkVn2-D8ogWxBc&sid=d6d0ee80cb096d21&spx=/#@configdunii ( 6️⃣USA
 trojan://SoftNetConnect@37.27.186.225:8443?mode=auto&path=/&security=reality&extra={"xPaddingBytes":"100-1000"}&pbk=DJahVHFtcuTNluFrRVx-QZjtaiSMvW9XB73Yv3b2cSI&fp=chrome&spx=/&type=xhttp&sni=www.icloud.com&sid=e7#🛸@V2ray_official
+trojan://SoftNetConnect@46.62.201.63:8443?mode=auto&path=/&security=reality&pbk=zlby5WkWr3w-PJrnYt3yR3dYZr2XFhhskipKhXiAvwk&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=d1fa730272a126f8#@Vibe_Zoone|@MojeVazheh|@Radixvpn|@ForiMarketGp

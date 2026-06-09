@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://15346966-0f7f-464b-b0fc-d66a6444ccb2@95.38.165.210:6161?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@internet_azad_2026
-vless://15346966-0f7f-464b-b0fc-d66a6444ccb2@95.38.165.210:6161?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇮🇷IR-🚀@V2Ray_Hub1200
 vless://15346966-0f7f-464b-b0fc-d66a6444ccb2@95.38.165.210:6161?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇮🇷IR-🚀@VPNine1
 vless://156c3200-265d-4257-9fa1-45a0fd1dfcb0@varzesh3.com:80?path=/ws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#t.me/ConfigFori  -  Config 73740
 vless://158d03db-e5d7-4540-a31c-b2daa7aa4964@vpnv1.aspidnet.xyz:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#🇰🇿 @rayhub_ir 0608-23
@@ -503,3 +501,5 @@ vless://42dbb3aa-6670-4948-9d9a-dd8ff17d38bd@cdn8.cloud-vk.com:8443?security=rea
 vless://4311bd3f-4f66-4538-a624-221b87690b2c@188.114.97.6:2087?encryption=none&type=ws&security=tls&path=/fl?ed&host=mjtbknetmkhremge.ordak.qzz.io&sni=mjtbknetmkhremge.ordak.qzz.io&fp=chrome&allowInsecure=0#@meliproxyy
 vless://4311bd3f-4f66-4538-a624-221b87690b2c@188.114.97.6:2087?encryption=none&type=ws&security=tls&path=/fl?ed&host=mjtbknetmkhremge.ordak.qzz.io&sni=mjtbknetmkhremge.ordak.qzz.io&fp=chrome&allowInsecure=0#kurdconfig
 vless://4311bd3f-4f66-4538-a624-221b87690b2c@188.114.97.6:2087?path=/fl?ed=2560&security=tls&encryption=none&host=mjtbknetmkhremge.ordak.qzz.io&fp=chrome&type=ws&sni=mjtbknetmkhremge.ordak.qzz.io#@appsooner کانال تلگرام 🕊️
+vless://4311bd3f-4f66-4538-a624-221b87690b2c@188.114.97.6:2087?path=/fl?ed=2560&security=tls&encryption=none&host=mjtbknetmkhremge.ordak.qzz.io&fp=chrome&type=ws&sni=mjtbknetmkhremge.ordak.qzz.io#@confiig_hub
+vless://4311bd3f-4f66-4538-a624-221b87690b2c@188.114.97.6:2087?path=/fl?ed=2560&security=tls&encryption=none&insecure=0&host=mjtbknetmkhremge.ordak.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=mjtbknetmkhremge.ordak.qzz.io#@icv2ray

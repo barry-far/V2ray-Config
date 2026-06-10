@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://SoftNetConnect@167.233.99.208:2087?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=sKoo23dE1a6b_G1-AimeDX_1mw4ByhGti6a9PxK1xWw&sid=7c&spx=/#@MoOon_proxy [Germany
+trojan://SoftNetConnect@167.233.99.208:2087?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=sKoo23dE1a6b_G1-AimeDX_1mw4ByhGti6a9PxK1xWw&sid=7c&spx=/#🇩🇪DE-🚀@VPNine1
 trojan://SoftNetConnect@167.233.99.208:35311?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2,http/1.1,h3&fp=chrome&allowInsecure=1#@configdunii [Germany
 trojan://SoftNetConnect@167.233.99.208:35311?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2,http/1.1,h3&fp=chrome&allowInsecure=1#🇩🇪DE-🚀@VPNine1
 trojan://SoftNetConnect@167.233.99.208:443?type=xhttp&security=reality&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=nhOVbG_d8gvDrs6ayt-kdjwo2wITTujBH_hbDO5hZnE&sid=7a66d2f9e8805c17&spx=/#@MoOon_proxy [Germany
@@ -501,5 +503,3 @@ vless://10a6b923-e349-4594-92bb-d81a6245aaec@172.67.74.10:443?path=/download.php
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@172.67.74.10:443?path=/download.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#‎🛰️ @nitruStore 56
 vless://11b0ece3-2edd-45f4-84a3-361608d5111b@free.cdn-hio.mom:2082?type=ws&encryption=none&path=/&host=free.cdn-hio.mom&security=none#@Pirimod
 vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?security=reality&encryption=none&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=eab26c4a32#@CUSTOMVPNSERVER
-vless://11ca0eac-aad7-46b0-af44-6208c9514bfa@51.250.31.108:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=MzCnOHWYm3Bgl-VtgDq4sPFVOHG2lEw_KhIH5EXAvEQ#🇷🇺60119 | ⚡️Telegram = t.me/SOSkeyNET
-vless://11ca0eac-aad7-46b0-af44-6208c9514bfa@51.250.31.108:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=MzCnOHWYm3Bgl-VtgDq4sPFVOHG2lEw_KhIH5EXAvEQ#🇷🇺RU-🚀@VPNine1

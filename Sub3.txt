@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&type=ws#🛸@V2ray_official
-vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=365c07ed#@v2rayngzendegimamad🕊️
 vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&security=reality&sid=b9988c11&sni=www.google.com&type=tcp#🪭96@oneclickvpnkeys
 vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?security=reality&encryption=none&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=b9988c11#@FarazV2ray
 vless://0a12381a-e241-4b63-a03c-1a5a45a95977@142.91.98.248:443?flow=xtls-rprx-vision&fp=chrome&pbk=r1Kfa7J4LtBrAluydukevUSBeOo-1DvZJdvZGrWkOQg&security=reality&sid=6dba2e08344e6bf5&sni=sgp.locklance.lol&spx=/&type=tcp#🇸🇬SG-🚀@VPNine1
@@ -503,3 +501,5 @@ vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2053?encryption=none
 vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2053?encryption=none&type=ws&path=/uploads/item&host=linek.perry.us.kg&security=tls&sni=linek.perry.us.kg&fp=chrome#🇩🇴DO-🚀@VPNine1
 vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2083?encryption=none&type=ws&path=/go.php&host=linek.perry.us.kg&security=tls&sni=linek.perry.us.kg&fp=chrome#🇩🇴61996 | ⚡️Telegram = t.me/SOSkeyNET
 vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2083?encryption=none&type=ws&path=/go.php&host=linek.perry.us.kg&security=tls&sni=linek.perry.us.kg&fp=chrome#🇩🇴DO-🚀@VPNine1
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2087?encryption=none&type=ws&path=/playlist/about/jump.php&host=linek.perry.us.kg&security=tls&sni=linek.perry.us.kg&fp=chrome#🇩🇴61998 | ⚡️Telegram = t.me/SOSkeyNET
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@181.36.229.212:2087?encryption=none&type=ws&path=/playlist/about/jump.php&host=linek.perry.us.kg&security=tls&sni=linek.perry.us.kg&fp=chrome#🇩🇴DO-🚀@VPNine1

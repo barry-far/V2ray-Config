@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://SoftNetConnect@167.233.99.208:35311?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2,http/1.1,h3&fp=chrome&allowInsecure=1#@configdunii [Germany
+trojan://SoftNetConnect@167.233.99.208:35311?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2,http/1.1,h3&fp=chrome&allowInsecure=1#🇩🇪DE-🚀@VPNine1
 trojan://SoftNetConnect@167.233.99.208:443?type=xhttp&security=reality&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=nhOVbG_d8gvDrs6ayt-kdjwo2wITTujBH_hbDO5hZnE&sid=7a66d2f9e8805c17&spx=/#@MoOon_proxy [Germany
 trojan://SoftNetConnect@167.233.99.208:443?type=xhttp&security=reality&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=www.yahoo.com&fp=chrome&allowInsecure=1&pbk=nhOVbG_d8gvDrs6ayt-kdjwo2wITTujBH_hbDO5hZnE&sid=7a66d2f9e8805c17&spx=/#🇩🇪DE-🚀@VPNine1
 trojan://SoftNetConnect@167.233.99.208:8443?type=xhttp&security=reality&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=www.icloud.com&fp=chrome&allowInsecure=1&pbk=oEzvYMuSgVTxDOTHFXoj4QZiqhKwvxXvUyxwqj8pCn4&sid=1964f9d1050712a6&spx=/#@BIGAnthony [Germany
@@ -501,5 +503,3 @@ vless://11b0ece3-2edd-45f4-84a3-361608d5111b@free.cdn-hio.mom:2082?type=ws&encry
 vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?security=reality&encryption=none&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=eab26c4a32#@CUSTOMVPNSERVER
 vless://11ca0eac-aad7-46b0-af44-6208c9514bfa@51.250.31.108:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=MzCnOHWYm3Bgl-VtgDq4sPFVOHG2lEw_KhIH5EXAvEQ#🇷🇺60119 | ⚡️Telegram = t.me/SOSkeyNET
 vless://11ca0eac-aad7-46b0-af44-6208c9514bfa@51.250.31.108:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=MzCnOHWYm3Bgl-VtgDq4sPFVOHG2lEw_KhIH5EXAvEQ#🇷🇺RU-🚀@VPNine1
-vless://11e41a32-6672-48a0-b9cb-c8694242ecff@37.139.34.145:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=48fccabc158a4c22#کانفیگ متصل موجود🔥👇🏻@Outline_one_clickbot
-vless://12057eb0-5b11-47ed-b34b-0c8646b99864@104.24.38.200:8080?path=/?ed=2056&security=none&encryption=none&host=xcc.dl5movis.ir&type=httpupgrade#چنل عضو شو @v2ra_config

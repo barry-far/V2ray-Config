@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6fc36cfc-561f-4544-9a0e-7c732c478500@172.64.153.105:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=us.vipserver14.workers.dev&path=/?ed=2048&sni=us.vipserver14.workers.dev&fp=chrome#🇺🇸 CxrolVPN
+vless://6fc36cfc-561f-4544-9a0e-7c732c478501@172.64.153.105:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=us.vipserver14.workers.dev&path=/?ed=2048&sni=us.vipserver14.workers.dev&fp=chrome#🇺🇸 CxrolVPN
 vless://70298879-632b-459d-a664-bda9f5e769e2@104.16.75.210:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=mi-ads.ariyuz.org#@appsooner کانال تلگرام 🕊️
 vless://7069c973-9593-404d-a54c-18529e09a62b@188.114.97.6:2096?path=/&security=tls&encryption=none&insecure=0&host=cdn.nooshindns.com&fp=chrome&type=ws&allowInsecure=0&sni=cdn.nooshindns.com#@vmesskhodam
 vless://7069c973-9593-404d-a54c-18529e09a62b@188.114.97.6:2096?path=/&security=tls&encryption=none&insecure=0&host=cdn.nooshindns.com&fp=chrome&type=ws&allowInsecure=0&sni=cdn.nooshindns.com#🔵@chillguy_vpn
@@ -501,5 +503,3 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.69:8443?encryption=none
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.69:8443?encryption=none&fp=chrome&security=tls&sni=cdn7-39.vk-cdnvideo.com&type=tcp#🪭69@oneclickvpnkeys
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.70:8443?encryption=none&fp=chrome&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#🪭83@oneclickvpnkeys
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.72:8443?encryption=none&fp=chrome&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#3🪭@oneclickvpnkeys
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.73:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#🪭44@oneclickvpnkeys
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.73:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=cdn7-09.vk-cdnvideo.com#@hi_proxy_iran :👈کانال تلگرام

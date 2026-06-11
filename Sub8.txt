@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.2.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#TEL;Father_vpn
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.66.219:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#‎🛰️ @nitruStore 77
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.66.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@FarazV2ray
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.66.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#@VPsave
@@ -502,4 +503,3 @@ vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@bc-at-ph.ray-balance.space:10443?se
 vless://f6c39fd0-e3d7-490e-9a7e-470e9f31bc6e@91.107.175.52:2096?encryption=none&flow=xtls-rprx-vision&fp=&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&security=reality&sid=80ee&sni=www.cloudflare.com&type=tcp#🪬46@oneclickvpnkeys
 vless://f6c39fd0-e3d7-490e-9a7e-470e9f31bc6e@91.107.175.52:2096?encryption=none&flow=xtls-rprx-vision&fp=&pbk=rOoltQhWKsF2PCZV4fIkxxsl7tg6-WUmQWMqJHEF6SM&security=reality&sid=80ee&sni=www.cloudflare.com&type=tcp#🪬46@v2ray_configs_pools
 vless://f76412c3-abdf-4318-baf8-4a1bfa438968@213.108.20.152:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=node-de-frankfurt.neverlock.uk&type=tcp#🥎71@oneclickvpnkeys
-vless://f8176c0d-d608-4f40-992a-1601eddc57b9@141.95.102.240:2053?security=none&encryption=none&headerType=none&type=tcp#@v2raybaaz 🇮🇹

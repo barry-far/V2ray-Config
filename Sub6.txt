@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca22.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@filembad
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca22.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@meliproxyy
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca22.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#☑➜چنلمون: Express_freevpn@
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca22.myfymain.com:8880?security=&encryption=none&type=grpc#@icv2ray
@@ -502,4 +503,3 @@ vless://a37f824a-e9ce-43cf-9193-d1be34cf89a6@svn.yasharmobile.com:3838?security=
 vless://a37f824a-e9ce-43cf-9193-d1be34cf89a6@svn.yasharmobile.com:690?security=none&encryption=none&headerType=none&type=tcp#@Gap_ip
 vless://a37ff029-d240-40b4-8af4-7ae0e34b2567@94.156.232.72:2053?encryption=none&type=tcp&security=reality&headerType=none&sni=teamdocs.su&fp=chrome&allowInsecure=1&pbk=Bx_BGjf9VHtS97W9ueLS_pjNsyOhzBA-S42d9a7fKmY&sid=a84d&spx=/&flow=xtls-rprx-vision#@V2VODKA_A ᯤ 1
 vless://a393c4e7-5406-42e6-86d3-6489840fa4ea@varzesh3.com:80?type=ws&path=/&host=kabotar.garfar.ir&security=none#@imokping
-vless://a4296280-8571-44f3-a4ab-34b2fd2fc06b@192.166.82.81:19878?security=none&encryption=none&headerType=none&type=tcp#SafeV2ray.test🇺🇸

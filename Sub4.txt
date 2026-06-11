@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#@FarazV2ray
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#@v2rayNplus
 vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#TEL;Father_vpn
@@ -502,4 +503,3 @@ vless://5fd56a1b-17c0-4593-a8af-0858a5eb6a9d@84.75.220.44:8096?security=tls&alpn
 vless://5fd56a1b-17c0-4593-a8af-0858a5eb6a9d@84.75.220.44:8096?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🇺🇸63264 | ⚡️Telegram = t.me/SOSkeyNET
 vless://5fd56a1b-17c0-4593-a8af-0858a5eb6a9d@84.75.220.44:8096?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#🇺🇸US-🚀@VPNine1
 vless://609f032b-58ae-4493-8e4b-1f8dc410dedf@199.232.78.159:443?path=/&security=tls&encryption=none&host=germwoijji.global.ssl.fastly.net.&type=ws&sni=default.ssl.fastly.net#✅  @vistav2ray  👈👈کانال ما ✅
-vless://609f032b-58ae-4493-8e4b-1f8dc410dedf@199.232.78.159:443?path=/&security=tls&encryption=none&host=lsjaoijji.global.ssl.fastly.net.&type=ws&sni=default.ssl.fastly.net#🛸@V2ray_official

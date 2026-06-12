@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#Telegram : @spikevpn   @spikevpn
 trojan://8r<[9'l6hAO#8ZQi@104.16.7.70:443?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=1&allowInsecure=1&type=ws&host=Koma-YT.PAGeS.Dev&path=/tr#@SheriffNet
 trojan://8r<[9'l6hAO#8ZQi@104.18.109.147:443?path=/tr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#Telegram : @spikevpn
 trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#@EXPRESSVPN_420
@@ -503,3 +502,4 @@ vless://07424c7b-b963-4785-b065-3c5cf04d6d3a@208.103.161.1:8443?alpn=h2&encrypti
 vless://07424c7b-b963-4785-b065-3c5cf04d6d3a@208.103.161.1:8443?path=/amirvpn3&security=tls&alpn=h2&encryption=none&fp=chrome&type=ws&sni=sub2.amirserver.shop#@internet_azad_2026 : کانال ما
 vless://07424c7b-b963-4785-b065-3c5cf04d6d3a@69.84.182.49:8443?alpn=h2&encryption=none&fp=chrome&host=&path=/amirvpn3&security=tls&sni=sub2.amirserver.shop&type=ws#@meliproxyy
 vless://07424c7b-b963-4785-b065-3c5cf04d6d3a@69.84.182.49:8443?path=/amirvpn3&security=tls&alpn=h2&encryption=none&fp=chrome&type=ws&sni=sub2.amirserver.shop#@internet_azad_2026 : کانال ما
+vless://07dce2d7-9849-4e22-adb9-36d2763c3b89@snapp.ir:2095?encryption=none&type=ws&path=/&host=api.aramonlineshop.ir&brand=@Arvand_soul#@Arvand_soul @Arvand_soul❤️🧑‍💻 کانفیگ ملی در

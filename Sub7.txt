@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a006163c-8752-4844-8020-0fd2c704a5f2@198.169.2.65:443?encryption=none&security=tls&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=cinema.subgift.xyz&path=/subgift&mode=auto&extra={"xPaddingBytes":"100-1000"}#@VPsave
 vless://a006163c-8752-4844-8020-0fd2c704a5f2@198.169.2.65:443?mode=auto&path=/subgift&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=cinema.subgift.xyz&fp=chrome&type=xhttp&allowInsecure=0#@v2raybaaz-3
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.20.6.134:443?path=/&security=tls&encryption=none&insecure=0&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=0&sni=y6-3cj.PAgES.DEV#HqV2rayNG
 vless://a05f8278-d521-4652-bfb9-2b8dbe6b3102@a2.hamrahnode.ir:2053?path=/&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=op2.x-upload.org#@TanhaNet
@@ -503,3 +502,4 @@ vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:80?path=/&security=none&alp
 vless://cabbaac-abac-abac-bacd-cabbbccbacaa@127.0.0.1:1080?security=tls&type=tcp#@v2ray_configs_pools-join-us-on-Telegram
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.16.0.0:443?encryption=none&fp=chrome&host=tr-cd.sublink-vip2.com&path=/&security=tls&sni=tr-cd.sublink-vip2.com&type=ws#🪬58@oneclickvpnkeys
 vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.16.0.0:443?path=/&security=tls&encryption=none&insecure=0&host=tr-cd.sublink-vip2.com&fp=chrome&type=ws&allowInsecure=0&sni=tr-cd.sublink-vip2.com#@VPsave
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@104.16.0.0:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#@VPsave

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0b6060e7-15ae-4e34-b088-a59341223cd1@5.253.25.97:8880?security=&encryption=none&headerType=none&type=tcp#@confiig_hub
 vless://0b6060e7-15ae-4e34-b088-a59341223cd1@5.253.25.97:8880?security=none&encryption=none&type=tcp#kurdconfig
 vless://0b694f0a-48c3-4394-8862-a1b7cd1a184e@18.171.164.29:32073?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@KAFING_2
 vless://0bbcbcbf-a964-4e47-b8c5-c4917708ef93@104.25.19.183:443?path=/?ed&security=tls&encryption=none&insecure=0&host=ssj.new-persian-song.ir&fp=chrome&type=ws&allowInsecure=0&sni=ssj.new-persian-song.ir#telegram @mtmvpn 4
@@ -503,3 +502,4 @@ vless://37baa357-8378-4ed0-abd0-d0766273091c@varzesh3.com:2052?path=/bestvns&sec
 vless://37c8b06a-25cf-42d7-b2ea-31d3c8561998@cncdn.cc:80?path=/14708/31d3c8561998/&security=none&encryption=none&host=imap.mmadcoffee.info&type=ws#🇸🇬 @GozargahVPN
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?encryption=none&type=ws&host=vip.yaml7.ggff.net&path=/+@ProxyVPN11&security=none#@Evay_vpn
 vless://38a79fa3-a31e-4a14-ae9e-001c21c5cc8f@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&insecure=0&host=cdn.daraflo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daraflo.ir#🇮🇷68497 | ⚡️Telegram = t.me/SOSkeyNET
+vless://38a79fa3-a31e-4a14-ae9e-001c21c5cc8f@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&insecure=0&host=cdn.daraflo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daraflo.ir#🇮🇷IR-🚀@VPNine1

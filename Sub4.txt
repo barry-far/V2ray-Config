@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=all-tm1.netsnap.ir.&fp=chrome&type=ws&sni=all-tm1.netsnap.ir.&note=@FreeOnlineVPN#🇹🇷 - TR - @FreeOnlineVPN
 vless://3ba65e62-5a84-464b-94a7-418f0ed53523@185.97.119.48:443?type=tcp&encryption=none&path=/&host=cloudflare.com&headerType=http&security=none#V2RFA
 vless://3ccf9767-6648-4efa-b13c-1cdef021c371@5.75.196.174:20141?security=reality&encryption=none&pbk=qr9I7Hv2oZ2F0BiWgy9DmYHp0vcFEXcNRVHkyFg3OUw&headerType=none&fp=chrome&spx=/fuyDxo1D1hIDYFH&type=tcp&flow=xtls-rprx-vision&sni=arvancloud.ir&sid=14#TEL;Father_vpn
 vless://3d191784-762a-454c-8c36-61ae08a00305@del.fattsh8.ir:29113?security=reality&encryption=none&pbk=O022ghAvOsnRm9w68MKbfuyvlwWJsmytJBSj4F2dgkQ&headerType=&fp=chrome&spx=/&type=tcp&sni=aws.amazon.com&sid=2641062b76c9#@icv2ray
@@ -503,3 +502,4 @@ vless://65245c42-7002-e20b-805e-f610c7ea1f52@104.27.76.108:2096?path=/sync&secur
 vless://65245c42-7002-e20b-805e-f610c7ea1f52@104.27.76.108:443?path=/sync&security=tls&encryption=none&insecure=0&host=white-butterfly-9854.matinm1m1n.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=white-butterfly-9854.matinm1m1n.workers.dev#🚀@VPNine1
 vless://65245c42-7002-e20b-805e-f610c7ea1f52@104.27.76.108:8443?path=/sync&security=tls&encryption=none&insecure=0&host=white-butterfly-9854.matinm1m1n.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=white-butterfly-9854.matinm1m1n.workers.dev#🚀@VPNine1
 vless://6562c4bb-4feb-4b23-ae63-53ee4aa473aa@2.144.4.229:9090?security=none&encryption=none&headerType=http&type=tcp#@KAFING_2
+vless://6585a62b-4d8b-48cc-bdad-e2542504d748@172.67.103.152:8443?encryption=none&type=xhttp&security=tls&path=/&host=Itsrezu2.dr-ping.com&mode=auto&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&sni=Itsrezu2.dr-ping.com&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#@Morrfinchnl

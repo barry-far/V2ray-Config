@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@47.245.62.4:8443/?type=ws&host=dxy1h.twiladaphne.ndjp.net&path=/proxyip=104.168.132.123,172.104.53.198,85.121.50.16,151.242.125.226&security=tls&sni=dxy1h.twiladaphne.ndjp.net&fp=chrome#🇯🇵 ژاپن | https://t.me/FREECONFIGSPLUS ✨
 trojan://gx5fx0q4buwh4g4n@de2.yariresanbot.ir:26856?mode=gun&security=tls&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Panel&sni=de2.yariresanbot.ir#kurdconfig
 trojan://gx5fx0q4buwh4g4n@de2.yariresanbot.ir:41883?path=/&security=tls&alpn=h2,http/1.1&host=de2.yariresanbot.ir&fp=chrome&type=ws&sni=de2.yariresanbot.ir#kurdconfig
 trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443?path=/uk1-uk1-gcjtze&security=tls&insecure=0&host=uk1.bw8848.org&type=ws&allowInsecure=0&sni=uk1.bw8848.org#@hex_proxy ¹
@@ -503,3 +502,4 @@ vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@gannon.ns.cloudflare.com:443?type=x
 vless://0fffe35b-d9bb-4d0f-9433-466a8a37b3e8@185.143.235.200:2052?path=/meh&security=none&encryption=none&host=meh.fasterspeed.ir&type=ws#@v2raybaaz ³
 vless://100fc429-4824-482e-ad2c-ce70d25e11cc@snapp.ir:8080?path=/&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#t.me/ConfigFori  -  Config 73736
 vless://100fc429-4824-482e-ad2c-ce70d25e11cc@snapp.ir:8080?path=/&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#t.me/ConfigFori  -  Config 73737
+vless://1043634e-8d9d-4736-83fa-f14ddc9d464c@188.114.97.6:443?path=/id-amz&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#TEL;Father_vpn

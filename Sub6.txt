@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca30.mysilipdir.com:8880?mode=gun&security=&encryption=none&type=grpc&sni=sca30.mysilipdir.com#https://t.me/v2raynplus |🇮🇹
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca30.mysilipdir.com:8880?mode=gun&security=none&encryption=none&type=grpc#@filembad
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca30.mysilipdir.com:8880?mode=gun&security=none&encryption=none&type=grpc#kurdconfig
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca30.mysilipdir.com:8880?mode=gun&security=none&encryption=none&type=grpc#🔵@chillguy_vpn
@@ -503,3 +502,4 @@ vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@172.67.66.162:8443?path=/v2ngfast--
 vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@173.245.59.61:443?path=/v2ngfast---v2ngfast---v2ngfast---v2ngfast---v2ngfast&security=tls&encryption=none&host=v2ngfast.jackiuo77.workers.dev&fp=chrome&type=ws&sni=v2ngfast.jackiuo77.workers.dev#🇩🇪 @V2ngFast
 vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@198.41.209.210:443?path=/v2ngfast---v2ngfast---v2ngfast---v2ngfast---v2ngfast&security=tls&encryption=none&host=v2ngfast.gharibnuyt.workers.dev&fp=chrome&type=ws&sni=v2ngfast.gharibnuyt.workers.dev#🇩🇪 @V2ngFast
 vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@91.193.59.145:2087?path=/v2ngfast---v2ngfast---v2ngfast---v2ngfast---v2ngfast&security=tls&encryption=none&host=sparkling-violet-f617.manoalkkhg.workers.dev&fp=chrome&type=ws&sni=sparkling-violet-f617.manoalkkhg.workers.dev#🇩🇪 @V2ngFast
+vless://9ce7ac33-5004-40ea-8236-15bc2d25a37c@Chatgpt.com:8443?path=/V2rayNGSelllBoT---V2rayNGSelllBoT---V2rayNGSelllBoT&security=tls&encryption=none&host=nameless-sunset-62b7.jalalpoi77.workers.dev&fp=chrome&type=ws&sni=nameless-sunset-62b7.jalalpoi77.workers.dev#@VpnCostumer+|+بیا+تو+وصل+باش+💙

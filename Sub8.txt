@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b2c47b38-23bf-4469-b477-e52206bbb8c1@104.18.13.149:8443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=aged-sun-9128.danicng13.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=aged-sun-9128.danicng13.workers.dev#@EXPRESSVPN_420
 vless://b300d35e-abca-41b4-a0bd-f4a59d02c52c@104.18.34.88:443?security=tls&encryption=none&insecure=0&host=forgermany.fairit.ir&type=ws&allowInsecure=0&sni=5a6e2070c718304e.fairit.ir#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://b300edfb-02c0-4a1d-bbb5-1817d9e16927@83.228.235.106:2082?mode=auto&path=/&security=reality&encryption=none&pbk=KuyvsRNilBVQddf249fQhud8aPESqNMZLRb7UXwVgWI&fp=chrome&type=xhttp&sni=cdn.nobitex.ir&sid=d6d0#@FREE_VPN02
 vless://b300edfb-02c0-4a1d-bbb5-1817d9e16927@83.228.235.106:2082?mode=auto&path=/&security=reality&encryption=none&pbk=KuyvsRNilBVQddf249fQhud8aPESqNMZLRb7UXwVgWI&fp=chrome&type=xhttp&sni=cdn.nobitex.ir&sid=d6d0#@FarazV2ray
@@ -503,3 +502,4 @@ vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.14:443?security=reality&e
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.16:443?encryption=none&type=tcp&security=reality&headerType=none&sni=it.s3-cloud.xyz&fp=chrome&insecure=1&allowInsecure=1&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a&flow=xtls-rprx-vision#@freenettir
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.16:443?encryption=none&type=tcp&security=reality&headerType=none&sni=it.s3-cloud.xyz&fp=chrome&insecure=1&allowInsecure=1&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a&flow=xtls-rprx-vision#@meliproxyy
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.16:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#☑➜چنلمون: Express_freevpn@
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.25:443?encryption=none&type=tcp&security=reality&headerType=none&sni=it.s3-cloud.xyz&fp=chrome&insecure=1&allowInsecure=1&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a&flow=xtls-rprx-vision#@freenettir

@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://SoftNetConnect@82.158.120.48:2087?security=reality&pbk=pnrbo0MG4n719Yt3YhvL_SvV37NOmHm0_vbRnbRxaz0&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=3e503fccee5701#🇩🇪@FreakConfig
+trojan://SoftNetConnect@82.158.120.48:8443?mode=auto&path=/&security=reality&extra={"xPaddingBytes":"100-1000"}&pbk=bIzRyt6-wut4bghVAF7v_12wkM1McpzZFwsPAqCtrHY&fp=chrome&spx=/&type=xhttp&sni=www.yahoo.com&sid=78851a413f5033b0#🇩🇪@FreakConfig
+trojan://T9BpZIVMNv@v1.dabache.top:8443?path=/amd&security=tls&insecure=1&host=sweden.vmaxpanel.com&fp=chrome&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#@v2rayngzendegimamad🕊️
+trojan://Telegram-Config0plus@104.17.108.189:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#TEL;Father_vpn
+trojan://VIP-VPN-join@188.114.97.6:443?mode=auto&path=/&security=tls&insecure=0&host=customize.vexaservice.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=customize.vexaservice.ir#🚀@VPNine1
 trojan://VPTFm=oZ++SuNT+jMRqGZqrAnWq-r8KJyY@172.104.237.100:443?security=tls&sni=172.104.237.100&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#hope of freedom - @anotherme_night
 trojan://ZJU29smXwp@45.85.118.88:2053?path=/&security=tls&host=k.teama.tk&type=ws&sni=omid.teama.tk#@v2rayconfigamir 3503
 trojan://ZJU29smXwp@cf1.danesh-bonyan.store:2053?path=/&security=tls&host=f-1.danesh-bonyan.store&type=ws&sni=damn-mci-again-3.danesh-bonyan.store#@v2rayconfigamir 2302
@@ -498,8 +503,3 @@ vless://0d9e572e-ad55-4fb8-adcf-858cbafb9c40@37.152.175.93:8443?security=reality
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@104.21.11.130:443?path=/index.html&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=miox99.pages.dev#@HajmVPN_Config 💣
 vless://0f0f568e-de71-4e08-acdd-0865b6cb116c@ww.sansorchi.net:443?sni=5s51da56a8a9.sansorchi.beauty&host=5s51da56a8a9.sansorchi.beauty&type=ws&security=tls&path=/tel/sansorchi_bezan_gheychi_bot&encryption=none#@v2rayconfigamir 9649
 vless://0f4790c5-90bf-4b41-b82a-eeab379c6a36@167.233.106.40:443?security=none&allowInsecure=0&encryption=none&type=httpupgrade#@meliproxyy
-vless://0f6bc229-6a6e-4604-8a7d-f6242e9609d6@snapp.ir:80?type=ws&path=/&host=kabotar.garfar.ir&security=none#@ehsawn8-100gig
-vless://0fffe35b-d9bb-4d0f-9433-466a8a37b3e8@185.143.235.200:2052?path=/meh&security=none&encryption=none&host=meh.fasterspeed.ir&type=ws#@v2raybaaz ³
-vless://100fc429-4824-482e-ad2c-ce70d25e11cc@snapp.ir:8080?path=/&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#t.me/ConfigFori  -  Config 73736
-vless://100fc429-4824-482e-ad2c-ce70d25e11cc@snapp.ir:8080?path=/&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#t.me/ConfigFori  -  Config 73737
-vless://1043634e-8d9d-4736-83fa-f14ddc9d464c@188.114.97.6:443?path=/id-amz&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#@icv2ray

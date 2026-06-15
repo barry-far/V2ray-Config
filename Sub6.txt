@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@FREE_VPN02
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@FarazV2ray
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@appsooner کانال تلگرام 🕊️
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca16.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#@iguanaVPN
@@ -502,4 +503,3 @@ vless://9fdc2f17-87e4-4b62-8010-4ad3802a54ab@141.95.102.240:2053?security=none&e
 vless://@IR_NETLIFY@194.59.183.234:666?type=tcp&encryption=none&security=none#@IR_NETLIFY
 vless://@IR_NETLIFY@89.22.236.213:666?type=tcp&encryption=none&security=none#@IR_NETLIFY
 vless://@Net2ray@47.250.195.135:20393?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#@NewsDarya
-vless://@Net2ray@47.250.195.227:36202?security=&encryption=none&headerType=none&type=tcp#🛸@V2ray_official

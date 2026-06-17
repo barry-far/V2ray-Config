@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0698d68c-2ee8-4962-ec3f-e1d67bcfb8aa@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#@erfanandroid
 vless://06a15a9b-9c24-4b0d-aaf2-6946b5143c69@n1.nolockhere.xyz:8444?mode=gun&security=reality&encryption=none&pbk=MYYmKsCC2_8v4ROpY7zT7sp4-XkWEvbzIxddjxuEwg8&fp=chrome&type=grpc&sni=yahoo.com&sid=5673a8ac57374138#@config_NG
 vless://06a15a9b-9c24-4b0d-aaf2-6946b5143c69@n1.nolockhere.xyz:8444?mode=gun&security=reality&encryption=none&pbk=MYYmKsCC2_8v4ROpY7zT7sp4-XkWEvbzIxddjxuEwg8&fp=chrome&type=grpc&sni=yahoo.com&sid=5673a8ac57374138#kurdconfig
 vless://06a15a9b-9c24-4b0d-aaf2-6946b5143c69@n1.nolockhere.xyz:8444?mode=gun&security=reality&encryption=none&pbk=MYYmKsCC2_8v4ROpY7zT7sp4-XkWEvbzIxddjxuEwg8&fp=chrome&type=grpc&sni=yahoo.com&sid=5673a8ac57374138#🇩🇪[kia_net] vless-DE
@@ -503,3 +502,4 @@ vless://34f2df07-0315-4be3-b7a3-05283bc43f0f@104.26.6.159:2053?path=/&security=t
 vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#@hopev2ray💕
 vless://356ccb34-22cc-4446-a137-072bc60d65ca@45.196.224.103:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#@fastkanfig 1
 vless://356ccb34-22cc-4446-a137-072bc60d65ca@45.196.224.103:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#@FREE_VPN02
+vless://359caf6b-93ce-458c-840e-6140775ea80d@news.microsoft.com:443?encryption=none&security=tls&sni=nl2.gamelistak.com&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=nl2.gamelistak.com&path=/@MrNexTV2RAY&mode=auto&extra={"xPaddingBytes":"100-1000"}#@MrNexTV2RAY

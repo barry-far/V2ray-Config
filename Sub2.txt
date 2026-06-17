@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls#@v2rayconfigamir 8322
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#@v2rayconfigamir 9291
 trojan://Masir_Sefid@188.213.130.212:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/zyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#🇨🇳 @FREE_VPn02
 trojan://Masir_Sefid@37.156.45.168:2083?security=reality&pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&headerType=none&fp=chrome&spx=/zhH6xrLTx7oS2Yl&type=tcp&sni=store.steampowered.com&sid=d2f7#🇨🇳 @FreakConfig
@@ -503,3 +502,4 @@ vless://060cd76b-72e1-478f-b6c9-8e6d2bdc5517@151.101.109.223:443?path=/&security
 vless://060cd76b-72e1-478f-b6c9-8e6d2bdc5517@151.101.109.223:443?path=/&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇺🇸US-🚀@VPNine1
 vless://067bd7a0-2d21-2e81-3fe8-9636ebe223a8@188.114.97.6:443?path=/sync&security=tls&encryption=none&insecure=0&host=mikasavpn2.mikasavpn2.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=mikasavpn2.mikasavpn2.workers.dev#telegram @mtmvpn
 vless://0698d68c-2ee8-4962-ec3f-e1d67bcfb8aa@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#@V2dogs_n
+vless://0698d68c-2ee8-4962-ec3f-e1d67bcfb8aa@snapp.ir:2087?path=/BetForward&security=tls&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#@erfanandroid

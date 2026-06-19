@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://AlfredConfig@104.17.107.134:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config
+vless://AlfredConfig@159.246.55.251:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config
 vless://AlfredConfig@164.38.155.135:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config
 vless://AlfredConfig@188.114.97.6:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config
 vless://AlfredConfig@199.181.197.176:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#Alfred_Config
@@ -501,5 +503,3 @@ vless://c15d8d1a-a68f-4436-8f68-6fbc7f4e3027@transparency.cloud.appcore.org:3475
 vless://c19069b6-0766-4df7-a405-a33acdc6a8b6@iiiiserver.imagician.shop:45617?mode=auto&path=/GyJhshsqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NkZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=digikala.com&type=xhttp#🇮🇷IR-🚀@VPNine1
 vless://c19cc0a7-a5e6-4b40-b9c8-52b58682be10@107.161.174.24:8880?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=learn.microsoft.com&sid=82cada35130f1ef2#t.me/arisping
 vless://c1de7c16-9c66-482c-82e5-8aeaeb5d53b3@ip2.neoservers.ir:8443?security=tls&alpn=h3,h2&encryption=none&insecure=0&host=i0PRBeE2rqIUmw2hEeJPLw8BRg56dkyN5rZrf5VU.ViPClUbIrAn.Ir.&fp=chrome&type=ws&allowInsecure=0&sni=i0PRBeE2rqIUmw2hEeJPLw8BRg56dkyN5rZrf5VU.ViPClUbIrAn.Ir.#@KAFING_2
-vless://c1ee1cf3-b7ac-40a7-8449-a368eb7ecf9d@140.82.34.34:444?security=&encryption=none&headerType=none&type=tcp#Channel id: @ShadowProxy66 🇩🇪
-vless://c24a32f1-b645-47da-98a3-1e7c713229c1@104.18.12.149:8880?path=/api&security=none&encryption=none&host=armenia.chatgpt.com.siasia.ir&type=httpupgrade#Armenia(@proSSH)

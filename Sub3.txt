@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@45.80.111.7:443?type=ws&security=tls&path=/assignment&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0#15https://t.me/ConfigX2ray
+trojan://humanity@8.6.112.139:443?allowInsecure=1&alpn=http/1.1&host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws#@appxa-humanity
 trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@V2raySup0 | 🚀
 trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2rayNplus
 trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#TEL;Father_vpn
@@ -501,5 +503,3 @@ vless://1dba92e0-8fc0-4d27-a72d-e31a630afde2@pnl.elikai.ir:80?security=none&encr
 vless://1dda9d26-7c04-48a6-93b4-e30fe7a5da80@152.53.111.14:444?encryption=none&security=reality&sni=web.max.ru&fp=chrome&pbk=wgxjTlVuBIi8T-QRQ2tmmH57seIfKCdE2pBGNWXcOCo&sid=8614956789abcdef&type=grpc&authority=&serviceName=web.max.ru&mode=gun#@v2rayconfigamir 7911
 vless://1dda9d26-7c04-48a6-93b4-e30fe7a5da80@84.201.164.26:446?mode=gun&security=reality&encryption=none&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&fp=chrome&type=grpc&serviceName=ads.x5.ru&sni=ads.x5.ru&sid=0512567389abcdef#@configprxy
 vless://1de6be2d-567a-4663-b5ea-5de8afe0f496@rfvbtghnuyjmikolpqaz.sd.noafra.ir:80/?encryption=none&host=play.google.com&type=tcp&headerType=http#🇩🇪 آلمان | https://t.me/FREECONFIGSPLUS ✨
-vless://1df02e49-7f69-435c-afe7-5a391fb4bfcb@tala.shompolexy.shop:80?path=/Shomp&security=none&encryption=none&host=play.google.com&type=ws#🇫🇮 @V2GAF | کانال ویتوگاف
-vless://1df05cde-34a0-44ce-8059-44a7b1e7782b@140.248.185.253:443?encryption=none&type=ws&security=tls&path=/&host=bazaryabab.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#🇺🇸US-🚀@VPNine1

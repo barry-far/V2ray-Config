@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://1df02e49-7f69-435c-afe7-5a391fb4bfcb@tala.shompolexy.shop:80?path=/Shomp&security=none&encryption=none&host=play.google.com&type=ws#🇫🇮 @V2GAF | کانال ویتوگاف
+vless://1df05cde-34a0-44ce-8059-44a7b1e7782b@140.248.185.253:443?encryption=none&type=ws&security=tls&path=/&host=bazaryabab.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#🇺🇸US-🚀@VPNine1
 vless://1df05cde-34a0-44ce-8059-44a7b1e7782b@140.248.185.253:443?encryption=none&type=ws&security=tls&path=/&host=bazaryabab.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#🔵@chillguy_vpn
 vless://1df05cde-34a0-44ce-8059-44a7b1e7782b@199.232.78.159:443?encryption=none&security=tls&sni=default.ssl.fastly.net&type=ws&host=bazaryabab.global.ssl.fastly.net&path=/#🇺🇸US-🚀@VPNine1
 vless://1df05cde-34a0-44ce-8059-44a7b1e7782b@fast.cd-tur4.ir:443?encryption=none&type=ws&serviceName=---Telegram@V2rayNGcloud------Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud-----Telegram@V2rayNGcloud---&security=tls&path=/&host=bazaryabab.global.ssl.fastly.net&sni=default.ssl.fastly.net&insecure=1&allowInsecure=1#@v2rayNGcloud
@@ -501,5 +503,3 @@ vless://3aae85e1-b87d-48b3-a081-e84f537d6eab@5.42.101.151:40443?encryption=none&
 vless://3aae85e1-b87d-48b3-a081-e84f537d6eab@5.42.101.151:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=fX0kqDDm8qfm09fAlWjT2H5AAT7-9wGswgFXMc6gDUQ&security=reality&sid=d414&sni=deepl.com&type=tcp#✈️16@oneclickvpnkeys
 vless://3b0d0482-187d-4f9d-a448-f99c41eec1ea@91.107.166.66:4043?security=reality&encryption=none&pbk=ymlfKdtlbiHM7nfc15dfg_bnv0tnyd3GZR06Gz5W6R4&headerType=none&fp=chrome&spx=/rkUO2l8YDWFCnk3&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=9aca3d#@v2rayNplus |Germany
 vless://3b0d0482-187d-4f9d-a448-f99c41eec1ea@91.107.166.66:4043?security=reality&encryption=none&pbk=ymlfKdtlbiHM7nfc15dfg_bnv0tnyd3GZR06Gz5W6R4&headerType=none&fp=chrome&spx=/rkUO2l8YDWFCnk3&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=9aca3d#@v2rayNplus |🇩🇪
-vless://3b0d0482-187d-4f9d-a448-f99c41eec1ea@91.107.166.66:8080?security=reality&encryption=none&pbk=zpB9nr7BiMTUIAf7yzNC8PK5xmrMu_obV0XQ5NY031U&headerType=none&fp=chrome&spx=/xCZxlC8aGTT6oky&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=d934#@v2rayNplus |🇩🇪
-vless://3b2561b1-4bad-2043-cfbe-74adf706b3be@49.13.64.206:443?path=/sync&security=tls&encryption=none&insecure=0&host=autumn-truth-80db.sdfghjkdfghjkmnmn.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=autumn-truth-80db.sdfghjkdfghjkmnmn.workers.dev#@icv2ray

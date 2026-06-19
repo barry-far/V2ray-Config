@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c1ee1cf3-b7ac-40a7-8449-a368eb7ecf9d@140.82.34.34:444?security=&encryption=none&headerType=none&type=tcp#Channel id: @ShadowProxy66 🇩🇪
+vless://c24a32f1-b645-47da-98a3-1e7c713229c1@104.18.12.149:8880?path=/api&security=none&encryption=none&host=armenia.chatgpt.com.siasia.ir&type=httpupgrade#Armenia(@proSSH)
 vless://c27538ca-d170-4182-87e5-aee87c8a0c4a@188.114.97.6:443?encryption=none&host=small-voice-c4c5.itsnewrzan.workers.dev&path=/proxyip=40.233.87.120&security=tls&sni=small-voice-c4c5.itsnewrzan.workers.dev&type=ws#🏟️36@NetFlowTools
 vless://c2f01e32-8ca8-46f1-b2b0-e3b2e17b5cdd@local.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=shirin-kose.de&type=xhttp#@SONIC_2524 کانال روبیکا و تلگرام 🕊⭐️
 vless://c2f01e32-8ca8-46f1-b2b0-e3b2e17b5cdd@mci.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=shirin-kose.de&type=xhttp#@SONIC_2524 کانال روبیکا و تلگرام 🕊⭐️
@@ -501,5 +503,3 @@ vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&
 vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?path=/vless/&security=none&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#@FarazV2ray
 vless://e792a64a-58c9-4a9b-f8b1-db9b514e522a@tun.maf-fars.ir:2087?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#Telegram : @V2ynpv
 vless://e792a64a-58c9-4a9b-f8b1-db9b514e522a@tun.maf-fars.ir:2092?security=none&encryption=none&host=www.nobitex.ir&headerType=http&type=tcp#Telegram : @V2ynpv
-vless://e792a64a-58c9-4a9b-f8b1-db9b514e522a@tun.maf-fars.ir:2096?security=none&encryption=none&host=www.nobitex.ir&headerType=http&type=tcp#Telegram : @V2ynpv
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?path=/&security=tls&alpn=h3,h2&encryption=none&host=po.fastbrokencompony.com&fp=chrome&type=ws&sni=po.fastbrokencompony.com#Channel id: @internet_azad_2026

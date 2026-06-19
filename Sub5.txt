@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.198:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆⁹
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.199:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆¹⁰
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.202:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆⁴
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.204:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆⁷
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.209:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆
@@ -501,5 +503,3 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&se
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=/?Telegram🇨🇳@WangCai2=#@SheriffNet
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=/?telegram🇨🇳+@wangcai2=#@SheriffNet
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&allowInsecure=1&type=ws&host=sni.jpmj.dev&path=/#@GrizzlyVPN
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2=#@SheriffNet
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:8443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳+@WangCai2#@SheriffNet

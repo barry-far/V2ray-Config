@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c77d5867-7528-4062-8370-700eaf351560@se1.textin.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2raybaaz ¹
+vless://c77d5867-7528-4062-8370-700eaf351560@usa2.nomac.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#@v2raybaaz ²
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@212.183.88.102:443?security=tls&sni=ve.ylkszy.eu.org&type=ws&path=/?proxyip#@Hope_Net-join-us-on-Telegram
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@212.183.88.198:443?security=tls&sni=ve.ylkszy.eu.org&type=ws&path=/?proxyip#@Hope_Net-join-us-on-Telegram
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@212.183.88.198:443?security=tls&sni=ve.ylkszy.eu.org&type=ws&path=/?proxyip#@NetFlowTools-join-us-on-Telegram
@@ -501,5 +503,3 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@da.mfa.gov.ua:443?path=/&security=t
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@mfa.gov.ua:443?path=/&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#Channel id: @internet_azad_2026 🇨🇦
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@yx.cloudflare.182682.xyz:443?path=/&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#Channel id: @internet_azad_2026 🇨🇦
 vless://eedcee2e-7517-4162-852d-b21b864b8e3f@195.74.93.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.max.ru&fp=chrome&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sid=247fd6dab1a34a48&type=tcp&headerType=none#@Daily_Configs
-vless://eedcee2e-7517-4162-852d-b21b864b8e3f@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#@v2rayNplus |🇩🇪
-vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@104.16.75.207:2087?mode=auto&path=/path&security=tls&alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&insecure=0&host=dl-pack.motionbetter.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=dl-pack.motionbetter.ir#xhttp-@MIMITDL

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&fp=chrome&type=tcp&sni=yastatic.net&sid=5e841fab#TEL;Father_vpn
+vless://1c0277ad-bb4d-496f-bc0c-40ccee03fca5@31.76.38.84:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=be0ce047#🛸@V2ray_official
 vless://1c111ccf-bc41-4f4e-a641-ebefe04e6306@snapp.ir:80?path=/&security=none&encryption=none&host=veryfast2.ir&type=ws#@prrofile_purple  ♥️👈 تلگرام
 vless://1c111ccf-bc41-4f4e-a641-ebefe04e6306@snapp.ir:80?type=ws&encryption=none&path=/&host=veryfast2.ir&security=none#@ReleaseNet
 vless://1c111ccf-bc41-4f4e-a641-ebefe04e6306@snapp.ir:80?type=ws&encryption=none&path=/&host=veryfast2.ir&security=none#@configprxy
@@ -501,5 +503,3 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.198:8443?security=tls&en
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.199:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆¹⁰
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.202:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆⁴
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.204:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆⁷
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.209:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.210:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆⁵

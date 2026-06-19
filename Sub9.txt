@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#[Kia_Net] 🇺🇸 US-11241
+vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#⚡Telegram =@CUSTOMVPNSERVER
+vless://ca4173e8-aac1-4d59-8be8-f4881dc88683@51.254.21.65:443?security=reality&encryption=none&pbk=-yocQKQaxMZCMFI1drVJWLhXrJk7R5M252tbYTpRW2A&headerType=none&fp=chrome&spx=/qUkoZjxgPMYcEkc&type=tcp&sni=www.microsoft.com&sid=9242fd8c012f#@FREE_VPN02
 vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=mci.dgclix.ir#@bird_angry (mci)
 vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=mci.dgclix.ir#@bird_angry (mci)  ایرانسل:
 vless://ca523327-52a2-4249-bab8-54fef58ba899@fbi.gov:80?path=/&security=none&alpn=h3,h2,http/1.1&encryption=none&host=mtn.dgclix.ir&fp=chrome&type=ws#@bird_angry (mtn)
@@ -500,6 +503,3 @@ vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@chatgpt.com:80?path=/&security=&enc
 vless://ef0adf73-a279-4bd3-9f1b-bb5f4137ddb3@www.speedtest.net:80?path=/&security=&encryption=none&host=dl-pack.motionbetter.ir&type=ws#@MIMITDL
 vless://ef48d9a3-add0-40a1-8367-ea6a88dc2a92@108.162.198.124:443?path=/&security=tls&encryption=none&insecure=0&host=node-6796348943-048136.amingtav1341.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=node-6796348943-048136.amingtav1341.workers.dev#🔵@chillguy_vpn
 vless://ef48d9a3-add0-40a1-8367-ea6a88dc2a92@108.162.198.124:443?path=/&security=tls&encryption=none&insecure=0&host=node-6796348943-048136.amingtav1341.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=node-6796348943-048136.amingtav1341.workers.dev#🚀@VPNine1
-vless://efe3901e-b309-43f3-843a-f4f871670cf3@154.83.159.46:8443?security=reality&encryption=none&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=0905b6e16602f326#🇳🇱209Mb | UAB
-vless://f01027d4-43d6-4c05-82e5-db384f333841@89.105.217.98:7443?security=reality&encryption=none&pbk=SRx_6rZZrRgWuFz_U7NWxm_INn2kcfYlwC299jk_9nA&headerType=none&fp=chrome&spx=/Mfi8urjGwzhgeK3&type=tcp&sni=yahoo.com&sid=c99ec2be0df266#[79084] - Telegram : @V2All
-vless://f01027d4-43d6-4c05-82e5-db384f333841@89.105.217.98:7443?security=reality&encryption=none&pbk=SRx_6rZZrRgWuFz_U7NWxm_INn2kcfYlwC299jk_9nA&headerType=none&fp=chrome&spx=/Mfi8urjGwzhgeK3&type=tcp&sni=yahoo.com&sid=c99ec2be0df266#🇳🇱NL-🚀@VPNine1

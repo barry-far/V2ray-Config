@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.199:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆¹⁰
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.202:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆⁴
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.204:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆⁷
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.209:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.210:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆⁵
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.212:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆⁸
@@ -500,6 +503,3 @@ vless://631a40d9-8537-4e64-b8d6-7b512d4af67d@dubai.gmax12.ir:42542?security=&enc
 vless://631a40d9-8537-4e64-b8d6-7b512d4af67d@fi.mobileemdad.top:42538?security=&encryption=none&host=fi.mobileemdad.top&headerType=http&type=tcp#🇫🇮FI-🚀@VPNine1
 vless://631a40d9-8537-4e64-b8d6-7b512d4af67d@i.nonpath.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇦🇪AE-🚀@VPNine1
 vless://631a40d9-8537-4e64-b8d6-7b512d4af67d@ips.list.nonpath.ir:42542?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪DE-🚀@VPNine1
-vless://631a40d9-8537-4e64-b8d6-7b512d4af67d@s1.gmax12.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇮🇹IT-🚀@VPNine1
-vless://6324d103-f5a4-4e27-a1f2-4fe9cb0ab5bf@belnn.appleseraj.ir:2053?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=chez-zzn.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=chez-zzn.appleseraj.ir#Telegram : @V2ynpv
-vless://63a8b9d6-366d-4674-ac3c-c4e515f8eb13@191.101.238.166:2083?encryption=none&fp=chrome&pbk=LUpKI9elIaDFNoFlQcvBsCc9Olj-jlbh7gKkuwDm_gM&security=reality&sid=cd5c518b2e&sni=www.intel.com&spx=/x2qtIy2GsEAFHyy&type=tcp#🇺🇸 t.me/Natrixo AA

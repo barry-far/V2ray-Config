@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://189e3399-65f5-4bd1-a772-1e5a3c117c9f@assets.medium.com:34482?type=tcp&encryption=none&security=reality&pbk=GKOWEYc_X02pAv1OJmN8GF-nYRKiuLApyu3JUwxkdTs&fp=chrome&sni=www.apple.com&sid=8116ed000e1428bf&spx=/#@Ap_Ir6
-vless://189e3399-65f5-4bd1-a772-1e5a3c117c9f@assets.udemy.com:34482?type=tcp&encryption=none&security=reality&pbk=GKOWEYc_X02pAv1OJmN8GF-nYRKiuLApyu3JUwxkdTs&fp=chrome&sni=www.apple.com&sid=8116ed000e1428bf&spx=/#@Ap_Ir6
-vless://189e3399-65f5-4bd1-a772-1e5a3c117c9f@beta.medium.com:34482?type=tcp&encryption=none&security=reality&pbk=GKOWEYc_X02pAv1OJmN8GF-nYRKiuLApyu3JUwxkdTs&fp=chrome&sni=www.apple.com&sid=8116ed000e1428bf&spx=/#@Ap_Ir6
 vless://189e3399-65f5-4bd1-a772-1e5a3c117c9f@blog.mozilla.org:34482?type=tcp&encryption=none&security=reality&pbk=GKOWEYc_X02pAv1OJmN8GF-nYRKiuLApyu3JUwxkdTs&fp=chrome&sni=www.apple.com&sid=8116ed000e1428bf&spx=/#@Ap_Ir6
 vless://189e3399-65f5-4bd1-a772-1e5a3c117c9f@cache.medium.com:34482?type=tcp&encryption=none&security=reality&pbk=GKOWEYc_X02pAv1OJmN8GF-nYRKiuLApyu3JUwxkdTs&fp=chrome&sni=www.apple.com&sid=8116ed000e1428bf&spx=/#@Ap_Ir6
 vless://189e3399-65f5-4bd1-a772-1e5a3c117c9f@cdn.medium.com:34482?type=tcp&encryption=none&security=reality&pbk=GKOWEYc_X02pAv1OJmN8GF-nYRKiuLApyu3JUwxkdTs&fp=chrome&sni=www.apple.com&sid=8116ed000e1428bf&spx=/#@Ap_Ir6
@@ -503,3 +500,6 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.48:8443?encryption=none&
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.57:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#✈️60@NetFlowTools
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.57:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#✈️60@oneclickvpnkeys
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.194:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆³
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.198:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆⁹
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.199:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆¹⁰
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.202:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇸🇪@𝗡𝗲𝘅𝘂𝘀_𝘃2𝗿𝗮𝘆⁴

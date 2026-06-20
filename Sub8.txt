@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://96103268-ee66-4245-b911-747857d26d8f@coco.mayagallery.shop:80?mode=auto&path=/steam&security=none&encryption=none&host=Bartviloon.com&fp=chrome&type=xhttp&sni=fastly.com#چنل عضو شو @v2ra_config
-vless://965fef48-24c7-4727-b51e-6d3b2b8873c8@45.130.125.158:443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=mahsa97.manhamunamkeyeruz.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=mahsa97.manhamunamkeyeruz.ir#@Shh_Proxy-New³
-vless://965fef48-24c7-4727-b51e-6d3b2b8873c8@45.130.125.158:443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=mahsa97.manhamunamkeyeruz.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=mahsa97.manhamunamkeyeruz.ir#TEL;Father_vpn
-vless://96a59dc3-226d-475c-89c5-3ef74d7f84a7@185.212.117.62:443?security=reality&encryption=none&pbk=6tucjTON2xAIZXUXUdjgHQQ9q154n49B-jTB8M9Wd2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lafibre.info#🇫🇷 @rayhub_ir 0619-20
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&path=/Tignal&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#https://t.me/v2rayNplus |🇬🇧
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.130.133:80?mode=auto&path=/login&security=none&encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=shangulin.global.ssl.fastly.net&type=xhttp#@iguanaavPN 5🇫🇷
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?encryption=none&security=none&type=xhttp&host=shangulin.global.ssl.fastly.net&path=/login&mode=auto#🇨🇦CA_1984_@Surfboardv2ray
 vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.65.57:80?mode=auto&path=/login&security=none&encryption=none&host=shangulin.global.ssl.fastly.net&type=xhttp#@v2rayNplus |🎱
@@ -503,3 +498,8 @@ vless://b56a960b-b053-4935-8e34-b14b93696067@nl2.farsping.lat:9563?mode=auto&pat
 vless://b56c38ec-ab57-4d1b-ac72-9491be4845bf@185.200.179.85:49712?encryption=none&type=tcp&security=none#ChicVPNBot
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn 🪩
 vless://b5b09cf7-78cc-4db1-9d18-476e92878e08@45.194.10.93:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#@FREE_VPN02
+vless://b5df4261-66dc-481c-864c-7671e538fd8b@94.182.134.36:43070?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@KAFING_2
+vless://b60e5c32-3d4e-425c-a785-a36cd0621a72@104.18.12.149:443?path=/&security=tls&encryption=none&insecure=0&host=S4-f45.pAGeS.DeV&type=ws&allowInsecure=0&sni=S4-f45.pAGeS.DeV#@v2rayngzendegimamad🕊️
+vless://b69b43d1-091d-4d7c-90b2-7a8bbad9d6a9@45.130.125.126:443?security=tls&alpn=http/1.1&fp=chrome&sni=BItter-CreDIT-61b8.b76EbA0aBb.wORkerS.dEv&type=ws&path=/eyJqdW5rIjoiY0U2T212Y21yeEhUZHRKYSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&host=BItter-CreDIT-61b8.b76EbA0aBb.wORkerS.dEv#🇩🇪 V2dogs_n
+vless://b6e42688-3076-47aa-9345-6ff10fe1a36b@173.245.49.22:8880?path=/sync&security=none&encryption=none&host=wandering-rice-1ac4.cloudfelar.workers.dev&type=ws#@VpnCostumer+|+بیا+تو+وصل+باش+💙
+vless://b6f29f8d-016e-4f30-b57f-c0cdafab2a40@31.172.87.124:443?security=reality&encryption=none&fm={"fragment":{"length":"50-100","packets":"tlshello","interval":"10-20"}}&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#@meliproxyy

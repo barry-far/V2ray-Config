@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7698de4e-2882-4fee-967b-8db030ced1dc@91.216.104.45:8443?security=reality&amp%3Bencryption=none&amp%3Bpbk=YYaCVY336aMluO0Q7kXOTzpMqZ5Yegb_kDBaXG_VNig&amp%3BheaderType=none&amp%3Bfp=edge&amp%3Bspx=/kIwDeLhLt4uDy3B&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=play.google.com&amp%3Bsid=26e7#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20VLESS%20%7C%20%40netmellianti%20%232
 vless://ad8aa9eb-7120-4953-a877-e7206f5a7c3c@188.114.99.99:2096/?type=grpc&amp%3Bsecurity=tls&amp%3Bfp=chrome&amp%3Balpn=http/1.1&amp%3Bsni=tarasvalete.parhamtraberthos.IR.#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40new_proxy_channel%20%231
 vless://3689f110-792e-4156-bb6f-af7441ff1788@188.114.99.99:2096?type=grpc&amp%3Bsecurity=tls&amp%3Bfp=chrome&amp%3Balpn=http/1.1&amp%3Bsni=tarasvalete.parhamtraberthos.IR.#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20VLESS%20%7C%20%40new_proxy_channel%20%232
 vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@allsms.rozfa.com:443?path=//%3Fed%3D2048&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Balpn=h2%2Chttp/1.1&amp%3Bhost=TESt-TEsT-TEST-TEsT.pAGes.dEV&amp%3Bfp=randomized&amp%3Btype=ws&amp%3Bsni=test-teSt-tEsT-teSt.pagES.DEv#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20VLESS%20%7C%20%40nn_vpn%20%231
@@ -503,3 +502,4 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.228:8443?allowInsecure=1
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.231:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.246:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.248:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.251:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ADE

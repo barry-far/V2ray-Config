@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@134.122.194.186:443?path=/fp&amp%3Bsecurity=tls&amp%3Bencryption=none&amp%3Binsecure=0&amp%3Bhost=2-ee1.pages.dev&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=2-ee1.pages.dev#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20VLESS%20%7C%20%40megavpn_link%20%231
 vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?security=reality&amp%3Bencryption=none&amp%3Bpbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&amp%3BheaderType=none&amp%3Bfp=chrome&amp%3Bspx=/&amp%3Btype=tcp&amp%3Bsni=yahoo.com&amp%3Bsid=f71c22#%F0%9F%87%B1%F0%9F%87%BB%20LV%20%7C%20VLESS%20%7C%20%40megavpn_link%20%231
 hy2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&amp%3Bobfs=salamander&amp%3Bobfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&amp%3Binsecure=1&amp%3Bsni=hy2.aspidnet.xyz#%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20HY2%20%7C%20%40mehrosaboran%20%231
 trojan://MiTiVPN@172.67.210.215:443?path=/ed%3Dmitivpn&amp%3Bsecurity=tls&amp%3Balpn=http/1.1&amp%3Binsecure=0&amp%3Bhost=linkkon-w.ir&amp%3Bfp=chrome&amp%3Btype=ws&amp%3BallowInsecure=0&amp%3Bsni=linkkon-w.ir#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40mehrosaboran%20%231
@@ -503,3 +502,4 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.88:8443?encryption=none&
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.167:8443?encryption=none&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AHU
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.74:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ANL
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.75:8443?encryption=none&fp=chrome&security=tls&sni=cdn7-39.vk-cdnvideo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ASK
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.76:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AXX

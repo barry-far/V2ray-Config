@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://mitivpn@45.130.125.220:443?path=index.html=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-a.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-a.ir#@bored_vpn
 trojan://oJRk-2+NoHJ3N4frj_O2.0CzT+WAgdcs7b@144.31.55.35:28126?security=tls&headerType=&type=tcp&sni=www.game-bridge.click#⚡@V2ray_official
 trojan://oJRk-2+NoHJ3N4frj_O2.0CzT+WAgdcs7b@144.31.55.35:28126?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=www.game-bridge.click#@vmesskhodam
 trojan://oJRk-2+NoHJ3N4frj_O2.0CzT+WAgdcs7b@144.31.55.35:28126?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=www.game-bridge.click#[79973] - Telegram : @V2All
@@ -503,3 +502,4 @@ vless://24f1f7cc-3cfd-48c1-af87-07a50e9db7de@37.152.187.201:443?security=tls&alp
 vless://25111876-333c-4243-82a4-12c30d324698@104.16.149.244:2053?mode=auto&path=/hrkpJ7KmTIGlNLZ9PlLYtZNS&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=tr.majedtechnical.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=tr.majedtechnical.ir#@filembad
 vless://25111876-333c-4243-82a4-12c30d324698@104.16.149.244:2053?mode=auto&path=/hrkpJ7KmTIGlNLZ9PlLYtZNS&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=tr.majedtechnical.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=tr.majedtechnical.ir#[79969] - Telegram : @V2All
 vless://25111876-333c-4243-82a4-12c30d324698@104.16.149.244:2053?mode=auto&path=/hrkpJ7KmTIGlNLZ9PlLYtZNS&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=tr.majedtechnical.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=tr.majedtechnical.ir#🇨🇦@FreakConfig
+vless://252e7311-477b-4713-96ec-30ee8bb5f694@www.sibzam-poshak.ir:2082?security=reality&encryption=none&pbk=_Ep9rs71EW4BYpupN25Z91tKS4u2jyWERfrb0CY1OiE&headerType=http&fp=chrome&spx=/bsdFquDtebYtRLM/TELEGRAM----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN&type=tcp&sni=yahoo.com&sid=01117aa377a206#@FarazV2ray

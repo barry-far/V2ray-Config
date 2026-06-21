@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.223:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-7.ariyuz.org#🔵@chillguy_vpn
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=%2Fhdgrbws&security=tls&encryption=none&host=terazhediii.info&fp=chrome&type=ws&sni=terazhediii.info#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F`
+vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.89:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02&packetEncoding=xudp#🔵@chillguy_vpn
+vless://52b71b75-4b77-4cec-990b-046ec1938e1f@45.90.97.132:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=65T6l7e51lwKu1rzQ4FgqVPe-JyG43IqPLw6r9U2v10&security=reality&sid=0befa76540b5db79&sni=fr.bvps.cloud&type=tcp#%F0%9F%8C%8A36@NetFlowTools
 trojan://humanity@104.17.131.88:443?fp=chrome&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%F0%9F%8C%8A33@NetFlowTools
 vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%F0%9F%8C%8A39@NetFlowTools
 trojan://humanity@172.66.44.211:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%F0%9F%8C%8A41@oneclickvpnkeys

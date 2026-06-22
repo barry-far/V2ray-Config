@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://dd47f0f6-e503-44d5-8243-0f48c1c20c28@31.77.56.79:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=QGnGWzhnKWHNkpRXIm13T-2OFfZ8h7ch9pJhpqADzFU&type=grpc&authority=&serviceName=vless-grpc&mode=gun#🔵@chillguy_vpn
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.129:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#🔵@chillguy_vpn
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.110:8443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#More%20%3A%20%40Qara_atayi%20%7C%7C%20reTunnel
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.69:8443?security=tls&encryption=none&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#More%20%3A%20%40Qara_atayi%20%7C%7C%20worker%20Ds
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.67:8443?security=tls&encryption=none&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=ams1.fromblancwithlove.com#More%20%3A%20%40Qara_atayi%20%7C%7C%20spoof
-vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.223:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-7.ariyuz.org#🔵@chillguy_vpn
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?path=%2Fhdgrbws&security=tls&encryption=none&host=terazhediii.info&fp=chrome&type=ws&sni=terazhediii.info#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F`
-vless://52b71b75-4b77-4cec-990b-046ec1938e1f@45.90.97.132:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=65T6l7e51lwKu1rzQ4FgqVPe-JyG43IqPLw6r9U2v10&security=reality&sid=0befa76540b5db79&sni=fr.bvps.cloud&type=tcp#%F0%9F%8C%8A36@NetFlowTools
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#%F0%9F%8C%8A39@NetFlowTools
 trojan://humanity@104.17.131.88:443?fp=chrome&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%F0%9F%8C%8A33@NetFlowTools
 trojan://humanity@172.66.44.211:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%F0%9F%8C%8A41@oneclickvpnkeys
 trojan://oJRk-2+NoHJ3N4frj_O2.0CzT+WAgdcs7b@144.31.55.35:28126?sni=www.game-bridge.click#%F0%9F%8C%8A44@NetFlowTools

@@ -10,6 +10,7 @@
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 vless://9cda451e-0adf-4df1-a5b4-7fec8f363c10@all20.allenshop100.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#%F0%9F%87%AC%F0%9F%87%A7telegram%E2%9E%A0%40v2rayNG_Matsuri
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.129:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#%40v2raybaaz%20%C2%B2
+vless://bbab81f3-87a0-4e63-8b3b-010c645d8da7@45.130.125.239:443?mode=stream-one&path=%2Fmeti&security=tls&encryption=none&extra=%7B%22uplinkHTTPMethod%22%3A%22PUT%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=mAJiD-SmArT.NEwAPpdOMiNFaStLOGiN4.cOM&fp=chrome&type=xhttp&allowInsecure=0&sni=mAJiD-SmArT.NEwAPpdOMiNFaStLOGiN4.cOM#%F0%9F%87%A9%F0%9F%87%AAtelegram%E2%9E%A0%40v2rayNG_Matsuri
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.113:8443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=safari&type=tcp&sni=cdn7-39.vk-cdnvideo.com#%40outline_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#%F0%9F%87%B3%F0%9F%87%B1%5B@V2raysCollector%5D%20ss-NL
 vless://d205ae68-0819-473c-b425-6c5947ac2f8d@209.127.228.114:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cars.morro-settings.ru&fp=firefox&security=reality&pbk=8vqOvJ5eoG_9oHla4B3Vh1E-o39RrCXW6Wr7OcXZGmI&sid=dd#0040-NetFreedom0
@@ -502,4 +503,3 @@ trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:45619?allowInsecure=
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.92:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#⛵54@oneclickvpnkeys
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.92:46424?allowInsecure=1&sni=de.01.naiun.bilibili.com#⛵48@oneclickvpnkeys
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#⛵55@oneclickvpnkeys
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:47909?allowInsecure=1&fp=chrome&sni=is.01.naiun.bilibili.com# ⛵58@oneclickvpnkeys

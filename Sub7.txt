@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://8a30cf48-9fa2-46c5-8815-2822b12852e0@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=1&host=xqkxw.ccwu.cc&type=ws&allowInsecure=1&sni=xqkxw.ccwu.cc#@Evay_vpn
 vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:15482?encryption=none&security=none&type=tcp&headerType=http&path=/#Channel : @ Daily_Configs
 vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:45012?encryption=none&host=&path=/&security=none&type=httpupgrade#@NewsDarya
 vless://8a53834d-435a-496c-bcc3-a66088e5b926@45.38.37.4:45012?path=/&security=none&encryption=none&type=httpupgrade#@v2raybaaz ⁵
@@ -502,4 +503,3 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.133:443?security=reality
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.133:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn4-35.yahoo.com&sid=7e77e7e2cf2b7a79#Proxy_Se7en
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.163:8443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#1 @fastkanfig
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.164:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#@GozargahAzad|🇩🇪
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.164:8443?encryption=none&fp=chrome&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#filembad-406

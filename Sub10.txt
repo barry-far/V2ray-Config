@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d5754afc-b328-4e0a-8071-de6d19dc078d@www.speedtest.net:443?path=/proxyip=151.236.29.97&security=tls&encryption=none&host=sik.amirkhorasoni.workers.dev&fp=chrome&type=ws&sni=sik.amirkhorasoni.workers.dev#@ReleaseNet
 vless://d59a47d8-f344-4a0b-81d6-9f68cb8be873@188.114.97.6:2095?path=/?ed=2048&security=none&encryption=none&host=iNFoRmeD-PArt0Y2KT5cRvl.SaMSunGovenS.ir.&type=ws#TEL;Father_vpn
 vless://d60358e9-4c24-418e-5621-59ce7df5493c@snapp.ir:2087?path=/BetForward&security=tls&alpn=h2,http/1.1,h3&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#Proxy_Se7en
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@141.101.113.247:8880?security=tls&sni=ex.sue.x10.mx&type=ws&path=/Telegram🇨🇳&host=ex.sue.x10.mx&packetEncoding=xudp&encryption=none#
@@ -502,4 +503,3 @@ vless://f7e3ff36-276c-4477-b6d4-47257500d869@gerardo.ns.cloudflare.com:443?path=
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:443?path=/?ed=3000&security=tls&encryption=none&host=pon.antalmani.mm.am&fp=chrome&type=ws&sni=pon.antalmani.mm.am#Channel id: @internet_azad_2026
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@love.ns.cloudflare.com:80?path=/?ed=3000&security=&encryption=none&host=pon.antalmani.mm.am&type=ws#Proxy_Se7en
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@www.speedtest.net:443?path=/?ed=3000&security=tls&encryption=none&host=pon.antalmani.mm.am&fp=chrome&type=ws&sni=pon.antalmani.mm.am#Channel id: @internet_azad_2026
-vless://f82944fe-9863-494a-9a2d-0f3120a774c6@82.22.53.30:448?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.googletagmanager.com&fp=chrome&pbk=0B7XMJC-mBqvUkf_on0wPZeW1iVmZIbEPVyvz-V_jRI&sid=60d7a9bbacadc0fb&type=tcp&headerType=none#hope of freedom - @anotherme_night

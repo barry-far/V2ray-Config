@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://1d623d4a-5219-48bb-b9a4-5f3f0265280e@ez-7e4edf.nova-fac854.workers.dev:2087?path=/&security=tls&encryption=none&insecure=0&host=ez-7e4edf.nova-fac854.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-7e4edf.nova-fac854.workers.dev#🚀@VPNine1
 vless://1d623d4a-5219-48bb-b9a4-5f3f0265280e@ez-7e4edf.nova-fac854.workers.dev:2096?path=/&security=tls&encryption=none&insecure=0&host=ez-7e4edf.nova-fac854.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-7e4edf.nova-fac854.workers.dev#🚀@VPNine1
 vless://1d623d4a-5219-48bb-b9a4-5f3f0265280e@ez-7e4edf.nova-fac854.workers.dev:443?path=/&security=tls&encryption=none&insecure=0&host=ez-7e4edf.nova-fac854.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-7e4edf.nova-fac854.workers.dev#🚀@VPNine1
 vless://1d623d4a-5219-48bb-b9a4-5f3f0265280e@ez-7e4edf.nova-fac854.workers.dev:8443?path=/&security=tls&encryption=none&insecure=0&host=ez-7e4edf.nova-fac854.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-7e4edf.nova-fac854.workers.dev#🚀@VPNine1
@@ -502,4 +503,3 @@ vless://3ba8fd11-ff7e-41be-ba34-db94dc7c619d@0dbn.themonji.com:8844?encryption=n
 vless://3ba8fd11-ff7e-41be-ba34-db94dc7c619d@116.203.6.53:8841?encryption=none&security=none&type=tcp&headerType=http&path=/&host=docs.google.com#@ReleaseNet
 vless://3ba8fd11-ff7e-41be-ba34-db94dc7c619d@116.203.6.53:8842?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=play.google.com&fp=chrome&pbk=vsk5Gct4zcJxWTgDqAj5wtv9dCa-Zk-uNVQHq44vFhI&sid=2a7f6b8788caca70#@ReleaseNet
 vless://3ba8fd11-ff7e-41be-ba34-db94dc7c619d@116.203.6.53:8844?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#@ReleaseNet
-vless://3ba8fd11-ff7e-41be-ba34-db94dc7c619d@188.114.97.6:2053?encryption=none&security=tls&type=ws&headerType=none&path=/landing?ed=256&host=clientc.themonji.com&sni=clientc.themonji.com&alpn=h3,h2,http/1.1#@ReleaseNet

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d205ae68-0819-473c-b425-6c5947ac2f8d@209.127.228.114:443?security=reality&encryption=none&pbk=8vqOvJ5eoG_9oHla4B3Vh1E-o39RrCXW6Wr7OcXZGmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cars.morro-settings.ru&sid=dd#@FarazV2ray
 vless://d205ae68-0819-473c-b425-6c5947ac2f8d@209.127.228.114:443?security=reality&encryption=none&pbk=8vqOvJ5eoG_9oHla4B3Vh1E-o39RrCXW6Wr7OcXZGmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cars.morro-settings.ru&sid=dd#@Filtershekan_channel |10
 vless://d205ae68-0819-473c-b425-6c5947ac2f8d@209.127.228.114:443?security=reality&encryption=none&pbk=8vqOvJ5eoG_9oHla4B3Vh1E-o39RrCXW6Wr7OcXZGmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cars.morro-settings.ru&sid=dd#@Soul737
 vless://d205ae68-0819-473c-b425-6c5947ac2f8d@209.127.228.114:443?security=reality&encryption=none&pbk=8vqOvJ5eoG_9oHla4B3Vh1E-o39RrCXW6Wr7OcXZGmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cars.morro-settings.ru&sid=dd#Proxy_Se7en
@@ -502,4 +503,3 @@ vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.162:8443?mode=auto&path=
 vless://f112ad3b-9c4c-4f76-b1a9-12ed9dd7e63c@91.107.183.8:843?security=none&encryption=none&headerType=none&type=tcp#Telegram : @V2ynpv
 vless://f12a5e31-05b8-4520-b3a4-e9da1f08ceb6@104.18.32.47:2087?path=/&security=tls&encryption=none&insecure=0&host=chandeht4.newappdominfastlogin4.com&fp=chrome&type=ws&allowInsecure=0&sni=chandeht4.newappdominfastlogin4.com#@V2ray_Alpha🍄 3
 vless://f12a5e31-05b8-4520-b3a4-e9da1f08ceb6@104.18.32.47:2087?path=/&security=tls&encryption=none&insecure=0&host=chandeht4.newappdominfastlogin4.com&fp=chrome&type=ws&allowInsecure=0&sni=chandeht4.newappdominfastlogin4.com#@filembad
-vless://f12a5e31-05b8-4520-b3a4-e9da1f08ceb6@104.18.32.47:2087?path=/&security=tls&encryption=none&insecure=0&host=chandeht4.newappdominfastlogin4.com&fp=chrome&type=ws&allowInsecure=0&sni=chandeht4.newappdominfastlogin4.com#@meliproxyy

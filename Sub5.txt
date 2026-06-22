@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://3ba8fd11-ff7e-41be-ba34-db94dc7c619d@188.114.97.6:2053?encryption=none&security=tls&type=ws&headerType=none&path=/landing?ed=256&host=clientc.themonji.com&sni=clientc.themonji.com&alpn=h3,h2,http/1.1#@ReleaseNet
 vless://3ba8fd11-ff7e-41be-ba34-db94dc7c619d@themonji.com:443?encryption=none&security=none&type=tcp&headerType=http&path=/#@ReleaseNet
 vless://3becb56a-1d9f-77e7-c898-4c1c3b53f360@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/3becb56a-1d9f-77e7-c898-4c1c3b53f360#94
 vless://3c37d31e-9990-4c52-80fa-d971564d58c1@49.12.237.71:443?path=/?u=73742dbc12&security=tls&encryption=none&insecure=0&host=nova-atlas-core-609c.nova-c40b57.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-atlas-core-609c.nova-c40b57.workers.dev#@ReleaseNet
@@ -502,4 +503,3 @@ vless://61d90061-8762-4c25-84e6-8f5c5e00f393@192.166.82.190:14112?security=none&
 vless://61d90061-8762-4c25-84e6-8f5c5e00f393@192.166.82.190:14112?security=none&encryption=none&headerType=none&type=tcp#@mehrosaboran
 vless://61e688aa-3e6f-4b74-bf6e-22362a2edb26@fin3.flotaw.ir:8443?path=/api&security=tls&encryption=mlkem768x25519plus.native.0rtt.TUi7u5UXHqLaEQK2w69XWLPOiKYd5Ded1AwEPgAvphg&insecure=0&host=api.flotaw.ir&fp=chrome&type=ws&allowInsecure=0&sni=api.flotaw.ir#TEL;Father_vpn
 vless://61f37706-1b93-4971-88d5-9f7c2231c73c@45.130.125.126:2053?path=/ws-vlees&security=tls&alpn=h2,http/1.1&encryption=none&host=gm.PoRLuMa.IR&fp=chrome&type=ws&sni=gm.PoRLuMa.IR#@ReleaseNet
-vless://61f37706-1b93-4971-88d5-9f7c2231c73c@45.130.125.126:2053?path=/ws-vlees&security=tls&alpn=h2,http/1.1&encryption=none&host=gm.PoRLuMa.IR&fp=chrome&type=ws&sni=gm.PoRLuMa.IR#🇮🇹

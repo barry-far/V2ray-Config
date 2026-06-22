@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://s75Gtmy56sptTA39hmBH965YYx4ZgfQR_I@103.125.219.70:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=103.125.219.70#Channel id: @internet_azad_2026
 trojan://s75Gtmy56sptTA39hmBH965YYx4ZgfQR_I@103.125.219.70:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=103.125.219.70#Proxy_Se7en
 trojan://s75Gtmy56sptTA39hmBH965YYx4ZgfQR_I@103.125.219.70:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=103.125.219.70#@Soul737
 trojan://s75Gtmy56sptTA39hmBH965YYx4ZgfQR_I@103.125.219.70:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=103.125.219.70#Proxy_Se7en
@@ -502,4 +503,3 @@ vless://1cf6cae1-e402-412b-954c-8b8c27cbdac4@forallpanel.srtongston.ir:8880?path
 vless://1cf6cae1-e402-412b-954c-8b8c27cbdac4@forallpanel.srtongston.ir:8880?path=/?ed=2082&security=none&encryption=none&host=cdn-pro3.postshup.ir&type=httpupgrade#@prrofile_purple  ♥️👈 تلگرام
 vless://1d623d4a-5219-48bb-b9a4-5f3f0265280e@ez-7e4edf.nova-fac854.workers.dev:2053?path=/&security=tls&encryption=none&insecure=0&host=ez-7e4edf.nova-fac854.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-7e4edf.nova-fac854.workers.dev#🚀@VPNine1
 vless://1d623d4a-5219-48bb-b9a4-5f3f0265280e@ez-7e4edf.nova-fac854.workers.dev:2083?path=/&security=tls&encryption=none&insecure=0&host=ez-7e4edf.nova-fac854.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-7e4edf.nova-fac854.workers.dev#🚀@VPNine1
-vless://1d623d4a-5219-48bb-b9a4-5f3f0265280e@ez-7e4edf.nova-fac854.workers.dev:2087?path=/&security=tls&encryption=none&insecure=0&host=ez-7e4edf.nova-fac854.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-7e4edf.nova-fac854.workers.dev#🚀@VPNine1

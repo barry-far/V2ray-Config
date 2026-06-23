@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN#🇯🇵 - JP - @FreeOnlineVPN
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#⛵53@oneclickvpnkeys
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:47909?allowInsecure=1&sni=is.01.naiun.bilibili.com#⛵50@oneclickvpnkeys
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:45619?allowInsecure=1&sni=fr.01.naiun.bilibili.com#⛵56@oneclickvpnkeys
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.92:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#⛵54@oneclickvpnkeys
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.92:46424?allowInsecure=1&sni=de.01.naiun.bilibili.com#⛵48@oneclickvpnkeys
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#⛵55@oneclickvpnkeys
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:47909?allowInsecure=1&fp=chrome&sni=is.01.naiun.bilibili.com# ⛵58@oneclickvpnkeys
@@ -503,3 +498,8 @@ trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?security=tls&header
 trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#Proxy_Se7en
 trojan://mSzFVhUczD@104.20.6.134:443?security=tls&sni=abest.api-tel.xyz&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#@SheriffNet
 trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#@prrofile_purple  ♥️👈 تلگرام
+trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#Proxy_Se7en
+trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#TEL;Father_vpn
+trojan://mitivpn@104.16.72.70:443?path=index.php=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-a.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-a.ir#@prrofile_purple  ♥️👈 تلگرام
+trojan://mitivpn@109.120.176.4:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#@V2ConfigPro
+trojan://mitivpn@188.114.97.6:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.mitivpn.in.net#@hopev2ray❣️

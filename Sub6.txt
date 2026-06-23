@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@local.cloud-play.ir:80?encryption=none&extra={"xPaddingBytes":"100-1000"}&host=xenoengineer.com&mode=auto&path=/&security=none&type=xhttp&x_padding_bytes=100-1000#kurdconfig
-vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@local.cloud-play.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#@flyv2ray
-vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@mci.cloud-play.ir:80?mode=auto&path=/&security=&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#@TEHRANARGO
-vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@mci.cloud-play.ir:80?mode=auto&path=/&security=&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#@configprxy
-vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@mci.cloud-play.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#@flyv2ray
 vless://6263516e-13f4-4a29-8c6b-a999aafa438b@185.231.115.48:2053?type=tcp&security=none&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=15052edc8120b63d#@GozargahAzad|🇪🇸
 vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?encryption=none&type=tcp&security=reality&headerType=none&sni=www.googletagmanager.com&fp=chrome&insecure=1&allowInsecure=1&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&sid=15052edc8120b63d&flow=xtls-rprx-vision#@Best_internet_iran
@@ -503,3 +498,8 @@ vless://890cb407-0d00-4337-9e5d-b4df06a1635c@18.143.76.130:443?path=/?ed=2560&se
 vless://890cb407-0d00-4337-9e5d-b4df06a1635c@18.143.76.130:443?security=tls&sni=auv.vavava.kdns.fr&alpn=&fp=chrome&type=ws&host=auv.vavava.kdns.fr&path=/?ed=2560&fragment=1,40-60,30-50,tlshello&encryption=none
 vless://890cb407-0d00-4337-9e5d-b4df06a1635c@18.143.76.130:443?security=tls&sni=auv.vavava.kdns.fr&alpn=&fp=chrome&type=ws&host=auv.vavava.kdns.fr&path=/?ed=2560&fragment=1,40-60,30-50,tlshello&encryption=none#🔵@chillguy_vpn
 vless://890cb407-0d00-4337-9e5d-b4df06a1635c@38.75.221.32:443?encryption=none&security=tls&sni=auv.vavava.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=auv.vavava.kdns.fr&path=/#🔵@chillguy_vpn
+vless://890cb407-0d00-4337-9e5d-b4df06a1635c@43.165.175.34:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=auv.vavava.kdns.fr#@vmesskhodam
+vless://8937c203-8ec6-477f-830b-939992cba4eb@local.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=shirin-kose.de&type=xhttp#⚜️𝗝𝗼𝗶𝗻 ➠ @Soul737
+vless://8937c203-8ec6-477f-830b-939992cba4eb@local.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=shirin-kose.de&type=xhttp#⚜️𝗝𝗼𝗶𝗻 ➠ @TEHRANARGO
+vless://8937c203-8ec6-477f-830b-939992cba4eb@mci.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=&encryption=none&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&host=shirin-kose.de&type=xhttp#⚜️𝗝𝗼𝗶𝗻 ➠ @TEHRANARGO
+vless://899b1131-5827-fc71-8d31-9d78605af533@rvg-production-300c.up.railway.app:443?path=/ws/899b1131-5827-fc71-8d31-9d78605af533&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-300c.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-300c.up.railway.app#RVG-@namedzadim

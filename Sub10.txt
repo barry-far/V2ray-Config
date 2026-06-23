@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&type=tcp&headerType=none#🇺🇸US_2639_@Surfboardv2ray
+vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#@CUSTOMVPNSERVER
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#@FarazV2ray
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#@Soul737
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#Proxy_Se7en
@@ -501,5 +503,3 @@ vless://ecd7aeca-2e37-4761-93e7-7cf4c2ff55bf@2.27.22.238:110?security=none&encry
 vless://ed007a44-5601-49d1-860a-c2182391a9e6@flae2.faradl.ir:2087?encryption=none&security=none&type=tcp&headerType=http#@Daily_Configs
 vless://ed007a44-5601-49d1-860a-c2182391a9e6@flae2.faradl.ir:2087?security=&encryption=none&headerType=http&type=tcp#@hi_proxy_iran :👈کانال تلگرام
 vless://ed007a44-5601-49d1-860a-c2182391a9e6@flae2.faradl.ir:2087?security=&encryption=none&headerType=http&type=tcp#telegram @mtmvpn
-vless://ed007a44-5601-49d1-860a-c2182391a9e6@flae2.faradl.ir:2087?security=none&encryption=none&headerType=http&type=tcp#@Soul737
-vless://ed007a44-5601-49d1-860a-c2182391a9e6@flae2.faradl.ir:2087?security=none&encryption=none&headerType=http&type=tcp#@V2dogs_n

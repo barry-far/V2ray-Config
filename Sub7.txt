@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://82d47c52-9738-4d40-93a4-220bab575c60@213.176.16.179:443?encryption=none&security=reality&sni=treng.loralden.com&fp=chrome&pbk=EUK_ePvEKUGcezQYHqgJ5P462XxLPXPm9CZWGLaL33k&sid=ed72a429f0135a3f&type=grpc&authority=&serviceName=grpc&mode=gun#@Daily_Configs
+vless://82d47c52-9738-4d40-93a4-220bab575c60@treng.loralden.com:443?encryption=none&fp=&pbk=EUK_ePvEKUGcezQYHqgJ5P462XxLPXPm9CZWGLaL33k&security=reality&serviceName=grpc&sid=ed72a429f0135a3f&sni=treng.loralden.com&type=grpc#⛵40@oneclickvpnkeys
 vless://82d47c52-9738-4d40-93a4-220bab575c60@treng.loralden.com:443?mode=gun&security=reality&encryption=none&pbk=EUK_ePvEKUGcezQYHqgJ5P462XxLPXPm9CZWGLaL33k&type=grpc&serviceName=grpc&sni=treng.loralden.com&sid=ed72a429f0135a3f#@FarazV2ray
 vless://82e3c8a0-e972-4785-b4a6-cae43969fb05@fr1.nomac.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#telegram @mtmvpn 4
 vless://83a589e2-3680-4bc2-a4e6-ed8f2d2452b4@188.114.97.6:2096?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=entekhab.ir.iribnews.ir.alalamtv.net.sharghdaily.com.ifpnews.com.alef.ir.hamshahrionline.ir&allowInsecure=0&sni=emotioNAl-haPPInEsswO85E1O13D.oNeeAt.co#TEL;Father_vpn
@@ -501,5 +503,3 @@ vless://92e41c23-4b39-464a-bbff-63ef84f317da@152.233.43.71:443?encryption=none&f
 vless://92e41c23-4b39-464a-bbff-63ef84f317da@152.233.43.71:443?security=reality&encryption=none&pbk=DaQjKlJbC2ksBaItYb0fjt1xkIcxRh_STIQ4rkrydjY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=7db44191#🇵🇱@FreakConfig
 vless://92e41c23-4b39-464a-bbff-63ef84f317da@156.146.40.201:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=WMO-BNY1BX2nNlOOQgxLP4D3H-OnE2ypbXlbSMjLRVM&sid=e764f0ea&type=tcp&headerType=none#hope of freedom - @anotherme_night
 vless://92e41c23-4b39-464a-bbff-63ef84f317da@156.146.40.201:443?security=reality&encryption=none&pbk=WMO-BNY1BX2nNlOOQgxLP4D3H-OnE2ypbXlbSMjLRVM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=e764f0ea#🇸🇰@FreakConfig
-vless://92e41c23-4b39-464a-bbff-63ef84f317da@95.173.199.110:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=DxMGwax3l0UxFYZE349Fs15huyc4Jwzj6MG7Qrj0HQ0&sid=735093d7&type=tcp&headerType=none#hope of freedom - @anotherme_night
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.198:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn8-90.yahoo.com&sid=8015c191d21aa452#@v2rayNplus |🇺🇸

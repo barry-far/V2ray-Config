@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://3a0e37f7-b83b-4db2-838a-b93bd5ed7a39@80.249.112.235:8081?encryption=mlkem768x25519plus.native.0rtt.BcBXsL1S8mZsNZGovADooXdMgHAi56vwLb6DlCF0phU&security=none&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇮🇷]t.me/Raiv2mmr
+vless://3a0e37f7-b83b-4db2-838a-b93bd5ed7a39@80.249.112.235:8081?encryption=mlkem768x25519plus.native.0rtt.BcBXsL1S8mZsNZGovADooXdMgHAi56vwLb6DlCF0phU&type=tcp&headerType=none#@meliproxyy
 vless://3b0d0482-187d-4f9d-a448-f99c41eec1ea@91.107.166.66:4043?security=reality&encryption=none&pbk=ymlfKdtlbiHM7nfc15dfg_bnv0tnyd3GZR06Gz5W6R4&headerType=none&fp=chrome&spx=/rkUO2l8YDWFCnk3&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=9aca3d#@v2rayNplus |Germany
 vless://3b0d0482-187d-4f9d-a448-f99c41eec1ea@91.107.166.66:4043?security=reality&encryption=none&pbk=ymlfKdtlbiHM7nfc15dfg_bnv0tnyd3GZR06Gz5W6R4&headerType=none&fp=chrome&spx=/rkUO2l8YDWFCnk3&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=9aca3d#@v2rayNplus |🇩🇪
 vless://3b0d0482-187d-4f9d-a448-f99c41eec1ea@91.107.166.66:8080?security=reality&encryption=none&pbk=zpB9nr7BiMTUIAf7yzNC8PK5xmrMu_obV0XQ5NY031U&headerType=none&fp=chrome&spx=/xCZxlC8aGTT6oky&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=d934#@v2rayNplus |🇩🇪
@@ -501,5 +503,3 @@ vless://5e0179a9-ffe3-40c8-947b-dc6eb053a103@de2.cdnless.com:8880?mode=auto&path
 vless://5ec1c445-0cca-4fd6-bac1-09ba3653a8bf@tr.lmproject.top:443?security=reality&encryption=none&pbk=HgSvYRXth0LfM5NaE1bMb9v8AupfFOBqgx-Br8yGr1c&headerType=&fp=chrome&spx=/MnhPFPQSK8k8jyu&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=e42775668c5b2a09#@icv2ray
 vless://5ecce1c8-6d7e-4050-b860-780ac563f091@sourceforge.net:2083?path=/eyJqdW5rIjoiVkxoZDZ5R3UiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast.akbarabdi1.workers.dev&fp=chrome&type=ws&sni=V2NGFAsT.aKbarAbDI1.woRkeRs.DEV#🇩🇪 @V2ngFast
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=bastona.aroonsid.ir#🇹🇷| (𝐈𝐫𝐚𝐧𝐜𝐞𝐥𝐥)
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=buligh.aroonsid.ir#🇧🇬| (𝐈𝐫𝐚𝐧𝐜𝐞𝐥𝐥)
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=latvia.aroonsid.ir#🇱🇻| (𝐈𝐫𝐚𝐧𝐜𝐞𝐥𝐥)

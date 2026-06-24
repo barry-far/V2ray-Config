@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3dec062d-8da3-49f3-bc46-4e4edfd08505@154.83.159.20:8443?security=reality&encryption=none&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=0905b6e16602f326#@VpnCostumer+|+بیا+تو+وصل+باش+💙
 vless://3e40c799-dc8f-4155-a1bc-6a515f7cd0c2@185.143.233.68:443?encryption=none&type=ws&security=tls&path=/&host=backend.parhamm2.ir&sni=backend.parhamm2.ir&fp=chrome&allowInsecure=1#تلگرام : V2ynpv @
 vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.180:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&security=reality&sid=2cfb5a0ae8ab0cb0&sni=storage.yandex.net&type=tcp#💟31@oneclickvpnkeys
 vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.180:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&type=tcp&headerType=none#hope of freedom - @anotherme_night
@@ -503,3 +502,4 @@ vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@mci.cloud-play.ir:80?mode=auto&path
 vless://6263516e-13f4-4a29-8c6b-a999aafa438b@185.231.115.48:2053?type=tcp&security=none&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?Telegram=@armindone,@armindone,@armindone,@armindone&security=reality&encryption=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=15052edc8120b63d#@armindone👈چنل تلگراممون
 vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.googletagmanager.com&fp=chrome&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&sid=15052edc8120b63d&type=tcp&headerType=none#@Daily_Configs
+vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?encryption=none&type=tcp&security=reality&headerType=none&sni=www.googletagmanager.com&fp=chrome&insecure=1&allowInsecure=1&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&sid=15052edc8120b63d&flow=xtls-rprx-vision#@W570W - 7

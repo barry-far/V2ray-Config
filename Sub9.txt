@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://bc23e569-a9d3-4079-cd35-4c60ee060c3e@47.250.195.25:19108?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
 vless://bc23e569-a9d3-4079-cd35-4c60ee060c3e@47.250.195.25:19108?security=none&encryption=none&headerType=none&type=tcp#🇲🇾@FreakConfig
 vless://bc23e569-a9d3-4079-cd35-4c60ee060c3e@47.250.195.25:19108?security=none&encryption=none&headerType=none&type=tcp#🇲🇾@irconfiig
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
@@ -503,3 +502,4 @@ vless://e32b0e12-f108-4b73-be2d-bf09c00ad888@151.101.110.219:443?path=/&security
 vless://e32b0e12-f108-4b73-be2d-bf09c00ad888@151.101.110.219:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@erfanandroid
 vless://e32b0e12-f108-4b73-be2d-bf09c00ad888@151.101.110.219:443?path=/&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@tootffarangi🍓-1
 vless://e32b0e12-f108-4b73-be2d-bf09c00ad888@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=albaniijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@Soul737
+vless://e32b0e12-f108-4b73-be2d-bf09c00ad888@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=albaniijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@erfanandroid

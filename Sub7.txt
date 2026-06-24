@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.247:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Channel : @Daily_Configs
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.251:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=enterprisekitten.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#@Daily_Configs
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.251:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#🇫🇮 Join+Telegram:@Farah_VPN 🇫🇮
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.251:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@ReleaseNet
@@ -503,3 +502,4 @@ vless://9cf40e8b-07e0-4e4d-a1f0-09b37ca5f5f1@vip-81.f-sub.cfd:1517?security=none
 vless://9d09a22b-acf7-4da2-923c-3dc3a3442fbb@167.233.116.204:37716?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
 vless://9d09a22b-acf7-4da2-923c-3dc3a3442fbb@167.233.116.204:37716?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@
 vless://9d09a22b-acf7-4da2-923c-3dc3a3442fbb@167.233.116.204:37716?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
+vless://9d1f3567-232f-4a02-bf50-4028f5d9a8ca@94.249.225.126:443?security=reality&encryption=none&pbk=zMuLYURvrPXeNU39XaN9FZN5PUDQdyffei01IugpZwk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=e32354adc83bd772#@meliproxyy

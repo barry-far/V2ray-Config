@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.144:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#@FarazV2ray
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.144:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#ProxyMtpVPN-391
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.144:8443?security=tls&encryption=none&insecure=0&host=/&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#@confiig_hub
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.144:8443?security=tls&encryption=none&insecure=0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#@V2dogs_n
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.144:8443?security=tls&encryption=none&insecure=0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#@flyv2ray
@@ -503,3 +501,5 @@ vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@78.40.193.172:443?flow=xtls-rprx-vi
 vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv1.yunus.guru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-X9CZv5MYKivpxPVP1vdgFKf2AJWmZ0Pju-j8LFmlh4&security=reality&sid=6c88854e73e86773&sni=rezerv1.yunus.guru&type=tcp👉🆔freenettir📡🇳🇱®️The#@v2rayconfigamir 3007
 vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv4.yunus.guru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=wdUdFTq0BP7xFnAWNbfdAFeieIOuExZ3HUctSiChCzU&security=reality&sid=e80a3158be637ee1&sni=rezerv4.yunus.guru&type=tcp#@ReleaseNet
 vless://a5f3e5f5-ffa4-43dd-84b6-20aedd1a843e@37.49.224.32:443?security=reality&encryption=none&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dev.max.ru&sid=c338fe2b01cf271a#[🇪🇪]@NetliVPN
+vless://a5f3e5f5-ffa4-43dd-84b6-20aedd1a843e@37.49.224.32:443?security=reality&encryption=none&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dev.max.ru&sid=c338fe2b01cf271a&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇳🇱]t.me/Raiv2mmr
+vless://a6346e46-f69d-4f8e-995b-6a24ae64b053@anten.ir:2086?path=/&security=none&encryption=none&host=hap.kalaleh24.ir&type=ws#@NetZone_ir

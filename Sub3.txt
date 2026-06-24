@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&insecure=0&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#@Leecher56
-trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&insecure=0&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#@bored_vpn
 trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&insecure=0&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️406🌐🆕️
 trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #7
 trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#@Arvand_soul❤️🧑‍💻 کانفیگ ملی در #3
@@ -503,3 +501,5 @@ vless://13eca667-1903-4afd-b1e7-9f2608732e8a@ukr.arain-gogamecenter.ir:16005?sec
 vless://140d13d4-3507-4f36-93ef-5913b24ec8fe@8.35.211.56:2087?encryption=none&security=tls&sni=dl-pack.motionbetter.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=dl-pack.motionbetter.ir&path=/#freee
 vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&fp=chrome&type=xhttp&sni=vh.mojaz-persian-music.ir#❤️‍🔥 کانال تلگرام HiByeVPNN@
 vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.194:8443?encryption=none&security=tls&sni=vip.mojaz-persian-music.ir&fp=chrome&alpn=h3,h2&insecure=0&allowInsecure=0&type=xhttp&path=/&mode=auto&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}#🇸🇨SC_428_@Surfboardv2ray
+vless://143b1fe8-f21f-452b-9738-3eed89d63451@news.microsoft.com:443?encryption=none&security=tls&sni=de1.gamelistak.com&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=de1.gamelistak.com&path=/@MrNexTV2RAY&mode=auto&extra={"xPaddingBytes":"100-1000"}#@MrNexTV2RAY
+vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#TEL:Father_vpn

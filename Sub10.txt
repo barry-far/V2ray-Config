@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://dacb912c-39ef-4fe0-d720-fadaa53111c0@3.72.6.34:443?security=none&encryption=none&headerType=none&type=tcp#@KAFING_2
 vless://dacb912c-39ef-4fe0-d720-fadaa53111c0@3.72.6.34:443?security=none&encryption=none&headerType=none&type=tcp#Telegram : @V2ynpv
 vless://dae2ddc6-a892-495f-a001-181cec56ad12@snapp.ir:2052?path=/&security=none&encryption=none&host=p1.razstar.ir&type=ws#@NetZone_ir
 vless://daf13e97-3503-47ef-8318-d6e64c820223@141.193.213.10:2087?path=/&security=tls&encryption=none&insecure=0&host=nova-coral-gate-cb56.nova-b3a2de.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-coral-gate-cb56.nova-b3a2de.workers.dev#@Ap_Ir6
@@ -502,4 +503,3 @@ vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.170.166.140:80?path=/Telegram�
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.193.29.140:80?path=Telegram @WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#@V2raySup0🚀
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.193.29.140:80?path=Telegram+@WangCai2&security=&encryption=none&host=s5.868001.xyz&type=ws#@Soul737
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.238.228.140:80?path=/Telegram🇨🇳+@WangCai2&security=&encryption=none&host=s5.868001.xyz&type=ws#@Soul737
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@31.43.179.140:80?path=/Telegram🇨🇳+@WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws#@FarazV2ray

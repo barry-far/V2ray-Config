@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?mode=gun&security=reality&encryption=none&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&fp=chrome&type=grpc&sni=c.primarymaster.online&sid=c56c3ba3b9f676c5#@TEHRANARGO
 vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?mode=gun&security=reality&encryption=none&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&fp=chrome&type=grpc&sni=c.primarymaster.online&sid=c56c3ba3b9f676c5#@V2ray_Alpha🌂 4
 vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?mode=gun&security=reality&encryption=none&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&fp=chrome&type=grpc&sni=c.primarymaster.online&sid=c56c3ba3b9f676c5#@bored_vpn
 vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?mode=gun&security=reality&encryption=none&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&fp=chrome&type=grpc&sni=c.primarymaster.online&sid=c56c3ba3b9f676c5#telegram @mtmvpn
@@ -503,3 +502,4 @@ vless://fc963b1f-ad85-4b73-93e3-0a5a0ec461da@securitytrails.com:443?mode=auto&pa
 vless://fc963b1f-ad85-4b73-93e3-0a5a0ec461da@securitytrails.com:443?mode=auto&path=/forall&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=ns1.my-miner.info&fp=chrome&type=xhttp&allowInsecure=0&sni=ns1.my-miner.info#@V2dogs_n
 vless://fc963b1f-ad85-4b73-93e3-0a5a0ec461da@securitytrails.com:443?mode=auto&path=/forall&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=ns1.my-miner.info&fp=chrome&type=xhttp&allowInsecure=0&sni=ns1.my-miner.info#@erfanandroid
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?path=/tsghdws&security=tls&encryption=none&host=octopusss4.com&fp=chrome&type=ws&sni=octopusss4.com#@appsooner کانال تلگرام 🕊️
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.11:443?encryption=none&security=tls&sni=octopusss4.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=octopusss4.com&path=/tsghdws#🇺🇸US_3207_@Surfboardv2ray

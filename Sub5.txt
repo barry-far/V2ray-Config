@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3c3a7eaa-bf70-48d4-9f0e-9aec7e17d653@45.130.125.101:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#@erfanandroid
 vless://3c3a7eaa-bf70-48d4-9f0e-9aec7e17d653@45.130.125.162:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#@Soul737
 vless://3c3a7eaa-bf70-48d4-9f0e-9aec7e17d653@45.130.125.162:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#@V2dogs_n
 vless://3c3a7eaa-bf70-48d4-9f0e-9aec7e17d653@45.130.125.162:8443?mode=auto&path=/?ed=2053&security=tls&alpn=h3,h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#@erfanandroid
@@ -503,3 +502,4 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.95.127.132:2053?path=/Telegram@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=/?ed=2560&Telegram@V2rayAlpha&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#IR-@V2rayAlpha-5
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=/?ed=2560&Telegram@v2rayngzendegimamad&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#@v2rayngzendegimamad🕊️
 vless://6206791f-d918-49b0-95ce-05b8ed27bdc4@snapp.ir:8080?path=/ray&security=none&encryption=none&host=dwn.budgetnet.ir&type=ws#matin sistem 🚀#kurdconfig
+vless://621228c6-a42b-4170-bcab-4f4a091f5c46@193.176.242.135:37383?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://621228c6-a42b-4170-bcab-4f4a091f5c46@193.176.242.135:37383?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
 vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@euro.cloud-play.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#@flyv2ray
 vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@global.cloud-play.ir:80?mode=auto&path=/&security=none&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=xenoengineer.com&type=xhttp#@flyv2ray
 vless://6253100c-3ff4-42d9-b183-7fe46e5a9039@local.cloud-play.ir:80?encryption=none&type=xhttp&host=xenoengineer.com#@vpng3 [22]
@@ -503,3 +502,4 @@ vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.129:443?security=realit
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.129:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#𝐃𝐀𝐋𝐓𝐎𝐍 𝐏𝐈𝐍𝐆🍪
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.129:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@icv2ray
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.129:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@V2dogs_n 🇫🇷
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.130:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#𝐃𝐀𝐋𝐓𝐎𝐍 𝐏𝐈𝐍𝐆🧇

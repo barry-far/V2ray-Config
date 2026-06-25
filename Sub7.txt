@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.130:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#𝐃𝐀𝐋𝐓𝐎𝐍 𝐏𝐈𝐍𝐆🧇
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.131:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=enterprisekitten.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#@Daily_Configs
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.245:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=enterprisekitten.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#@Daily_Configs
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.247:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@freenettir
@@ -503,3 +502,4 @@ vless://9cda451e-0adf-4df1-a5b4-7fec8f363c10@all44.allenshop100.ir:443?security=
 vless://9cda451e-0adf-4df1-a5b4-7fec8f363c10@all44.allenshop100.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#telegram @mtmvpn
 vless://9cda451e-0adf-4df1-a5b4-7fec8f363c10@all44.allenshop100.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#@FarazV2ray
 vless://9cda451e-0adf-4df1-a5b4-7fec8f363c10@all44.allenshop100.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#@ReleaseNet
+vless://9cda451e-0adf-4df1-a5b4-7fec8f363c10@all44.allenshop100.ir:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#@irconfiig

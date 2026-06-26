@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://10e5fee7-17bc-46a3-9eca-9fa89caa7b08@cd1.consolgame.ir:80?mode=auto&security=none&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&host=ferdba.amedkaya.ir&type=xhttp#🇩🇪 [@v2raybaaz]
-vless://10e5fee7-17bc-46a3-9eca-9fa89caa7b08@cd2.consolgame.ir:443?mode=auto&security=tls&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&insecure=0&host=kamenoma.ibrahimtatliss.ir&type=xhttp&allowInsecure=0&sni=kamenoma.ibrahimtatliss.ir#🇫🇮 [@v2raybaaz]
-vless://10e5fee7-17bc-46a3-9eca-9fa89caa7b08@cd3.consolgame.ir:80?mode=auto&security=none&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&host=canem.amedkaya.ir&type=xhttp#🇨🇦 [@v2raybaaz]
 vless://10e5fee7-17bc-46a3-9eca-9fa89caa7b08@paugemi.consolgame.ir:1005?security=reality&encryption=none&pbk=E5n-njx-57MxDzVpCwsqmc9wKeYRjyd2tg2yAUJ_sFU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=28711478c2a20a18#🇨🇦 [@v2raybaaz]
 vless://115936e4-4a2f-45b5-bcda-a572ef2982aa@188.114.97.6:8080?encryption=none&security=none&type=xhttp&host=aziz.carderrr.com.&path=/xhttp&mode=auto#Tel: @Daily_Configs
 vless://115936e4-4a2f-45b5-bcda-a572ef2982aa@188.114.97.6:8080?encryption=none&security=none&type=xhttp&host=aziz.carderrr.com.&path=/xhttp&mode=auto#🇨🇦CA_452_@Surfboardv2ray
@@ -503,3 +500,6 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.42:8443?security=tls&enc
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.48:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#Proxy_Se7en
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.57:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#Proxy_Se7en
 vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.244:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#Proxy_Se7en
+vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.244:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#⚡Tel: @Proxy_Vpney (3)
+vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.244:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#⚽Tel: @Proxy_Vpney (5)
+vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.244:8443?security=tls&encryption=none&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#https://t.me/v2raynplus |🇹🇷

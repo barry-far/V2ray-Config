@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#🚀@VPNine1
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@KAFING_2
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=/&security=tls&encryption=none&insecure=0&host=dev.nestandneighbours.com&type=ws&allowInsecure=0&sni=dev.nestandneighbours.com#Telegram : @V2ynpv
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?path=/api/connect&security=tls&encryption=none&host=wstg.datasynctrue.online&type=ws#@appsooner کانال تلگرام 🕊️
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@wstg.datasynctrue.online:443?path=/api/connect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0#@prrofile_purple  ♥️👈 تلگرام
 vless://ff19693c-11f3-4df9-8713-79a85a5ca090@159.195.149.78:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#4🐙@oneclickvpnkeys
@@ -503,3 +500,6 @@ trojan://humanity@141.101.90.101:443?path=%2Fassignment&security=tls&insecure=1&
 trojan://humanity@141.193.213.21:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@165.215.250.14:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@104.18.8.83:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40v2rayng_fast%3A%3AFR
+trojan://humanity@104.18.152.229:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%3E%3E%40v2rayngvpn%3A%3AFR
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40FreakConfig%3A%3AFR
+trojan://humanity@104.19.229.21:443?path=%2Fassignment%3FL=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%3E%3E%40V2rayNG3%3A%3AFR

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@mkh.nexuschat.fun:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#@𝐍𝐞𝐱𝐮𝐬_𝐯2𝐫𝐚𝐲♕︎مخابرات
-vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@mtn.nexuschat.fun:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#@𝐍𝐞𝐱𝐮𝐬_𝐯2𝐫𝐚𝐲♕︎ایرانسل
 vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@now.nexuschat.fun:8080?security=reality&encryption=none&pbk=C8CAcJj1DrSOv9T3tLmzSoimfsC1hpqqVl8QV2wxUzE&headerType=none&fp=chrome&spx=/gxOh3mH3HkEfGfF&type=tcp&sni=aws.amazon.com&sid=3e66066052#@𝐍𝐞𝐱𝐮𝐬_𝐯2𝐫𝐚𝐲♕︎All net
 vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@rtl.nexuschat.fun:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#@𝐍𝐞𝐱𝐮𝐬_𝐯2𝐫𝐚𝐲♕︎رایتل
 vless://c5e850d4-c551-457c-8dba-beb0ccbad963@client.lightnin.click:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=un.lightnin.click&fp=chrome&type=ws&allowInsecure=0&sni=sni.lightnin.click#@Leecher56
@@ -503,3 +501,5 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@h1.garletshopino.com:2096?mode=auto
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@h1.garletshopino.com:2096?mode=auto&path=/clud?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=usdir.dtgoldservices.com&fp=chrome&type=xhttp&sni=usdir.dtgoldservices.com#🔵@chillguy_vpn
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@h2.garletshopino.com:2096?mode=auto&extra={"xPaddingBytes":"100-1000"}&insecure=0&allowInsecure=0&encryption=none&fp=chrome&security=tls&type=xhttp&host=ca.dtgitar.com&sni=ca.dtgitar.com&path=/clud?ed=2048&alpn=h2,http/1.1#@filembad
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@h2.garletshopino.com:2096?mode=auto&extra={"xPaddingBytes":"100-1000"}&insecure=0&allowInsecure=0&encryption=none&fp=chrome&security=tls&type=xhttp&host=ca.dtgitar.com&sni=ca.dtgitar.com&path=/clud?ed=2048&alpn=h2,http/1.1#@freenettir
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@h2.garletshopino.com:2096?mode=auto&extra={"xPaddingBytes":"100-1000"}&insecure=0&allowInsecure=0&encryption=none&fp=chrome&security=tls&type=xhttp&host=ca.dtgitar.com&sni=ca.dtgitar.com&path=/clud?ed=2048&alpn=h2,http/1.1#@meliproxyy
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@h2.garletshopino.com:2096?mode=auto&extra={"xPaddingBytes":"100-1000"}&insecure=0&allowInsecure=0&encryption=none&fp=chrome&security=tls&type=xhttp&host=ca.dtgitar.com&sni=ca.dtgitar.com&path=/clud?ed=2048&alpn=h2,http/1.1#[82313] - Telegram : @V2All

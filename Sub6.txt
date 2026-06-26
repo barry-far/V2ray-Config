@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://5e0179a9-ffe3-40c8-947b-dc6eb053a103@185.226.93.243:8444?security=reality&encryption=none&pbk=1EPU1FtapRbV8ZR9e7AU0nahyWYM8L0zuYHD8F1GJAc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=491c54cd0cf5e22d#🇹🇷@FreakConfig
 vless://5e0179a9-ffe3-40c8-947b-dc6eb053a103@de2.cdnless.com:8880?mode=auto&path=/&security=none&encryption=none&extra={"xmux":{"hKeepAlivePeriod":5}}&host=9ffd0c1f39f16f51.de.cdnless.com&type=xhttp#@meliproxyy
 vless://5e0179a9-ffe3-40c8-947b-dc6eb053a103@de2.cdnless.com:8880?mode=auto&path=/&security=none&encryption=none&extra={"xmux":{"hKeepAlivePeriod":5}}&host=9ffd0c1f39f16f51.de.cdnless.com&type=xhttp#🇨🇦@FreakConfig
 vless://5ecce1c8-6d7e-4050-b860-780ac563f091@sourceforge.net:2083?path=/eyJqdW5rIjoiVkxoZDZ5R3UiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast.akbarabdi1.workers.dev&fp=chrome&type=ws&sni=V2NGFAsT.aKbarAbDI1.woRkeRs.DEV#🇩🇪 @V2ngFast
@@ -502,4 +503,3 @@ vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.50:2083?security=reality&
 vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.44.6:2083?encryption=none&type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&sid=4e590fdc&spx=/&flow=xtls-rprx-vision#@vpng3 [11]
 vless://89049f79-320b-48a0-b1cf-110165cae30c@37.156.45.237:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#@ReleaseNet
 vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.251.47:2083?encryption=none&type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&sid=4e590fdc&spx=/&flow=xtls-rprx-vision#@MoOon_proxy (5🇨🇭⚡)
-vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.251.47:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#@i🍓-1

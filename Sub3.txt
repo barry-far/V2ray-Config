@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@141.101.90.101:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️414🌐🆕️
 trojan://humanity@141.193.213.21:443?alpn=http/1.1&host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws#🐚10@oneclickvpnkeys
 trojan://humanity@141.193.213.21:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmloud.com&type=ws&sni=www.calmloud.com#@appsooner کانال تلگرام 🕊️
 trojan://humanity@141.193.213.21:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#@ReleaseNet
@@ -502,4 +503,3 @@ vless://0cc72cd6-29b2-4dcc-af4d-2907d19a0680@199.232.245.208:443?path=/&security
 vless://0cc72cd6-29b2-4dcc-af4d-2907d19a0680@199.232.245.208:443?path=/&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#Proxy_Se7en
 vless://0cc72cd6-29b2-4dcc-af4d-2907d19a0680@199.232.245.208:443?path=/&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@Ap_Ir6
 vless://0cc72cd6-29b2-4dcc-af4d-2907d19a0680@199.232.245.208:443?path=/&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@erfanandroid
-vless://0cc72cd6-29b2-4dcc-af4d-2907d19a0680@199.232.245.208:443?path=/&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#@flyv2ray

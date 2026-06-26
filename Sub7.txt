@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://89049f79-320b-48a0-b1cf-110165cae30c@83.228.251.47:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#@i🍓-1
 vless://8980969b-41e4-473a-8bff-9cbe8c15e9f2@www.speedtest.net:2052?path=/&security=none&encryption=none&insecure=0&host=ez-f8446a.alibesttop40.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-f8446a.alibesttop40.workers.dev#🇨🇦 @rayhub_ir 0625-2
 vless://8980969b-41e4-473a-8bff-9cbe8c15e9f2@www.speedtest.net:2053?path=/&security=tls&encryption=none&insecure=0&host=ez-f8446a.alibesttop40.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-f8446a.alibesttop40.workers.dev#🇨🇦 @rayhub_ir 0625-1
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.156.54:443?encryption=none&security=tls&sni=PPaL03.AbDulLAH-MAVerYcK.woRKeRS.DEv&alpn=h2,http/1.1&fp=chrome&type=ws&host=pPal03.aBDuLlaH-maverYCk.workeRs.deV&path=/Telegram@VPNine1/?ed=2560#🚀@VPNine1
@@ -502,4 +503,3 @@ vless://9f135709-60a1-4a9b-b31c-78d326d8752a@45.130.125.158:443?mode=stream-one&
 vless://9f2ecebe-3a52-460e-80ac-74a21fffdaf7@172.66.3.252:2096?path=/v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet&security=tls&encryption=none&insecure=0&host=gxgdjtgdt.fatehuiolk.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=gxgdjtgdt.fatehuiolk.workers.dev#🇨🇦@FreakConfig
 vless://9f2ecebe-3a52-460e-80ac-74a21fffdaf7@172.66.3.252:2096?path=/v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet--v2ngnet&security=tls&encryption=none&insecure=0&host=gxgdjtgdt.fatehuiolk.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=gxgdjtgdt.fatehuiolk.workers.dev#🇨🇦@irconfiig
 vless://9f2ecebe-3a52-460e-80ac-74a21fffdaf7@sourceforge.net:2087?path=/v2ngfast---v2ngfast---v2ngfast---v2ngfast---v2ngfast&security=tls&encryption=none&host=nameless-band-227d.shampooooo.workers.dev&fp=chrome&type=ws&sni=nameless-band-227d.shampooooo.workers.dev#🇩🇪 @V2ngFast
-vless://9fb2d0b1-171b-45c0-aae3-3313a73cba29@193.247.82.40:448?encryption=none&type=tcp&security=reality&sni=www.googletagmanager.com&insecure=1&allowInsecure=1&pbk=MbaP34cAgypweQZ7L2hx1wihw_K5c3g4SBlOpgD7wRo&sid=e0274f4ac227090f&flow=xtxts-rprx-vision#@vpng3 [20]

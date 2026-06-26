@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#@qruzvpn کانال تلگرام کانفیگ
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#🔥 @free_conf_iran 🔥 12
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#Channel id: @internet_azad_2026 🇨🇦
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#@armindone👈چنل تلگراممون
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#TEL;Father_vpn
@@ -503,3 +501,5 @@ vless://10a6b923-e349-4594-92bb-d81a6245aaec@188.114.97.4:443?path=/download.php
 vless://10e5fee7-17bc-46a3-9eca-9fa89caa7b08@cd1.consolgame.ir:80?mode=auto&security=none&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&host=ferdba.amedkaya.ir&type=xhttp#🇩🇪 [@v2raybaaz]
 vless://10e5fee7-17bc-46a3-9eca-9fa89caa7b08@cd2.consolgame.ir:443?mode=auto&security=tls&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&insecure=0&host=kamenoma.ibrahimtatliss.ir&type=xhttp&allowInsecure=0&sni=kamenoma.ibrahimtatliss.ir#🇫🇮 [@v2raybaaz]
 vless://10e5fee7-17bc-46a3-9eca-9fa89caa7b08@cd3.consolgame.ir:80?mode=auto&security=none&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&host=canem.amedkaya.ir&type=xhttp#🇨🇦 [@v2raybaaz]
+vless://10e5fee7-17bc-46a3-9eca-9fa89caa7b08@paugemi.consolgame.ir:1005?security=reality&encryption=none&pbk=E5n-njx-57MxDzVpCwsqmc9wKeYRjyd2tg2yAUJ_sFU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=28711478c2a20a18#🇨🇦 [@v2raybaaz]
+vless://115936e4-4a2f-45b5-bcda-a572ef2982aa@188.114.97.6:8080?encryption=none&security=none&type=xhttp&host=aziz.carderrr.com.&path=/xhttp&mode=auto#Tel: @Daily_Configs

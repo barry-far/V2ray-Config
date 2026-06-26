@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@coniiro.appleseraj.ir:2052?security=none&type=ws&headerType=&path=?ed=1024&host=latvia.aroonsid.ir#🇱🇻| (𝐈𝐫𝐚𝐧𝐜𝐞𝐥𝐥)
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=armwwww.appleseraj.ir&sni=armwwww.appleseraj.ir&fp=chrome#🇦🇲| 𝐀𝐫𝐦𝐞𝐧𝐢𝐚
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=bbbbbposawe-iuu.appleseraj.ir&sni=bbbbbposawe-iuu.appleseraj.ir&fp=chrome#🇸🇪| 𝐒𝐰𝐞𝐝𝐞𝐧
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=belgho.appleseraj.ir&sni=belgho.appleseraj.ir&fp=chrome#🇧🇪| 𝐁𝐞𝐥𝐠𝐢𝐮𝐦
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=ctur.appleseraj.ir&sni=ctur.appleseraj.ir&fp=chrome#🇹🇷| 𝐓ü𝐫𝐤𝐢𝐲𝐞
@@ -503,3 +501,5 @@ vless://8847d8ad-19e1-4220-9c7a-6d3255e895b0@103.160.204.239:2096?path=/ws?ed=25
 vless://8847d8ad-19e1-4220-9c7a-6d3255e895b0@103.160.204.239:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=pLeAsEbEttErCalLsAuL.hOzhEeN.iR&fp=chrome&type=ws&allowInsecure=0&sni=feaab99dbf00f2d0.hozheen.ir#@SONIC_2524 کانال روبیکا و تلگرام 🕊⭐️
 vless://8847d8ad-19e1-4220-9c7a-6d3255e895b0@172.66.47.69:2096?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=pLeAsEbEttErCalLsAuL.hOzhEeN.iR&fp=chrome&type=ws&allowInsecure=0&sni=ce144e7aafbcebb8.hozheen.ir#@SONIC_2524 کانال روبیکا و تلگرام 🕊⭐️
 vless://88553247-c1c8-4e80-9db6-56bff7efc33b@89.167.82.102:2052?mode=auto&path=/Path&security=&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=89.167.82.102&type=xhttp#Proxy_Se7en
+vless://885d8e08-49f5-4b8f-b9cd-63d743f1c54d@v2tr.imesaagetext.ir:2081?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=client.imesaagetext.ir#Telegram : @V2ynpv
+vless://887ad9d0-85bd-495f-b4af-10b066d32b9c@5.75.200.19:31742?authority=&encryption=none&fp=chrome&mode=multi&pbk=awJWCmY2Ba9kY_dZj7nSylvtzAP1I5unwa_xp6qrvGA&security=reality&serviceName=&sid=16&sni=play.google.com&spx=/EltGJv6ZnEV16NH&type=grpc#@MimiTdl🔥

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://60dbde2d-552e-4248-be32-c42272180f7e@46.4.162.63:443?security=none&encryption=none&headerType=none&type=tcp#⚡Tel: @Proxy_Vpney (4)
 vless://6134dc24-c6c3-4528-9a4b-7d0b5f84b694@acha.claudify.org:8443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"xmux":{"hKeepAlivePeriod":5}}&insecure=0&host=cdn2.w-ert.org&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn2.w-ert.org#@SONIC_2524 کانال روبیکا و تلگرام 🕊⭐️
 vless://61a8c373-453a-45bb-8b8c-03529de2cebb@141.193.213.10:2087?path=/&security=tls&encryption=none&insecure=0&host=nova-pearl-core-8aa5.nova-90ad65.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-pearl-core-8aa5.nova-90ad65.workers.dev#@Ap_Ir6
 vless://61d90061-8762-4c25-84e6-8f5c5e00f393@192.166.82.190:14112?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
@@ -503,3 +502,4 @@ vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.247:443?encryption=none
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.247:443?encryption=none&type=tcp&security=reality&headerType=none&sni=enterprisekitten.com&fp=chrome&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#@meliproxyy
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.247:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#%@FREE_VPN02
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.247:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@Farazv2ray
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.247:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@Soul737

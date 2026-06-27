@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@14.102.228.201:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#@𝐍𝐞𝐱𝐮𝐬_𝐯2𝐫𝐚𝐲♕︎All net⁷
 vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@188.114.97.6:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#@𝐍𝐞𝐱𝐮𝐬_𝐯2𝐫𝐚𝐲♕︎All net⁸
 vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@199.181.197.176:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#@𝐍𝐞𝐱𝐮𝐬_𝐯2𝐫𝐚𝐲♕︎All net⁴
 vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@45.131.4.246:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#@𝐍𝐞𝐱𝐮𝐬_𝐯2𝐫𝐚𝐲♕︎All net⁶
@@ -503,3 +502,4 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@h1.garletshopino.com:2096?mode=auto
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@h1.garletshopino.com:2096?mode=auto&path=/clud?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=gzz.dtvialon.com#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️428🌐🆕️
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@h1.garletshopino.com:2096?mode=auto&path=/clud?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=noloz.dtvialon.com#kurdconfig
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@h1.garletshopino.com:2096?mode=auto&path=/clud?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=usdir.dtgoldservices.com&fp=chrome&type=xhttp&allowInsecure=0&sni=usdir.dtgoldservices.com#@TEHRANARGO
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@h1.garletshopino.com:2096?mode=auto&path=/clud?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=usdir.dtgoldservices.com&fp=chrome&type=xhttp&allowInsecure=0&sni=usdir.dtgoldservices.com#@configprxy

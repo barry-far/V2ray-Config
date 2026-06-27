@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4bf9601f-87e8-4250-a4e4-250bf54c5db4@104.16.75.224:8443?encryption=none&type=ws&security=tls&path=%2Fapi%2Fv1&host=splash.ariyuz.org&sni=splash.ariyuz.org&insecure=0&allowInsecure=0#%3E%3E%40v2rayng_fast%3A%3AXX
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@108.162.192.75:443?encryption=none&host=amoosamiii.net&path=%2Fpoiuyws&security=tls&sni=amoosamiii.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.20:443?encryption=none&host=amoosamiii.net&path=%2Fpoiuyws&security=tls&sni=amoosamiii.net&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%3E%3E%40configV2rayNG%3A%3ANL
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@134.195.196.231:7306#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.231-0193
 vmess://ewogICAgImFkZCI6ICIyMy4xOS4yNi4xOTgiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjI0NDhmZmYzLWJiNjMtNDk4Mi1hZGRiLWFjOWZhZmY1ZWY0MSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA0ODIxMCwKICAgICJwcyI6ICLwn4e68J+HuFVTLTIzLjE5LjI2LjE5OC0wMTk0IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@134.195.196.231:9102#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.231-0195
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@134.195.196.231:8119#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.231-0196

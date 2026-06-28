@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://@V2ConfigPro@192.0.63.61:2083?path=/&security=tls&encryption=mlkem768x25519plus.native.0rtt.OB4yhTV2iFBBbdkBvMkVFLCcTlAdXKnTdm6NGlvt_wA&insecure=0&host=twotwoirvz.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=twotwoirvz.dpdns.org#@V2ConfigPro
+vless://@V2ConfigPro@199.181.197.240:443?path=/&security=tls&encryption=none&insecure=0&host=jimmymacgill.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=jimmymacgill.dpdns.org#@V2ConfigPro
 vless://@V2ConfigPro@216.24.57.195:443?path=/&security=tls&encryption=none&insecure=0&host=sanjiopmin.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=sanjiopmin.dpdns.org#@V2ConfigPro
 vless://@V2ConfigPro@216.24.57.1:443?path=/&security=tls&encryption=none&insecure=0&host=kazavakialitakimeki.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=kazavakialitakimeki.dpdns.org#@V2ConfigPro
 vless://@V2ConfigPro@216.24.57.1:443?path=/&security=tls&encryption=none&insecure=0&host=youknowali.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=youknowali.dpdns.org#@V2ConfigPro
@@ -501,5 +503,3 @@ vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@octopusss5.info:443?path=/udfyfws&s
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@octopusss5.info:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#@hex_proxy ⁶
 vless://c468fa1a-18fb-41e3-9881-b45638e526e5@ansooyefilter-bot.njati.ir:16369?security=reality&encryption=none&pbk=RFyxgMgejl5ITpTp3ZNR1g6XBPXL19csJ04Kf_-bLgM&headerType=none&fp=chrome&spx=/2ZHh3s9XmzoxbVm&type=tcp&sni=www.amazon.com&sid=83#telegram @mtmvpn
 vless://c56ff6cc-3aca-4db7-84c5-3dca67c7a1ff@45.195.137.5:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#04 @fastkanfig
-vless://c5df0ea8-29a6-4e43-a2c3-26336453c50f@5.75.207.247:44004?type=tcp&encryption=none&security=reality&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&fp=chrome&sni=www.intel.com&sid=77b0689f&spx=/&flow=xtls-rprx-vision#🇩🇪DE-🚀@VPNine1
-vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@104.17.148.22:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#@𝐍𝐞𝐱𝐮𝐬_𝐯2𝐫𝐚𝐲♕︎All net²

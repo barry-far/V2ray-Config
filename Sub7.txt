@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.251:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@prrofile_purple  ♥️👈 تلگرام
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.251:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#𝐃𝐀𝐋𝐓𝐎𝐍 𝐏𝐈𝐍𝐆🥐
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.252:443?encryption=none&type=tcp&security=reality&headerType=none&sni=enterprisekitten.com&fp=chrome&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#@vpng3 [31]
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.253:443?encryption=none&type=tcp&security=reality&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&sni=enterprisekitten.com&fp=chrome&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#@vpng3 [32]
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.253:443?encryption=none&type=tcp&security=reality&headerType=none&sni=enterprisekitten.com&fp=chrome&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#@vpng3 [14]
@@ -501,5 +503,3 @@ vless://@Net2ray@94.182.145.82:6666?security=none&encryption=none&headerType=non
 vless://@Net2ray@95.38.232.59:41651?security=none&encryption=none&headerType=none&type=tcp#@Net2ray PL
 vless://@V2ConfigPro@188.114.98.235:443?path=/&security=tls&encryption=none&insecure=0&host=insomnia.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=insomnia.dpdns.org#@V2ConfigPro
 vless://@V2ConfigPro@188.121.125.169:2083?path=/&security=tls&encryption=mlkem768x25519plus.native.0rtt.R53o6T7qs1BOuqPzb02dDIBzpKqtioSPChYKw-jD11Q&insecure=0&host=salamasalmabacheha.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=salamasalmabacheha.dpdns.org#@V2ConfigPro
-vless://@V2ConfigPro@192.0.63.61:2083?path=/&security=tls&encryption=mlkem768x25519plus.native.0rtt.OB4yhTV2iFBBbdkBvMkVFLCcTlAdXKnTdm6NGlvt_wA&insecure=0&host=twotwoirvz.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=twotwoirvz.dpdns.org#@V2ConfigPro
-vless://@V2ConfigPro@199.181.197.240:443?path=/&security=tls&encryption=none&insecure=0&host=jimmymacgill.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=jimmymacgill.dpdns.org#@V2ConfigPro

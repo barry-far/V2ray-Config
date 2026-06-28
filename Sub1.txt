@@ -8,15 +8,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUmQ9SVhram96TUVLTGVHUl8wcTA5anR3bHk1SjJsYTJP@172.234.202.34:24833#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#V2rayng_Fast
+vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@145.239.137.250:58748?security=none&encryption=none&host=splus.ir&headerType=http&type=tcp#V2rayng_Fast
 vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?encryption=none&type=tcp&security=reality&headerType=none&sni=storage.yandex.net&fp=firefox&insecure=1&allowInsecure=1&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&flow=xtls-rprx-vision#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40proxy_kafee%205
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#%F0%9F%87%B3%F0%9F%87%B1%5B@V2raysCollector%5D%20ss-NL
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#%F0%9F%8C%B8%40FreakConfig
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?allowInsecure=0&encryption=none&flow=xtls-rprx-vision&headerType=none&insecure=0&security=tls&sni=r1.mizulina.top&type=tcp#Russia
 vmess://eyJhZGQiOiAiNTcuMTUxLjEwMC4yNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNTUwZTg0MDAtZTI5Yi00MWQ0LWE3MTYtNDQ2NjU1NDQwMDAwIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjEwMDg2IiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiI1Ny4xNTEuMTAwLjI3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU1MGU4NDAwLWUyOWItNDFkNC1hNzE2LTQ0NjY1NTQ0MDAwMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoxMDA4NiwicHMiOiJWMiAtIDE3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#Russia
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?flow=xtls-rprx-vision&security=tls&allowInsecure=0&encryption=none&type=tcp&sni=r1.mizulina.top&fp=chrome&headerType=none#Russia
+vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&security=reality&sid=a120&sni=cdn.cdnjst.org&type=tcp#%F0%9F%8C%BB71@oneclickvpnkeys
 vless://monacoVPN@83.228.228.44:22?type=tcp&encryption=none&path=/@monacoVPN@monacoVPN@monacoVPN@monacoVPN&headerType=http&security=none#v2raygulf
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080?type=tcp#%40V2raysCollector%20%E2%98%83%EF%B8%8F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#United+Kingdom
@@ -65,16 +66,20 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aUZ4bHRxc2NKVkxKZEh1blpYUENtYjRUb0h
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aUZ4bHRxc2NKVkxKZEh1blpYUENtYjRUb0hON0xoa29lWXdwUWNVL1Bibz0@193.151.128.97:443?#%@FREE_VPn02
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlMK0txWDhoSU1uK1V5QUR3U0pPUG03MkEwQTgzVHNET0ZYQm42STJtQT0=@49.13.3.249:23997#@routel1+🦋
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlMK0txWDhoSU1uK1V5QUR3U0pPUG03MkEwQTgzVHNET0ZYQm42STJtQT0@49.13.3.249:23997#@V2raySup0 | 🚀
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206a0NzOGgweHVTTmZObmdMMVNlRExUR1JBRVdld0RuVGovYXczdU1tRWJTVT06emlIVXFQeXhKL2F0Uk5ra0NmWFZBRS83SCtSbTlocGJkL0gyU1hYRFROND0@65.109.218.60:8880#@meliproxyy
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206a0NzOGgweHVTTmZObmdMMVNlRExUR1JBRVdld0RuVGovYXczdU1tRWJTVT06emlIVXFQeXhKL2F0Uk5ra0NmWFZBRS83SCtSbTlocGJkL0gyU1hYRFROND0@65.109.218.60:8880#Channel id: @ShadowProxy66 🇫🇮
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206a0NzOGgweHVTTmZObmdMMVNlRExUR1JBRVdld0RuVGovYXczdU1tRWJTVT06emlIVXFQeXhKL2F0Uk5ra0NmWFZBRS83SCtSbTlocGJkL0gyU1hYRFROND0@65.109.218.60:8880#Mix--@V2rayAlpha--22
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206aFVHTktLbGZoelk4NVRqamFMcHg5Wk5CRVM0dHBGMytJUExycCtxMUs3TT06VTNOdXYwS0N5UUg0b3dZTHVQaHdDOUlDUy9ZNFFWUVAvSldWWW5selVQRT0@out.soft34.ir:8877#@vmesskhodam
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206dXlJcXU4dkpGN1JQeUVMN1VKa3FCUWt2UmZoaGE4V1llNVZXeWxVS1d4UT06SGhrRmM5Zkc2NklQVzVRbHpuR3RrOXlrSWhIcG5JZDZtYmVveGtrLzlraz0=@169.40.32.177:1194#telegram @mtmvpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#t.me/ConfigFori  -  Config 79366
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2RVBSX2JNZmpTdHlpZ3pMOUQ4Z0Z0ZlVKblFWQWpaSA@p4.hoomankh.info:1080#@vmesskhodam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2RVBSX2JNZmpTdHlpZ3pMOUQ4Z0Z0ZlVKblFWQWpaSA@p4.hoomankh.info:1080?#hope of freedom - @anotherme_night
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Rng2UWFxRmJ0dnZWWWY4@20.166.25.13:443#🇮🇪IE-🚀@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ@45.129.96.62:41348#@V2ray_confiig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ@45.129.96.62:41348#@internet_azad_2026:کانال ما
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg==@ru.moktana.app:51523#@filembad
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg==@ru.moktana.app:51523#🇷🇺RU-🚀@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YzMxYTY3YjQxYjE4YzI2@89.223.88.33:11201?note=@FreeOnlineVPN#🇲🇽 - MX - @FreeOnlineVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.230.9.156:50099#@v2rayconfigamir 2209
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmFhNGVhZDIyZGIxZDdlOGZlYTA2M2I2YWVmY2M3Mw@159.69.21.145:1080#@ReleaseNet
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmFhNGVhZDIyZGIxZDdlOGZlYTA2M2I2YWVmY2M3Mw@172.233.108.250:1083#https://t.me/v2rayNplus |🇪🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmFhNGVhZDIyZGIxZDdlOGZlYTA2M2I2YWVmY2M3Mw@de.vncbiz.infom.ew.usdtbama.site:1080#@ReleaseNet
@@ -86,6 +91,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4aVcyR0VsT0xXbDladGpq@4.168.196.7:443#@appso
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4aVcyR0VsT0xXbDladGpq@4.168.196.7:443#@bored_vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4aVcyR0VsT0xXbDladGpq@4.168.196.7:443#@ghand_sheken
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4aVcyR0VsT0xXbDladGpq@4.168.196.7:443#Proxy_Se7en
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#@iguanaVPN 3🇵🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#@iguanaVPN 4🇵🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#@routel1+🦋
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5RzVJWFBya0YwU3kzRDZq@20.166.126.19:443#@ghand_sheken
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowbGlyVXJHUUlmNnM@178.162.165.202:21114#@v2rayconfigamir 9951
@@ -104,7 +111,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozQzFHQWNJVXMzZ21yODV5@20.107.208.165:443#@V2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozQzFHQWNJVXMzZ21yODV5@20.107.208.165:443#@prrofile_purple  ♥️👈 تلگرام
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRnZLNmNuN0wwdDdma3hkc3Uxb3Z3@18.184.156.126:1004#[🌍]@NetliVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRnZLNmNuN0wwdDdma3hkc3Uxb3Z3@3.71.8.174:1004#[🌍]@NetliVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Qlo3VFplbVRmaUg=@ss.us.sshmax.net:8139/?plugin=obfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#@v2rayconfigamir 8926
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@13.230.201.208:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳 @VPNine1)1342334:158250#🇯🇵JP-🚀@VPNine1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@52.195.179.204:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳 @VPNine1)aac01b5:170735#🇯🇵JP-🚀@VPNine1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@52.199.164.162:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳 @VPNine1)4ef336d:161193#🇯🇵JP-🚀@VPNine1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@54.250.165.160:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram🇨🇳 @VPNine1)411b5f7:148900#🇯🇵JP-🚀@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1SkZrbm9iUW90RkZZYUZX@20.166.91.10:443#@Leecher56
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1SkZrbm9iUW90RkZZYUZX@20.166.91.10:443#@bored_vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1SkZrbm9iUW90RkZZYUZX@20.166.91.10:443#@mehrosaboran
@@ -112,21 +122,25 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1SkZrbm9iUW90RkZZYUZX@20.166.91.10:443#تل�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#@free_conf_iran 👈 کانفیگ جدید
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1a3pwUXQ1YWlkZjdhelNS@20.87.210.108:443#@internet_azad_2026:کانال ما
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6TENZT2RvRFVwMFRtRnBfc0Q2Smh3@Malavang.hardvezoo.ir:1080#Proxy_Se7en
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#🇳🇴 Join+Telegram:@Farah_VPN 🇳🇴
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCd0NOWFphU2k0YWI3bFF1MmN2TTIw@45.95.233.55:443#@appsooner کانال تلگرام 🕊️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCd0NOWFphU2k0YWI3bFF1MmN2TTIw@45.95.233.55:443#🇫🇷FR-🚀@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#5 @fastkanfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#@ReleaseNet
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#@V2raybazi 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#@ghand_sheken
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#@meliproxyy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#Mix--@V2rayAlpha--20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#TEL:Father_vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTW5HbVJlaG1qODZYTFM4@20.223.240.226:443#@Soul737
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEdVBlNkpXbGRjbFIxT3dh@20.107.208.165:443#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️419🌐🆕️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGaFNfR29fVG1pRnl0VXdiQW1JT3ZB@108.61.156.158:2#https://t.me/v2rayNplus |🇫🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGaFNfR29fVG1pRnl0VXdiQW1JT3ZB@108.61.86.249:2#🇺🇸 @rayhub_ir 0627-4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI@108.181.0.177:8388#t.me/ConfigFori  -  Config 79371
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHRXBiMjV4ank5c3lOcEVx@98.71.82.228:443#@routel1 🦋
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHSnRKS1lsQUF1dmE@178.162.164.142:31558#@v2rayconfigamir 7512
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHVFN5bVc0eXNIY2FxSDcw@20.164.116.218:443#@routel1 🦋
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJLWJQM2xGaC5kVEczWGl0RjdYdFZLODNDWjdySTJVdD1u@45.32.122.179:23027#@v2FreeHub 🇸🇬
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJSU14Rk15cTNGd3lQZDIxVUdXZ21OSkNBaVlOOW0ydk9v@91.108.254.252:18982#@v2reya88 | @confinghub2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJdDJOaUJic0h2dmhxVTVhR0VaMnBJ@5.253.59.156:32140#@v2FreeHub 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLR2NKc3IycGZGSDB4N0dN@4.168.196.7:443#@bored_vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLT0NjbHZLLUs4UEt3WWg0VHU1cnBn@daroo.iran-shop.co:1080#@SONIC_2524 کانال روبیکا و تلگرام 🕊⭐️
@@ -137,8 +151,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpObFY1eHNrX0Nlb01NMmpRdVoxZEdB@18.184.156.126:1003#@icv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpObFY1eHNrX0Nlb01NMmpRdVoxZEdB@18.184.156.126:1003#Channel : @Daily_Configs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpObFY1eHNrX0Nlb01NMmpRdVoxZEdB@20.74.213.64:1003#Channel : @Daily_Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOelF4Wg==#@v2rayconfigamir 4918
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU01vQlZpV21DOHo=@ss.sg.sshmax.net:8139/?plugin=obfs-local;obfs=http;obfs-host=m.youtube.com;obfs-uri=/#@v2rayconfigamir 5663
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.233:8080#t.me/ConfigFori  -  Config 79359
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSNE1sendzSnlHMGM5MDRDTUNOTW5aeFZqMHJLc2tZOA@51.68.16.29:80#kurdconfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTY1pkMThUR2o4M1RTMVdv@20.223.208.167:443#@routel1 🦋
@@ -149,6 +161,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVWlFZOWhOalZOV3dhbWFqclhBZjF2dDh1NjNuajBmRg@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVYkszbldiOUhGQVpPVjdyT3RDaDJKMjg1RXhhaGQ3TQ@78.141.215.62:1080#@prrofile_purple  ♥️👈 تلگرام
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWMk5GbER0Uk5mWFpvZlhzRGowM0hk@194.87.45.189:40076#@Hope_Net
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSmVBamlKNDBGMklsMTdFbHYyODVX@141.227.152.129:8388#@v2FreeHub 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWSmVBamlKNDBGMklsMTdFbHYyODVX@141.227.152.129:8388#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.254.21.147:443#@KAFING_2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#@RouTel1🩸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#@ghand_sheken
@@ -162,14 +175,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#@ghand_sheken
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#@v2rayngzendegimamad🕊️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#@iguanaVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸ES-🚀@VPNine1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪🇸 Join+Telegram:@Farah_VPN 🇪🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#@hex_proxy ¹
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#@iguanaVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#TEL;Father_vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZQUdzV0pEaFphbDdpYzFT@20.166.25.13:443?outline=1&prefix=POST I33eaa1y#🇮🇪IE-🚀@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZelMya20zMEZoTEtrVThR@ir5.nextping.xyz:44812#@v2rayNplus |🇫🇮
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZelMya20zMEZoTEtrVThR@ir5.nextping.xyz:44812?#✅  @vistav2ray  👈👈کانال ما ✅
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWViZjc2NTA5MDlhZjJlMzBkZDU2MGI5NzQ2ZTM1MQ@159.69.21.145:1080#@internet_azad_2026:کانال ما
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWViZjc2NTA5MDlhZjJlMzBkZDU2MGI5NzQ2ZTM1MQ@159.69.21.145:1080#ProxyMtpVPN-6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWViZjc2NTA5MDlhZjJlMzBkZDU2MGI5NzQ2ZTM1MQ@159.69.21.145:1080#ProxyMtpVPN-5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWViZjc2NTA5MDlhZjJlMzBkZDU2MGI5NzQ2ZTM1MQ@172.233.108.250:1083#Proxy_Se7en
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWViZjc2NTA5MDlhZjJlMzBkZDU2MGI5NzQ2ZTM1MQ@de.vncbiz.infom.ew.usdtbama.site:1080#@ReleaseNet
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWViZjc2NTA5MDlhZjJlMzBkZDU2MGI5NzQ2ZTM1MQ@de.vncbiz.infom.ew.usdtbama.site:1080#@internet_azad_2026:کانال ما
@@ -188,7 +202,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkR2hwZHRWRHd5Q05zQTRn@20.166.91.10:443#@V2dogs_n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplenllSDIyaUdTMVVEZWV3NXp6YlRpbXFlY3JHQktTUzFJc0VxaA@185.246.153.12:31348#@internet_azad_2026:کانال ما
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMFVnZnNkWE9objhNY3BkSHBXY21v@94.131.123.86:35361#IR-@V2rayAlpha-3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnV0JnbUtiOEFMMXVSSzBqWjQ0QW9PUGFDNWxWVE9IWm1p@91.108.254.104:13683#🐙3@oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUmQ9SVhram96TUVLTGVHUl8wcTA5anR3bHk1SjJsYTJP@172.234.202.34:24833#@icv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUmQ9SVhram96TUVLTGVHUl8wcTA5anR3bHk1SjJsYTJP@172.234.202.34:24833#@vmesskhodam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUmQ9SVhram96TUVLTGVHUl8wcTA5anR3bHk1SjJsYTJP@172.234.202.34:24833#Channel id: @ShadowProxy66 🇺🇸
@@ -205,12 +218,16 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#@Soul737
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#@V2dogs_n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#@v2rayNplus |United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#@SylphNet | 2026-06-27 02:07
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#@SylphNet | 2026-06-27 02:17
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#@filembad
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#@v2raybaaz
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#@v2reya88 | @confinghub2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#Tel-@ProxyMtAlpha😵‍💫 4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#[82933] - Telegram : @V2All
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#🏋‍♂️@FreakConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080?#@filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#@SylphNet | 2026-06-27 05:13
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#@v2rayNplus |United+Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#@v2rayngzendegimamad🕊️
@@ -233,6 +250,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#@v2rayngzendegimamad🕊️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#☑➜چنلمون: Express_freevpn@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#@ghand_sheken
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#@v2raybaaz ¹
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#☑➜چنلمون: Express_freevpn@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#@Ap_Ir6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#@Farazv2ray
@@ -242,10 +260,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#@SylphNet | 2026-06-27 04:27
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#@V2dogs_n 🐦‍🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#@V2ray_Alpha😭 4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#@filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#@hi_proxy_iran :👈کانال تلگرام
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#@icv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#@meliproxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#@v2raybaaz ¹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#@v2reya88 | @confinghub2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#@vmesskhodam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#@vpnbaz ⭐
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#@vpnbaz 🐦‍🔥
@@ -254,7 +274,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn 🪩
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#@meliproxyy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#@v2raybaaz ¹
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#TEL;Father_vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#@fastkanfig تلگرام
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#[کیانت] 🇳🇱 NL-626
@@ -262,6 +281,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#🇳🇱@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#@MoOon_proxy 🚇
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#@Soul737
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#@filembad
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#@v2raybaaz ²
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#@Soul737
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#@icv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#@v2raybaaz ¹
@@ -274,7 +295,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#@meliproxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#@v2raybaaz ²
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#@VpnCostumer+|+بیا+تو+وصل+باش+💙
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#Tel-@NapsterNetvIrani🐰 1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#https://t.me/v2rayNplus |🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#چنل عضو شو @v2ra_config
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#کانال تلگرام @fastkanfig
@@ -290,8 +310,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080?type=tcp&headerType=none#@Ap_Ir6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#@appsooner کانال تلگرام 🕊️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#@hex_proxy ⁵
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#@v2raybaaz
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#@v2raybaaz ²
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#@vpng3 [5]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#@VpnCostumer+|+بیا+تو+وصل+باش+💙
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#@hex_proxy ⁷
@@ -304,6 +322,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.108.15.110:443#@v2r
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#IR-@V2rayAlpha-2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsMG5maTJiTGl6V2RHMTE3@20.107.208.165:443#@routel1 📍
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#@KAFING_2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptbWRaNjNqc1hQQ1lGdGd5YXJFWE56TlRTY0VKaHE2Q2FFWEp6QzlBWVpwcXN0Q2JORWVLb3FtN1hzdzVlVHpzVWc0dWpoN0x1MW1RRlZ3QVFweUdtbmV3UGkzVUg5WEg@download.riferoser.icu:56594/?#@v2rayconfigamir 6029
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#🩵+@Azarakhsh_Proxy+🩷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#t.me/ConfigFori  -  Config 79355
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#@v2rayNplus |United+Kingdom
@@ -312,7 +331,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#@SylphNet | 2026-06-26 10:31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#@V2raySup0🚀
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#@V2raybazi🇳🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#@appsooner کانال تلگرام 🕊️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#@dy_gt
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#@ghand_sheken
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#@hex_proxy ⁸
@@ -335,7 +353,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#@ghand_sheken
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#@v2rayNplus |United+Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#TEL:Father_vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#[82934] - Telegram : @V2All
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#🇳🇱@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTEdDUG5qMldnenhYMUllZFc4eWQ3dHJ3UmxYcWpMYQ@109.122.251.86:20700#irconfiig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTEdDUG5qMldnenhYMUllZFc4eWQ3dHJ3UmxYcWpMYQ@109.122.251.86:20700#🇮🇷@tanhant
@@ -350,13 +368,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzc0xUbGR5RjNDVXJRdndQ@20.87.210.108:443#@Rel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzc0xUbGR5RjNDVXJRdndQ@20.87.210.108:443#@internet_azad_2026:کانال ما
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzc0xUbGR5RjNDVXJRdndQ@20.87.210.108:443#@vpng3 [15]
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446?note=@FreeOnlineVPN#🇮🇷 - IR - @FreeOnlineVPN
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#🌊76@oneclickvpnkeys
 ss://YWVzLTEyOC1nY206NjJjNGY0YTctNTI4OS00YTBmLTk4ZjAtNDA3ZGE4MTAzZGMw@didiaosanwan.fkfkd.cn:11696#🇲🇾 马来西亚
 ss://YWVzLTEyOC1nY206NjJjNGY0YTctNTI4OS00YTBmLTk4ZjAtNDA3ZGE4MTAzZGMw@didiaosanwan.fkfkd.cn:22039#🇯🇵 日本
 ss://YWVzLTEyOC1nY206NjJjNGY0YTctNTI4OS00YTBmLTk4ZjAtNDA3ZGE4MTAzZGMw@didiaosanwan.fkfkd.cn:27186#🇭🇰 香港
 ss://YWVzLTEyOC1nY206NjJjNGY0YTctNTI4OS00YTBmLTk4ZjAtNDA3ZGE4MTAzZGMw@didiaosanwan.fkfkd.cn:29586#🇹🇼 台湾
 ss://YWVzLTEyOC1nY206bHZ4dWoxMXg4c2ZndDlndDZtamY=@86.106.84.196:13263#❤️‍🔥 کانال تلگرام HiByeVPNN@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇬🇧 Join+Telegram:@Farah_VPN 🇬🇧
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#🩵+@Azarakhsh_Proxy+🩷
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#🩵+@Azarakhsh_Proxy+🩷
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#t.me/ConfigFori  -  Config 79369
@@ -365,24 +381,30 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#t.me/ConfigFori  -  Conf
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#t.me/ConfigFori  -  Config 79368
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.160:443#t.me/ConfigFori  -  Config 79361
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.236:443#t.me/ConfigFori  -  Config 79363
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.243:443#@filembad
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.243:443#@v2reya88 | @confinghub2
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.243:443#t.me/ConfigFori  -  Config 79360
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMTk5LjE1LjcwOjQ0Mw==#irconfiig
 ss://YWVzLTI1Ni1nY206MTIz@61.171.92.202:1001#@Soul737
 ss://YWVzLTI1Ni1nY206MTIz@61.171.92.202:1001#@erfanandroid
+ss://YWVzLTI1Ni1nY206MTIz@61.171.92.202:1001#@filembad
 ss://YWVzLTI1Ni1nY206MTIz@61.171.92.202:1001#@vmesskhodam
 ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.15.59:1092#HongKong (1)
 ss://YWVzLTI1Ni1nY206NjdjZjEzMWUtMjFkMC1kMjU0LWI0NTYtMzhjZGYzNzNlZGFk@93343878961078676381579883502615.international-ixp.com:11305?type=tcp#@v2rayconfigamir 7713
-ss://YWVzLTI1Ni1nY206QjBMUGo@sg-ss-1.sshstores.vip:1443#@v2rayconfigamir 8018
+ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E=@47.79.144.115:40003#@filembad
+ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E=@47.79.144.115:40003#🇯🇵JP-🚀@VPNine1
 ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0=@51.254.128.106:2083#@ghand_sheken
 ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#@v2rayNplus🇫🇷
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.120:8000#🩵+@Azarakhsh_Proxy+🩷
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.120:8080#🩵+@Azarakhsh_Proxy+🩷
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.180.197.41:8080#t.me/ConfigFori  -  Config 79364
 ss://YWVzLTI1Ni1nY206TUdabVlqZGxZamhoTXpBd05qazBPREJtWm1KaFpXUmhZelUxT0RrMA@193.176.243.75:11116#@ghand_sheken
+ss://YWVzLTI1Ni1nY206TkRWaE5tSmhNemd6WWpFMU9ERTBPR05rWldRNVpXSXdOalEyTUdRMQ@193.176.243.75:11104#@v2reya88 | @confinghub2
+ss://YWVzLTI1Ni1nY206TkRWaE5tSmhNemd6WWpFMU9ERTBPR05rWldRNVpXSXdOalEyTUdRMQ@193.176.243.75:11104#🇮🇷IR-🚀@VPNine1
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8008#🩵+@Azarakhsh_Proxy+🩷
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8009#🩵+@Azarakhsh_Proxy+🩷
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.88.61:2376#🩵+@Azarakhsh_Proxy+🩷
-ss://YWVzLTI1Ni1nY206bXZ4TjE@sg-ss-2.sshstores.vip:1443#@v2rayconfigamir 6972
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🇮🇪 Join+Telegram:@Farah_VPN 🇮🇪
 ss://YWVzLTI1Ni1nY206d2MvZXFSUHJZam54ZkFKMkpLbmlvN2NHMktvOUs5RGlNd3pvblJqVTNMST0@103.130.147.40:1122#@v2rayNplus |Türkiye
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwa05ESTVPRGxtTnkwNE1HSTFMVFJoT1RndFltUTBZaTAxTXpVNVlXTmxaak13WkdR@free.2weradf.xyz:36441#@Hope_Net
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwbVpqUmlOVFZoTlMwMk5qbGhMVFJoWWpjdE9HTm1ZUzB5TkdNd056ZGlNell4TXpV@free.2apzhfa.xyz:31671#@Hope_Net
@@ -398,52 +420,45 @@ trojan://114514@cf6.466688.xyz:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecu
 trojan://114514@cf7.466688.xyz:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjaaa.hhllfly.kdns.fr&path=/#https://t.me/QiangLieTuiJian
 trojan://114514@cf8.466688.xyz:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjaaa.hhllfly.kdns.fr&path=/#https://t.me/QiangLieTuiJian
 trojan://114514@cf9.466688.xyz:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjaaa.hhllfly.kdns.fr&path=/#https://t.me/QiangLieTuiJian
-trojan://123444@104.17.122.10:2083?path=/?ed=2560&security=tls&host=northrendserver.sherekontop.workers.dev&fp=chrome&type=ws&sni=northrendserver.sherekontop.workers.dev#🚀@VPNine1
 trojan://20ba0c60-0133-11f1-95ef-1239d0255272@172.64.152.23:443?path=/howdy&security=tls&insecure=1&host=uk1.test3.net&type=ws&allowInsecure=1&sni=uk1.test3.net#@KAFING_2
 trojan://2W1MG0yxX0nZyJCjS7cJ-XDVn9X10z9F@194.87.222.7:4443?security=reality&pbk=VDBXpRl5J_1j2DSVW7_KfReAgv3j6Uuzy7wfXcHhgwA&headerType=none&fp=chrome&type=tcp&sni=travel.yandex.ru&sid=ab#🇳🇱 ⭐️ @ANA_SERVICE ⭐️
-trojan://2eutknankxtbgkwcajzt@193.148.19.210:52794?allowInsecure=1&sni=www.vk.com#🌊4@oneclickvpnkeys
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN#🇯🇵 - JP - @FreeOnlineVPN
-trojan://45d2fe56-2da3-409a-bdc7-5b95f30817bd@141.11.202.241:443?path=/xiron&security=tls&insecure=0&host=sahand-m.sahand5.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=sahand-m.sahand5.workers.dev#🇫🇷FR-🚀@VPNine1
-trojan://45d2fe56-2da3-409a-bdc7-5b95f30817bd@141.11.202.244:443?path=/xiron&security=tls&insecure=0&host=sahand-m.sahand5.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=sahand-m.sahand5.workers.dev#🇫🇷FR-🚀@VPNine1
-trojan://45d2fe56-2da3-409a-bdc7-5b95f30817bd@141.11.202.245:443?path=/xiron&security=tls&insecure=0&host=sahand-m.sahand5.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=sahand-m.sahand5.workers.dev#🇫🇷FR-🚀@VPNine1
-trojan://45d2fe56-2da3-409a-bdc7-5b95f30817bd@141.11.202.37:443?path=/xiron&security=tls&insecure=0&host=sahand-m.sahand5.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=sahand-m.sahand5.workers.dev#🇫🇷FR-🚀@VPNine1
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:48697?sni=gh.01.naiun.bilibili.com#🇭🇰HK-🚀@VPNine1
+trojan://45d2fe56-2da3-409a-bdc7-5b95f30817bd@141.11.202.134:443?path=/xiron&security=tls&insecure=0&host=sahand-m.sahand5.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=sahand-m.sahand5.workers.dev#🇫🇷FR-🚀@VPNine1
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:47909?sni=is.01.naiun.bilibili.com#🇭🇰HK-🚀@VPNine1
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:46424?allowInsecure=1&sni=de.01.naiun.bilibili.com#🏇31@oneclickvpnkeys
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:47909?allowInsecure=1&sni=is.01.naiun.bilibili.com#🏇36@oneclickvpnkeys
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:48697?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=gh.01.naiun.bilibili.com#🇸🇬@FreakConfig
 trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101/?type=tcp&security=tls&sni=green2.cdntencentmusic.com#🇭🇰 香港
-trojan://63872b0d-87dd-4474-b690-92773af2922e@hkdcrtc-e.catcat321.com:20047?allowInsecure=1&sni=hk.catxstar.com#🇺🇸US-🚀@VPNine1
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=/6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#🩵+@Azarakhsh_Proxy+🩷
 trojan://66d339d0-6844-11f1-ba30-1239d0255272@news.microsoft.com:443?path=/howdy&security=tls&insecure=0&host=uk1.test3.net&type=ws&allowInsecure=0&sni=uk1.test3.net#@prrofile_purple  ♥️👈 تلگرام
 trojan://6A9UE1QmtnW4t0WRLtt8pw@Malavang.hardvezoo.ir:2763?security=none&type=ws#Proxy_Se7en
 trojan://6A9UE1QmtnW4t0WRLtt8pw@Malavant.hardvezoo.ir:2763?security=none&type=ws#Proxy_Se7en
-trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/us-gllc&security=tls&host=space.byu.id.yxls.eu.cc&allowinsecure=0&type=ws&sni=space.byu.id.yxls.eu.cc#@GozargahAzad|🏁
-trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#@GozargahAzad|🏁
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&host=space.byu.id.yxls.eu.cc&allowinsecure=0&type=ws&sni=space.byu.id.yxls.eu.cc#@configprxy
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&host=space.byu.id.yxls.eu.cc&allowinsecure=0&type=ws&sni=space.byu.id.yxls.eu.cc#@meliproxyy
-trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&host=space.byu.id.yxls.eu.cc&allowinsecure=0&type=ws&sni=space.byu.id.yxls.eu.cc#ProxyMtpVPN-19
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#@Farazv2ray
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#@appsooner کانال تلگرام 🕊️
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#@filembad
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#@Ap_Ir6
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#@V2raySup0 🚀
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#@V2raySup0🤍
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#@bored_vpn
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#@confiig_hub
-trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#@filembad
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#@hi_proxy_iran :👈کانال تلگرام
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#@icv2ray
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#@meliproxyy
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#@v2raybaaz
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#@vmesskhodam
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#@vpnbaz ⭐
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#MiX--@V2rayAlpha--13
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#Mix--@V2rayAlpha--3
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#irconfiig✨تو جنگم وصلیم✨
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#𝗝𝗼𝗶𝗻 ➠ @Daily_Configs ☄️
-trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🚀@VPNine1
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?security=tls&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=space.byu.id.yxls.eu.cc&path=/us-gllc#Channel : @Daily_Configs
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?type=ws&security=tls&path=/us-gllc&host=space.byu.id.yxls.eu.cc&sni=space.byu.id.yxls.eu.cc#kurdconfig
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?type=ws&security=tls&path=/us-gllc&host=space.byu.id.yxls.eu.cc&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0#@MoOon_proxy ⭐
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?type=ws&security=tls&path=/us-gllc&host=space.byu.id.yxls.eu.cc&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0#@filembad
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?type=ws&security=tls&path=/us-gllc&host=space.byu.id.yxls.eu.cc&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0#@hi_proxy_iran :👈کانال تلگرام
-trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?type=ws&security=tls&path=/us-gllc&host=space.byu.id.yxls.eu.cc&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0#@v2reya88 | @confinghub2
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@188.164.248.122:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#@filembad
 trojan://7002R3Gxo1@45.130.125.2:443?type=ws&security=tls&path=/da&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sa.farxmode.ir&sni=sa.farxmode.ir&fp=chrome&insecure=0&allowInsecure=0#🇩🇪 Telegram @SRCVPN
 trojan://7vTo2hncEGvxPtds-p7tvWZZ4GD0bFRJ@194.87.222.7:4443?security=reality&pbk=VDBXpRl5J_1j2DSVW7_KfReAgv3j6Uuzy7wfXcHhgwA&headerType=none&fp=chrome&type=tcp&sni=travel.yandex.ru&sid=ab#🇳🇱 ⭐️ @ANA_SERVICE ⭐️
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.101:443?path=/au-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#@meliproxyy
@@ -488,18 +503,3 @@ trojan://Iwzl7RHG_IE2qwsJ3uYIDA@irmedia12.pmme6.top:22443?security=none&type=tcp
 trojan://Iwzl7RHG_IE2qwsJ3uYIDA@track1.mediavlink.top:20443?security=none&type=tcp&headerType=&path=&host=#@ReleaseNet
 trojan://Iwzl7RHG_IE2qwsJ3uYIDA@track2.mediavlink.top:21443?security=none&type=tcp&headerType=&path=&host=#@ReleaseNet
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@94.103.173.70:9443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de-1.hysteria.ltd#@hopev2ray🤍
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@94.103.173.70:9443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de-1.hysteria.ltd#Channel id: @ShadowProxy66 🇩🇪
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de-1.hysteria.ltd#Channel id: @ShadowProxy66 🇩🇪
-trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443#🏇37@oneclickvpnkeys
-trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?allowInsecure=0#irconfiig::🇲🇾
-trojan://MITIVPN@104.16.72.70:443?path=/ed=mitivpn&security=tls&insecure=1&host=www.pagess.ir&fp=chrome&type=ws&allowInsecure=1&sni=pagess.ir#@prrofile_purple  ♥️👈 تلگرام
-trojan://MITIVPN@104.16.72.70:443?type=ws&security=tls&path=/ed=mitivpn&host=pagess.ir&sni=pagess.ir&insecure=1&allowInsecure=1#@vpng3 [12]
-trojan://MITIVPN@146.75.121.194:443?path=/ed=mitivpn&security=tls&alpn=h2&insecure=1&host=mitivpn--3.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=fastly.com#@prrofile_purple  ♥️👈 تلگرام
-trojan://MITIVPN@151.101.1.194:80?path=/ed&security=none&host=mitivpn--3.global.ssl.fastly.net&type=ws#همه اپراتور سرعتی
-trojan://MITIVPN@151.101.110.219:443?path=/ed=mitivpn&security=tls&insecure=1&host=mitivpn-6.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#@V2ConfigPro
-trojan://MITIVPN@151.101.110.219:443?path=/ed=mitivpn&security=tls&insecure=1&host=mitivpn-6.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#telegram @mtmvpn
-trojan://MITIVPN@151.101.69.219:443?path=/ed=mitivpn&security=tls&alpn=h2&insecure=1&host=mitivpn-77.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=speedtest.net#@V2ConfigPro
-trojan://MITIVPN@151.101.69.219:443?path=/ed=mitivpn&security=tls&alpn=h2&insecure=1&host=mitivpn-77.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=speedtest.net#telegram @mtmvpn
-trojan://MITIVPN@164.38.155.135:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&host=95r.ir&fp=chrome&type=ws&sni=95r.ir#🇬🇧 @rayhub_ir 0627-6
-trojan://MITIVPN@164.38.155.135:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#@V2ray_confiig
-trojan://MITIVPN@164.38.155.135:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#@fastkanfig 1

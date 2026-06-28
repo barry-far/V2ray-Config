@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.247:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#%@FREE_VPN02
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.247:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@Farazv2ray
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.247:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@Soul737
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.247:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@bored_vpn
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.247:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#@confiig_hub
@@ -503,3 +501,5 @@ vless://@Net2ray@171.22.26.160:6666?encryption=none&security=none&type=tcp&heade
 vless://@Net2ray@194.145.119.176:6666?security=none&encryption=none&headerType=none&type=tcp#@Net2ray Germany🇩🇪
 vless://@Net2ray@45.84.157.122:5555?security=none&encryption=none&headerType=none&type=tcp#@Net2ray Netherlands 🇳🇱
 vless://@Net2ray@45.84.157.122:6666?security=none&encryption=none&headerType=none&type=tcp#@Net2ray Germany🇩🇪
+vless://@Net2ray@45.84.157.122:6666?security=none&encryption=none&headerType=none&type=tcp#@Net2ray Germany🇩🇪 نامحدود لوکیشن آلمان 🇩🇪 فعال تا زمانی که آیپیش فیلتر بشه ری‌اکشن فراموش نشه  🆔 t.me/Net2ray
+vless://@Net2ray@62.60.184.168:6666?security=none&encryption=none&headerType=none&type=tcp#@Net2ray

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://356ccb34-22cc-4446-a137-072bc60d65ca@bypass.fr-gt-01.com:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#@confiig_hub
 vless://359caf6b-93ce-458c-840e-6140775ea80d@news.microsoft.com:443?encryption=none&security=tls&sni=nl2.gamelistak.com&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=nl2.gamelistak.com&path=/@MrNexTV2RAY&mode=auto&extra={"xPaddingBytes":"100-1000"}#@MrNexTV2RAY
 vless://35aead44-22e1-d2ef-01a8-ab8c508222ec@ez-5bde8e.ezaccess1a1d7a3.workers.dev:8443?encryption=none&security=tls&sni=ez-5bde8e.ezaccess1a1d7a3.workers.dev&fp=chrome&type=ws&host=ez-5bde8e.ezaccess1a1d7a3.workers.dev&path=/sync&pbk=enabled&allowInsecure=0#🚀@VPNine1
 vless://36284b89-03c0-4ec4-9ed9-e20e19d136cf@66.33.23.120:443?mode=auto&path=/api&security=tls&encryption=none&insecure=0&host=relay-production-9e5f.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=relay-production-9e5f.up.railway.app#telegram @mtmvpn 13
@@ -502,4 +503,3 @@ vless://5c417415-5c79-4447-a8bd-fd9f73a89fb9@193.93.194.61:443?encryption=none&t
 vless://5c417415-5c79-4447-a8bd-fd9f73a89fb9@193.93.194.61:443?security=reality&encryption=none&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#telegram @mtmvpn
 vless://5c417415-5c79-4447-a8bd-fd9f73a89fb9@31.77.201.245:443?encryption=none&type=tcp&security=reality&sni=www.microsoft.com&insecure=1&allowInsecure=1&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&flow=xtxts-rprx-vision#@vpng3 [15]
 vless://5c417415-5c79-4447-a8bd-fd9f73a89fb9@5.101.87.3:443?encryption=none&type=tcp&security=reality&sni=www.microsoft.com&insecure=1&allowInsecure=1&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&flow=xtxts-rprx-vision#@vpng3 [24]
-vless://5c9c965f-945b-4082-c2c8-020be519b8f3@s1.zynavo.ir:2087?mode=auto&path=/BetForward&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra=&insecure=1&host=sub.zynavo.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=sub.zynavo.ir#@vmesskhodam

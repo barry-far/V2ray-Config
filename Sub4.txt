@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0d0b3fe7-cd79-4ff4-a760-aa6e5357ab41@172.67.175.86:443?path=/pa&security=tls&encryption=none&insecure=0&host=hs-495e987f.ndkwiut2718.ir&fp=chrome&type=ws&allowInsecure=0&sni=ndkwiut2718.ir#@KAFING_2
 vless://0d27ab04-4523-4ae0-94b0-3e14c2089756@104.19.229.21:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=hadi.getfreecp.com&fp=chrome&type=ws&allowInsecure=0&sni=hadi.getfreecp.com#@confiig_hub
 vless://0d27ab04-4523-4ae0-94b0-3e14c2089756@104.19.229.21:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=hadi.getfreecp.com&fp=chrome&type=ws&allowInsecure=0&sni=hadi.getfreecp.com#telegram @mtmvpn 12
 vless://0d9e572e-ad55-4fb8-adcf-858cbafb9c40@37.152.175.93:8443?security=reality&encryption=none&pbk=vZruSVclFJztKnzP8Da1OuG7hyNeM1_YhDX9Tpih3mM&headerType=none&fp=chrome&type=tcp&sni=parsabr.com&sid=3650a4286bf867e9#@KAFING_2
@@ -503,3 +502,4 @@ vless://356ccb34-22cc-4446-a137-072bc60d65ca@45.196.224.79:8443?security=reality
 vless://356ccb34-22cc-4446-a137-072bc60d65ca@bypass.fr-gt-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&security=reality&sid=f34818a561dfd1fe&sni=storage.yandex.net&type=tcp#🏇66@oneclickvpnkeys
 vless://356ccb34-22cc-4446-a137-072bc60d65ca@bypass.fr-gt-01.com:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#@Leecher56
 vless://356ccb34-22cc-4446-a137-072bc60d65ca@bypass.fr-gt-01.com:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#@bored_vpn
+vless://356ccb34-22cc-4446-a137-072bc60d65ca@bypass.fr-gt-01.com:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#@confiig_hub

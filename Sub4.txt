@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://04969b01-ac6a-4056-b5cd-852ccf45f102@104.16.63.239:80?security=none&allowInsecure=0&encryption=none&type=ws&host=netherlands.vipserver14.workers.dev&path=/?ed=2048#🇳🇱 CxrolVPN
 vless://04b56386-958f-471c-8836-d6044604975a@3.71.8.174:1001?encryption=none&security=none&type=tcp&headerType=none#Channel : @Daily_Configs
 vless://04b56386-958f-471c-8836-d6044604975a@3.71.8.174:1001?security=&encryption=none&headerType=none&type=tcp#@icv2ray
 vless://04b6249e-7375-4263-b47c-6a9e7ad01b54@212.100.171.194:17567?security=reality&encryption=none&pbk=4aKrDEJaWz_lNRA02ltvjqzh1GvI5wzB-ZPhANYYYU8&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.speedtest.net&sid=9891d7#@v2rayngzendegimamad🕊️
@@ -503,3 +502,4 @@ vless://2778bcdb-9787-4cf6-a09d-684fbb4dc0de@www.visa.cn:443?encryption=mlkem768
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&security=none&type=tcp#@ReleaseNet
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&type=tcp#@vpng3 [19]
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&type=tcp&headerType=none#@vpng3 [21]
+vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=&encryption=none&headerType=none&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇱🇻]t.me/Raiv2mmr

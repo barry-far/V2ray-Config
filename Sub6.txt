@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4c026896-3b99-458e-8d85-ce886254524c@31.15.16.87:80?path=/ws&security=none&encryption=none&host=31.15.16.87&type=ws#@vmess_ir
 vless://4c1b83e4-5ade-46a8-966d-1eeb7a8dcc65@108.162.195.58:443?encryption=none&fp=chrome&host=wz1.fum.ccwu.cc&path=/proxyip=sjc.o00o.ooo&security=tls&sni=wz1.fum.ccwu.cc&type=ws#☀️95@oneclickvpnkeys
 vless://4c681a2e-d354-4342-9a1c-a52a501f69c9@104.21.22.186:2087?path=/eyJqdW5rIjoiSFRDbGoxTFhjUHBPVjJRaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=ez-854b71.shamddgg.workers.dev&fp=chrome&type=ws&sni=eZ-854b71.ShAmdDgg.WORkErS.dEv#🇩🇪 @V2ngFast
 vless://4ca0489d-9d16-45e9-bf31-75993c964c0f@edge.aiteamplus.ir:10009?security=none&encryption=none&host=outlook.office365.com&headerType=http&type=tcp&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
@@ -503,3 +502,4 @@ vless://7535a03c-f38c-431c-9ca8-98ee653dcc49@mail.erwinhoda.shop:2083?path=/&sec
 vless://75dc57ca-6e1c-4f7d-977e-beeb2b622ce4@199.232.78.159:443?encryption=none&type=ws&security=tls&path=/&host=bazaryabab.global.ssl.fastly.net&sni=ssl.fastly.com&insecure=0&allowInsecure=0#@v2rayNGcloud
 vless://75dc57ca-6e1c-4f7d-977e-beeb2b622ce4@199.232.78.159:443?path=/&security=tls&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@meliproxyy
 vless://75dc57ca-6e1c-4f7d-977e-beeb2b622ce4@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
+vless://75dc57ca-6e1c-4f7d-977e-beeb2b622ce4@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran

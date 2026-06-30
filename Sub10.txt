@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://afc296b9-96be-4253-8268-5c9ecc8262d9@5.75.207.247:44004?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.intel.com&fp=chrome&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&sid=77b0689f&spx=/&type=tcp&headerType=none#Channel : @Daily_Configs
-vless://afc442ef-98da-47db-a0ed-a2152545cbb3@162.19.0.122:26181?security=none&encryption=none&headerType=none&type=tcp#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️421🌐🆕️
-vless://afc941a0-b6b4-42d1-b284-d59a42f083fd@194.58.41.65:443?mode=gun&security=reality&encryption=none&pbk=cjCwI7alv-GUgef0TW7i-S7jNgnIoZ6aooGYH7Nopxs&fp=chrome&type=grpc&serviceName=GrpcFuckRKN&sni=www.microsoft.com&sid=deadbeef#@v2rayngzendegimamad🕊️
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.254:22231?alpn=h3,h2,http/1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&type=tcp#🦖6@NetFlowTools
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#☀️20@NetFlowTools
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#@FarazV2ray
@@ -503,3 +500,6 @@ vless://de92dc6a-4eed-4888-9077-1fc006ad339d@sy2.syragame.com:443?type=xhttp&hos
 vless://dead2ae6-13ee-5d08-8558-0352c26f38d9@195.8.102.132:443?pcs=93b8f7c7c8f9fb7b1ba3af8d63c84ba9ec9da84f0c3353df28b6d76799e740cc&path=/p/fr/2/l/w/452523a131e871a6/QWbyQql+55txGZGb&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=vod.ufduiudud.site&fp=chrome&type=ws&allowInsecure=0&sni=live-saadi2301.telewebion.ir#@Soul737
 vless://def62c86-e2f2-4d13-b1f1-b3c197ed4873@87.199.210.215:443?encryption=none&type=ws&security=tls&path=/&host=play.google.com&sni=play.google.com&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#@hi_proxy_iran :👈کانال تلگرام
 vless://def62c86-e2f2-4d13-b1f1-b3c197ed4873@87.199.210.215:443?encryption=none&type=ws&security=tls&path=/&host=play.google.com&sni=play.google.com&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#@meliproxyy
+vless://def62c86-e2f2-4d13-b1f1-b3c197ed4873@87.199.210.215:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=play.google.com&fp=chrome&type=ws&allowInsecure=1&sni=play.google.com#🇳🇱@FreakConfig
+vless://def62c86-e2f2-4d13-b1f1-b3c197ed4873@free.qelzino.ir:443?encryption=none&type=ws&security=tls&path=/&host=google.com&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1#@ReleaseNet
+vless://deffbfcd-0626-365b-ff92-9b93f2fd6459@rvg-production-1ab7.up.railway.app:443?path=/ws/deffbfcd-0626-365b-ff92-9b93f2fd6459&security=tls&encryption=none&insecure=0&host=rvg-production-1ab7.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-1ab7.up.railway.app#@TEHRANARGO

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://9c940549-ac64-370e-eda9-67257bab6815@141.95.8.64:9331?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=x0PQITRDc443ujCTd0LORwvBBFGYKv6z2cvRbKHxAFU&sid=af1fac6e&spx=/&type=tcp&headerType=none#@Daily_Configs
-vless://9c940549-ac64-370e-eda9-67257bab6815@141.95.8.64:9331?security=reality&encryption=none&pbk=x0PQITRDc443ujCTd0LORwvBBFGYKv6z2cvRbKHxAFU&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.google.com&sid=af1fac6e#@NETMelliAnti
-vless://9c940549-ac64-370e-eda9-67257bab6815@141.95.8.64:9331?security=reality&encryption=none&pbk=x0PQITRDc443ujCTd0LORwvBBFGYKv6z2cvRbKHxAFU&headerType=none&fp=chrome&spx=/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN&type=tcp&sni=play.google.com&sid=af1fac6e#🔵@chillguy_vpn
 vless://9c940549-ac64-370e-eda9-67257bab6815@45.131.6.203:2096?mode=auto&security=tls&encryption=none&insecure=0&host=intelligentgatewayplatform.novacorelorna.com&fp=chrome&type=xhttp&allowInsecure=0&sni=corecache.novacorelorna.com#@NETMelliAnti
 vless://9c940549-ac64-370e-eda9-67257bab6815@45.131.6.203:2096?mode=auto&security=tls&encryption=none&insecure=0&host=intelligentgatewayplatform.novacorelorna.com&fp=chrome&type=xhttp&allowInsecure=0&sni=corecache.novacorelorna.com#🇳🇱NL-🚀@VPNine1
 vless://9c940549-ac64-370e-eda9-67257bab6815@45.131.6.203:2096?mode=auto&security=tls&encryption=none&insecure=0&host=intelligentgatewayplatform.novacorelorna.com&fp=chrome&type=xhttp&allowInsecure=0&sni=corecache.novacorelorna.com#🔵@chillguy_vpn
@@ -503,3 +500,6 @@ vless://af1c3159-0b74-4218-abda-24cc83a8c1ca@fanlandv3.sorcepack.ir:52077?mode=g
 vless://af1e0692-6c91-4d61-bc6b-108f2e897c37@193.233.174.195:27331?encryption=none&security=none&type=tcp#🦖5@NetFlowTools
 vless://af1e0692-6c91-4d61-bc6b-108f2e897c37@193.233.174.195:27331?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ²⁰⁰
 vless://afc296b9-96be-4253-8268-5c9ecc8262d9@5.75.207.247:44004?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.intel.com&fp=chrome&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&sid=77b0689f&spx=/&type=tcp&headerType=none#@meliproxyy
+vless://afc296b9-96be-4253-8268-5c9ecc8262d9@5.75.207.247:44004?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.intel.com&fp=chrome&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&sid=77b0689f&spx=/&type=tcp&headerType=none#Channel : @Daily_Configs
+vless://afc442ef-98da-47db-a0ed-a2152545cbb3@162.19.0.122:26181?security=none&encryption=none&headerType=none&type=tcp#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️421🌐🆕️
+vless://afc941a0-b6b4-42d1-b284-d59a42f083fd@194.58.41.65:443?mode=gun&security=reality&encryption=none&pbk=cjCwI7alv-GUgef0TW7i-S7jNgnIoZ6aooGYH7Nopxs&fp=chrome&type=grpc&serviceName=GrpcFuckRKN&sni=www.microsoft.com&sid=deadbeef#@v2rayngzendegimamad🕊️

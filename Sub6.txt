@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4a3390c0-288b-47d4-91f4-6fb918b3c7e7@cdn4.portalcode.ir:2095?path=/&security=none&encryption=none&host=cloud.pedramhost.ir&type=httpupgrade#🇨🇦 @rayhub_ir 0629-8
-vless://4a459930-c09e-4813-87ad-40e169bcd01b@46.8.238.55:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Proxy_Se7en
-vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:2040?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&host=www.yahoo.com&headerType=none#@filembad
 vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:2040?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&host=www.yahoo.com&headerType=none#🔵@chillguy_vpn
 vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:2040?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#@meliproxyy
 vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:2040?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇬🇧GB-🚀@VPNine1
@@ -503,3 +500,6 @@ vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.13.71:443?encryption=none&s
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.13.71:443?path=/&security=tls&encryption=none&insecure=0&host=nbhhh.mrcool.kdns.fr&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#@FarazV2ray
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.13.71:443?path=/&security=tls&encryption=none&insecure=0&host=nbhhh.mrcool.kdns.fr&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#Mixi--Tel-@V2rayAlpha--28
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.19.67:443?encryption=none&host=nbhhh.mrcool.kdns.fr&path=/&security=tls&sni=nbhhh.mrcool.kdns.fr&type=ws#💙27@NetFlowTools
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.19.67:443?encryption=none&host=nbhhh.mrcool.kdns.fr&path=/&security=tls&sni=nbhhh.mrcool.kdns.fr&type=ws#💙27@oneclickvpnkeys
+vless://65f60e93-dbad-42b3-8856-7ca1c809adaa@2.27.22.238:110?security=&encryption=none&headerType=none&type=tcp#Proxy_Se7en
+vless://662f3d60-5a99-4a4f-8d9b-70fb6cd4f5d8@varzesh3.com:8880/?type=ws&encryption=none&path=/&host=pnl08.mizbanserv.ir&security=none#ChicVPNBot

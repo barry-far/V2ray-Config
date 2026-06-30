@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://def62c86-e2f2-4d13-b1f1-b3c197ed4873@87.199.210.215:443?encryption=none&type=ws&security=tls&path=/&host=play.google.com&sni=play.google.com&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#@hi_proxy_iran :👈کانال تلگرام
-vless://def62c86-e2f2-4d13-b1f1-b3c197ed4873@87.199.210.215:443?encryption=none&type=ws&security=tls&path=/&host=play.google.com&sni=play.google.com&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1#@meliproxyy
 vless://def62c86-e2f2-4d13-b1f1-b3c197ed4873@87.199.210.215:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=play.google.com&fp=chrome&type=ws&allowInsecure=1&sni=play.google.com#🇳🇱@FreakConfig
 vless://def62c86-e2f2-4d13-b1f1-b3c197ed4873@free.qelzino.ir:443?encryption=none&type=ws&security=tls&path=/&host=google.com&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1#@ReleaseNet
 vless://deffbfcd-0626-365b-ff92-9b93f2fd6459@rvg-production-1ab7.up.railway.app:443?path=/ws/deffbfcd-0626-365b-ff92-9b93f2fd6459&security=tls&encryption=none&insecure=0&host=rvg-production-1ab7.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-1ab7.up.railway.app#@TEHRANARGO
@@ -503,3 +501,5 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=/&security=tls&
 vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#@Soul737
 vless://ff8b8d71-8f68-5299-abca-b3920c4082b7@rvg-production-cccb.up.railway.app:443?path=/ws/ff8b8d71-8f68-5299-abca-b3920c4082b7&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-cccb.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-cccb.up.railway.app#-B2 بزودی پنل
 vless://ff9307e6-f04a-4905-8cd4-7e690bd63eb8@104.17.119.248:8080?path=/eyJqdW5rIjoiYUVJQnRNVEk1MlJKUiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=none&encryption=none&host=green-flower-361d.iamxenor.workers.dev&type=ws#@KAFING_2
+vless://ffa37367-6313-4cc5-86bd-3d8dc879c24e@snapp.ir:80?path=/&security=none&encryption=none&host=ar.liarashop.ir&type=ws#kurdconfig
+vless://ffb18c58-2d22-48b5-b8be-1659be84804b@3.78.186.146:61857?encryption=none&security=reality&sni=genshin.hoyoverse.com&fp=chrome&pbk=LBBHUEs4l_HWG8wvI0kGH3lC7t-dlB-p8YxHTR3W1EI&sid=93525a11f6ee8c95&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000","xPaddingObfsMode":true}#✅ 🇩🇪 named @namedzadim

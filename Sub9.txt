@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://9c521e24-7326-acd3-acec-d0af00000008@104.21.34.58:8080?path=/netstat&security=none&encryption=none&host=red-cell-47f9.milaniomilan9.workers.dev&fp=chrome&type=ws&sni=red-cell-47f9.milaniomilan9.workers.dev#🇨🇦@FreakConfig
-vless://9c5ea2a8-150f-45b6-886c-be0d9e90f5d3@f2.iranphlox.ir:443?encryption=none&security=tls&sni=default.ssl.fastly.net&type=xhttp&host=Fastspeedmar.global.ssl.fastly.net&path=/&mode=auto#@V2ray_confiig
 vless://9c940549-ac64-370e-eda9-67257bab6815@141.95.8.64:9331?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=x0PQITRDc443ujCTd0LORwvBBFGYKv6z2cvRbKHxAFU&sid=af1fac6e&spx=/&type=tcp&headerType=none#@Daily_Configs
 vless://9c940549-ac64-370e-eda9-67257bab6815@141.95.8.64:9331?security=reality&encryption=none&pbk=x0PQITRDc443ujCTd0LORwvBBFGYKv6z2cvRbKHxAFU&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.google.com&sid=af1fac6e#@NETMelliAnti
 vless://9c940549-ac64-370e-eda9-67257bab6815@141.95.8.64:9331?security=reality&encryption=none&pbk=x0PQITRDc443ujCTd0LORwvBBFGYKv6z2cvRbKHxAFU&headerType=none&fp=chrome&spx=/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN/PuLaVPN/PuLaVPN/PuLaVPN//PuLaVPN&type=tcp&sni=play.google.com&sid=af1fac6e#🔵@chillguy_vpn
@@ -503,3 +501,5 @@ vless://aeec50e6-f176-4f87-9f46-0610a0e76435@104.19.64.105:8443?encryption=none&
 vless://aef92bdf-79b6-4962-b3ff-164dd938d2dd@94.183.149.98:6000?security=none&encryption=none&headerType=http&type=tcp#@CUSTOMVPNSERVER
 vless://af1c3159-0b74-4218-abda-24cc83a8c1ca@fanlandv3.sorcepack.ir:52077?mode=gun&security=reality&encryption=none&pbk=PHBDzNOQhRFtN4bDJ6pOySCGlIA09CC_Josq13rTIwk&fp=chrome&type=grpc&sni=yahoo.com&sid=877521a51c7dad43#@fastkanfig 2
 vless://af1e0692-6c91-4d61-bc6b-108f2e897c37@193.233.174.195:27331?encryption=none&security=none&type=tcp#🦖5@NetFlowTools
+vless://af1e0692-6c91-4d61-bc6b-108f2e897c37@193.233.174.195:27331?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ²⁰⁰
+vless://afc296b9-96be-4253-8268-5c9ecc8262d9@5.75.207.247:44004?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.intel.com&fp=chrome&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&sid=77b0689f&spx=/&type=tcp&headerType=none#@meliproxyy

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://49bab9b8-5a76-4ef1-a4b4-979d8611acef@89.124.78.48:2567?mode=auto&path=/@SPDNET-@SPDNET-@SPDNET-@SPDNET-@SPDNET&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=6naggrmk-cQq6IKO9g0wr2fk-NrO8Er6Pj765IqffAc&fp=chrome&spx=/spdnet&type=xhttp&sni=play.google.com&sid=c4bf6305d6ac38a3#SPDNET-VIP1 🇳🇱
-vless://4a3390c0-288b-47d4-91f4-6fb918b3c7e7@cdn1.portalcode.ir:2095?path=/&security=none&encryption=none&host=cloud.pedramhost.ir&type=httpupgrade#🇧🇪 @rayhub_ir 0630-4
 vless://4a3390c0-288b-47d4-91f4-6fb918b3c7e7@cdn4.portalcode.ir:2095?path=/&security=none&encryption=none&host=cloud.pedramhost.ir&type=httpupgrade#🇨🇦 @rayhub_ir 0629-8
 vless://4a459930-c09e-4813-87ad-40e169bcd01b@46.8.238.55:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#Proxy_Se7en
 vless://4a836d89-0655-4c77-9702-b47219afaa5d@eng.wizardx1.com:2040?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&host=www.yahoo.com&headerType=none#@filembad
@@ -503,3 +501,5 @@ vless://659a9075-d5ab-4fd2-bf34-b37043fae832@108.162.194.135:443?path=/proxyip=d
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.13.71:443?encryption=none&security=tls&sni=nbhhh.mrcool.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=nbhhh.mrcool.kdns.fr&path=/#
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.13.71:443?encryption=none&security=tls&sni=nbhhh.mrcool.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=nbhhh.mrcool.kdns.fr&path=/#Channel : @Daily_Configs
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.13.71:443?path=/&security=tls&encryption=none&insecure=0&host=nbhhh.mrcool.kdns.fr&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#@FarazV2ray
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.13.71:443?path=/&security=tls&encryption=none&insecure=0&host=nbhhh.mrcool.kdns.fr&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#Mixi--Tel-@V2rayAlpha--28
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.19.67:443?encryption=none&host=nbhhh.mrcool.kdns.fr&path=/&security=tls&sni=nbhhh.mrcool.kdns.fr&type=ws#💙27@NetFlowTools

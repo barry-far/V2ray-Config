@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2e146372-aafa-42e6-aaa6-b2a7185225ce@fll.gazladder.work:443?security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fll.gazladder.work&sid=b415b8d7a6106ace#⭐️@ANA_SERVICE⭐️ثابت ip⭐️
-vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.call-me-seyed.ir:8080?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@1.glitchout.ir:443?security=none&encryption=none&headerType=none&type=tcp#TEL;Father_vpn
 vless://2e409cdc-d0c9-4fc0-b285-9371034b8002@6.call-me-seyed.ir:2052?path=/&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://2e834c8c-2b4d-4cc5-9725-23ed738b4333@AzarakhshProxy.fast.hosting-ip.com:80?path=/?ed=2048&security=none&encryption=none&host=lookivpn3.ir&type=ws#🩵+@Azarakhsh_Proxy+🩷
@@ -503,3 +501,5 @@ vless://49bab9b8-5a76-4ef1-a4b4-979d8611acef@87.199.202.193:2567?encryption=none
 vless://49bab9b8-5a76-4ef1-a4b4-979d8611acef@87.199.202.193:2567?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=6naggrmk-cQq6IKO9g0wr2fk-NrO8Er6Pj765IqffAc&sid=4d2d8e3f&spx=/FGshtsHhES0MrWA&type=xhttp&path=/@SPDNET-@SPDNET-@SPDNET-@SPDNET-@SPDNET&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#@meliproxyy
 vless://49bab9b8-5a76-4ef1-a4b4-979d8611acef@87.199.202.193:2567?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=6naggrmk-cQq6IKO9g0wr2fk-NrO8Er6Pj765IqffAc&sid=4d2d8e3f&spx=/FGshtsHhES0MrWA&type=xhttp&path=/@SPDNET-@SPDNET-@SPDNET-@SPDNET-@SPDNET&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#SPDNET-V6 🇳🇱
 vless://49bab9b8-5a76-4ef1-a4b4-979d8611acef@87.199.202.193:2567?mode=auto&path=/@SPDNET-@SPDNET-@SPDNET-@SPDNET-@SPDNET&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=6naggrmk-cQq6IKO9g0wr2fk-NrO8Er6Pj765IqffAc&fp=chrome&spx=/FGshtsHhES0MrWA&type=xhttp&sni=play.google.com&sid=4d2d8e3f#🇳🇱@FreakConfig
+vless://49bab9b8-5a76-4ef1-a4b4-979d8611acef@89.124.78.48:2567?mode=auto&path=/@SPDNET-@SPDNET-@SPDNET-@SPDNET-@SPDNET&security=reality&encryption=none&extra={"xPaddingBytes":"100-1000"}&pbk=6naggrmk-cQq6IKO9g0wr2fk-NrO8Er6Pj765IqffAc&fp=chrome&spx=/spdnet&type=xhttp&sni=play.google.com&sid=c4bf6305d6ac38a3#SPDNET-VIP1 🇳🇱
+vless://4a3390c0-288b-47d4-91f4-6fb918b3c7e7@cdn1.portalcode.ir:2095?path=/&security=none&encryption=none&host=cloud.pedramhost.ir&type=httpupgrade#🇧🇪 @rayhub_ir 0630-4

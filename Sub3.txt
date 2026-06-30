@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://e0195c73018d597b1c2f0ea89d8676ae@43.198.107.157:17005?sni=www.nintendogames.net#@Hope_Net-join-us-on-Telegram
-trojan://e0195c73018d597b1c2f0ea89d8676ae@95.40.125.63:5701?allowInsecure=1&sni=www.nintendogames.net#@Hope_Net-join-us-on-Telegram
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.42.163:443?host=tjsp.hhxaf.cc.cd&path=/&sni=tjsp.hhxaf.cc.cd&type=ws#☀️31@NetFlowTools
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@108.160.132.132:443?path=/&security=tls&insecure=0&host=tjsp.hhxaf.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=tjsp.hhxaf.cc.cd#🕊️Tel: @Proxy_Vpney (1)
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@144.202.83.188:443?fp=chrome&host=hhcm.hhxaf.cc.cd&path=/&sni=hhcm.hhxaf.cc.cd&type=ws#🏇32@NetFlowTools
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@152.70.105.42:8443?fp=chrome&host=tjsp.hhxaf.cc.cd&path=/&sni=tjsp.hhxaf.cc.cd&type=ws#🏇33@NetFlowTools
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@161.118.158.9:443?type=ws&headerType=none&security=tls&encryption=none&sni=hhcm.hhxaf.cc.cd&path=/&insecure=0#@v2rayconfigamir 8806
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.36.20:443?fp=chrome&host=hhcm.hhxaf.cc.cd&path=/&sni=hhcm.hhxaf.cc.cd&type=ws#☀️42@NetFlowTools
@@ -503,3 +498,8 @@ vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.252:1000?security=&encr
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://08c063d4-17d8-4d44-8f1c-6a1e782d3a1e@167.82.101.213:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&host=vexikopq012.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=global.fastly.com#✅  @vistav2ray  👈👈کانال ما ✅
+vless://08c063d4-17d8-4d44-8f1c-6a1e782d3a1e@167.82.101.213:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=vexikopq012.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#𝐃𝐀𝐋𝐓𝐎𝐍 𝐏𝐈𝐍𝐆🌝
+vless://08c063d4-17d8-4d44-8f1c-6a1e782d3a1e@167.82.101.213:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=1&host=vexikopq012.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=global.fastly.com#@prrofile_purple  ♥️👈 تلگرام
+vless://09036778-56fa-4489-945b-dcb66fa304a9@5.75.207.247:2886?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cKOOhuCGj6qHK3znJDGnoG9DTJOJK_GZ_r7A68xi_DM&security=reality&sid=62a8&sni=www.oracle.com&spx=/Fw20Brs0pCyWjZO&type=tcp#@SylphNet | 2026-06-26 10:36
+vless://093e2398-047a-474e-8c1e-7015934954b0@188.114.97.26:2087?encryption=none&security=tls&sni=mhione.mgvip.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=mhione.mgvip.ir&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#@MGv2rayOfficial
+vless://09548571-364e-4876-8e92-98f423e73913@a.r-o-o-t3.ir:443?security=reality&encryption=none&pbk=nA87ol2_2BADZHfXhH00wy3fNe4R8TiGG_IQbzWbPnA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.linkedin.com&sid=56c96c1d14#@ReleaseNet

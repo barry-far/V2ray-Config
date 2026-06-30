@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2cfdb119-5db3-45c4-b026-76227324f2ab@cd1.consolgame.ir:443?mode=auto&security=tls&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&insecure=0&host=golisarab.consolegamenet.ir&type=xhttp&allowInsecure=0&sni=golisarab.consolegamenet.ir#🇩🇪 [@v2raybaaz]
-vless://2cfdb119-5db3-45c4-b026-76227324f2ab@cd2.consolgame.ir:443?mode=auto&security=tls&encryption=none&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&insecure=0&host=forchez.consolegamenet.ir&type=xhttp&allowInsecure=0&sni=forchez.consolegamenet.ir#🇫🇮  [@v2raybaaz]
-vless://2cfdb119-5db3-45c4-b026-76227324f2ab@metan2.consolgame.ir:1002?security=reality&encryption=none&pbk=E5n-njx-57MxDzVpCwsqmc9wKeYRjyd2tg2yAUJ_sFU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=28711478c2a20a18#🇫🇮[@v2raybaaz]
-vless://2cfdb119-5db3-45c4-b026-76227324f2ab@mire.consolgame.ir:2425?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9b60d3#🇩🇪 [@v2raybaaz] 2
-vless://2cfdb119-5db3-45c4-b026-76227324f2ab@mizbansr.consolgame.ir:2425?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9b60d3#🇩🇪 [@v2raybaaz]
 vless://2cfdb119-5db3-45c4-b026-76227324f2ab@mreal1.varzesh361.ir:1153?security=reality&encryption=none&pbk=E5n-njx-57MxDzVpCwsqmc9wKeYRjyd2tg2yAUJ_sFU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=28711478c2a20a18#🇩🇪 [@v2raybaaz]
 vless://2cfdb119-5db3-45c4-b026-76227324f2ab@mreal2.varzesh361.ir:1153?security=reality&encryption=none&pbk=E5n-njx-57MxDzVpCwsqmc9wKeYRjyd2tg2yAUJ_sFU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=28711478c2a20a18#🇩🇪 [@v2raybaaz] 2
 vless://2dacceea-8664-4fed-ba16-27fdd3b40f3e@s4.meoshop.ir:2053?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=baba.meoshop.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=baba.meoshop.ir#telegram @mtmvpn 14
@@ -503,3 +498,8 @@ vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@173.245.58.75:443?path=/poiuyws&sec
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@news.microsoft.com:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&fp=chrome&type=ws&allowInsecure=0&sni=amoosamiii.net#🇩🇪 @ProxyVPN11
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@news.microsoft.com:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&fp=chrome&type=ws&allowInsecure=0&sni=amoosamiii.net#🦌@ProxyVPN11 - 9
 vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@news.microsoft.com:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&fp=chrome&type=ws&allowInsecure=0&sni=amoosamiii.net#🪼@ProxyVPN11 - 5
+vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@news.microsoft.com:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#@NETMelliAnti
+vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@news.microsoft.com:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#Tel-@NapsterNetvIrani🥳 2
+vless://4f160454-fbf5-4e61-9d83-78f6b6c25d80@13.51.238.84:42316?security=none&encryption=none&headerType=none&type=tcp#TEL;Father_vpn
+vless://4f7e7b53-1b1a-4e4b-acd3-b838ee83adc2@ez-8628e0.sddrddse123456.workers.dev:443?path=/&security=tls&encryption=none&insecure=0&host=ez-8628e0.sddrddse123456.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-8628e0.sddrddse123456.workers.dev#https://t.me/AarazV2ray
+vless://4fc8707b-0c0d-494c-af35-024840f9a5b9@http.hexo-music.ir:2095?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪@FreakConfig

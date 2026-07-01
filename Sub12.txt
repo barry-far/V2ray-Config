@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://f188ec3b-e055-4eed-ae62-97403931d4e2@54.91.34.214:2053?security=reality&encryption=none&pbk=L0bhr3K-aQCLq4aVrDTBQa6N62T7XbCsFhWnbStdWyc&headerType=none&fp=chrome&spx=/PLrixVCDuf2x7bu&type=tcp&sni=www.intel.com&sid=835db5c67c00#Channel id:@V2RAYBAZI
-vless://f206f46b-6252-4d42-b15b-d1b1e5168b48@www.parzort.ir:443?security=reality&encryption=none&pbk=Y4PRErwqUpSGbjN0FfAjMkfhF_P0b-Ld5ENVWHqbXWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=1b2acf74b254873e#🇩🇪 @Routel1
-vless://f2083aa4-f27d-43da-81cf-8bab31730400@cdn.tzpro.xyz:80?security=none&allowInsecure=0&encryption=none&type=ws&host=germany.vipserver14.workers.dev&path=/?ed=2048#🇩🇪 CxrolVPN
-vless://f2083aa4-f27d-43da-81cf-8bab317304c0@cdn.tzpro.xyz:80?security=none&allowInsecure=0&encryption=none&type=ws&host=germany.vipserver14.workers.dev&path=/?ed=2048#🇩🇪 CxrolVPN
-vless://f2083aa4-f27d-43da-81cf-8bab317304cb@cdn.tzpro.xyz:80?security=none&allowInsecure=0&encryption=none&type=ws&host=germany.vipserver14.workers.dev&path=/?ed=2048#🇩🇪 CxrolVPN
-vless://f23fb93e-7668-49f4-935e-dc18b9e18f8e@de.lesss.ir:443?security=reality&encryption=none&pbk=1lMHY_oEqthg10oDrHSq9gSwYdqqNb6ZQc9JEewyzVk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=bc7c4660adb53714#@oPeNFre
 vless://f3115329-e25b-4bcf-b035-52fdfb5371b2@65.109.218.60:55234?type=tcp&encryption=none&security=none#irconfiig -exs18ctr6t
 vless://f356ae17-12ad-43ce-9961-56de0725452e@173.199.117.62:3?mode=auto&path=/&security=none&encryption=none&type=xhttp#kurdconfig
 vless://f356ae17-12ad-43ce-9961-56de0725452e@173.199.117.62:3?mode=auto&path=/&security=none&encryption=none&type=xhttp#🇺🇸@FreakConfig
@@ -503,3 +497,9 @@ trojan://humanity@43.169.18.179:443?host=www.creationlong.org&path=%2Fassignment
 trojan://humanity@2.144.21.112:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%3E%3E%40v2rayng_fast%3A%3AFR
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.71:443#%3E%3E%40oneclickvpnkeys%3A%3AXX
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.105:443#%3E%3E%40oneclickvpnkeys%3A%3AXX
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.85:443#%3E%3E%40oneclickvpnkeys%3A%3AXX
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.87:443#%3E%3E%40oneclickvpnkeys%3A%3AXX
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.119:443#%3E%3E%40oneclickvpnkeys%3A%3AXX
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.131:443#%3E%3E%40oneclickvpnkeys%3A%3AXX
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.93:443#%3E%3E%40oneclickvpnkeys%3A%3AXX
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.97:443#%3E%3E%40oneclickvpnkeys%3A%3AXX

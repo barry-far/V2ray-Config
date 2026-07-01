@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.70:443?path=/ca-cl&security=tls&encryption=none&host=unnes.ac.id.yxls.eu.cc&type=ws&sni=unnes.ac.id.yxls.eu.cc#🇨🇦
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.70:443?path=/ca-cl&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#@Soul737
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.70:443?path=/ca-cl&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#Proxy_Se7en
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.70:443?path=/ca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#2. @NewsDarya
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.70:443?path=/ca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#@FarazV2ray
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.70:443?path=/ca-cl&security=tls&encryption=none&insecure=0&host=unnes.ac.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=unnes.ac.id.yxls.eu.cc#@Net2ray Germany2 🇩🇪
@@ -500,6 +503,3 @@ vless://3176b184-8987-4e27-9e26-0dc5a1469636@104.16.72.101:8443?encryption=none&
 vless://3176b184-8987-4e27-9e26-0dc5a1469636@104.16.72.70:8443?encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&fp=chrome&host=sa.sorixset.ir&mode=auto&path=/@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-&security=tls&sni=sa.sorixset.ir&type=xhttp&x_padding_bytes=100-1000#@V2ray_confiig
 vless://3176b184-8987-4e27-9e26-0dc5a1469636@104.16.72.70:8443?encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&fp=chrome&host=sa.sorixset.ir&mode=auto&path=/@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-@IRAN_V2RAY1-&security=tls&sni=sa.sorixset.ir&type=xhttp&x_padding_bytes=100-1000#mmd-@iran_v2ray1
 vless://317876c4-3de6-4b46-a19e-59b920bb7a28@104.18.16.56:443?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=hostingiran.szirsina.ir&fp=chrome&type=ws&allowInsecure=0&sni=hostingiran.szirsina.ir#t.me/CratelNetwork
-vless://3195e102-c157-eed6-eaa5-13ae596360e2@rvg-production-b337.up.railway.app:443?encryption=none&security=tls&type=ws&host=rvg-production-b337.up.railway.app&path=/ws/3195e102-c157-eed6-eaa5-13ae596360e2&sni=rvg-production-b337.up.railway.app&fp=chrome&alpn=http/1.1#RVG-خودم
-vless://3195e102-c157-eed6-eaa5-13ae596360e2@rvg-production-b337.up.railway.app:443?path=/ws/3195e102-c157-eed6-eaa5-13ae596360e2&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-b337.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-b337.up.railway.app#RVG-خودم
-vless://31e302aa-c0ef-4ab3-b16f-71ac8ccfb045@lastkh.mobileman1.com:4242?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#telegram @mtmvpn

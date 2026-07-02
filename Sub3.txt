@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@104.16.174.44:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Filtershekan_channel |3
+trojan://humanity@104.16.174.6:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Soul737
+trojan://humanity@104.16.174.71:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Filtershekan_channel |1
+trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#@appsooner کانال تلگرام 🕊️
+trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@EXPRESSVPN_420
 trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@SONIC_2524 کانال روبیکا و تلگرام 🕊⭐️
 trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#@hi_proxy_iran :👈کانال تلگرام
 trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#@meliproxyy
@@ -498,8 +503,3 @@ vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=none&
 vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=none&encryption=none&headerType=none&type=tcp#@MoOon_proxy 🍭
 vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=none&encryption=none&headerType=none&type=tcp#@v2raybaaz ⁶
 vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=none&encryption=none&headerType=none&type=tcp#@vpnbaz 🍭
-vless://0dab21e7-c7e9-4706-8f04-73b86c8bce84@5.75.207.247:2360?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&headerType=&fp=chrome&spx=/HgVq3fBofDu9L36&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=833bc1c51882#@icv2ray
-vless://0dab21e7-c7e9-4706-8f04-73b86c8bce84@5.75.207.247:4227?encryption=none&flow=xtls-rprx-vision&fp=&pbk=L5dWvFThmaEvNqnz8xbBkyT10TWINOZbn-BAdKtXNzk&security=reality&sid=d71b53053ec6e4&sni=aws.amazon.com&type=tcp#💙15@NetFlowTools
-vless://0dab21e7-c7e9-4706-8f04-73b86c8bce84@5.75.207.247:4227?security=reality&encryption=none&pbk=L5dWvFThmaEvNqnz8xbBkyT10TWINOZbn-BAdKtXNzk&headerType=none&fp=chrome&spx=/iddplozJJWE5hnQ&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=d71b53053ec6e4#@icv2ray
-vless://0dab21e7-c7e9-4706-8f04-73b86c8bce84@5.75.207.247:443?security=reality&encryption=none&pbk=AQdYxjoMA0fxO8O9BX5bW4EMfRyiH09K0Hwjwse51AM&headerType=none&fp=chrome&spx=/uNENw17LQM60xOg&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=1222a4#@icv2ray
-vless://0ddaa462-5638-4bcb-a7b2-27d6d33ceda2@188.114.96.3:2096?path=/eyJqdW5rIjoiM2RoUEFZQnpVVSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=masterserver1.gogochi.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=MAsTeRsERVeR1.GOgoChI.wOrKERs.dev#kurdconfig

@@ -3,6 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://4a836d89-0655-4c77-9702-b47219afaa5d@kim1.wiziii.xyz:2083?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=wiz3.jooje.lat&fp=chrome&type=xhttp&allowInsecure=0&sni=wiz3.jooje.lat#@v2rayNplus |🇩🇪
+vless://4a836d89-0655-4c77-9702-b47219afaa5d@kim2.wiziii.xyz:2083?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=pin4.jafarparty.lat&fp=chrome&type=xhttp&allowInsecure=0&sni=pin4.jafarparty.lat#@v2rayNplus |🇱🇹
+vless://4a836d89-0655-4c77-9702-b47219afaa5d@seti.wizardp.org:2045?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=play.google.com&sid=6ba85179e30d4fc2#@v2rayNplus |🇨🇭
+vless://4a836d89-0655-4c77-9702-b47219afaa5d@wizi.wizardx1.com:2045?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=xyz&sni=yahoo.com#@v2rayNplus |🇩🇪
+vless://4b184bbb-c4d6-42ae-b447-aa85d8294967@46.101.160.244:2083?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=qeztrg7u.akscasx.workers.dev&path=/&security=tls&sni=qeztrg7u.akscasx.workers.dev&type=ws#💙33@NetFlowTools
 vless://4b184bbb-c4d6-42ae-b447-aa85d8294967@46.101.160.244:2083?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=qeztrg7u.akscasx.workers.dev&path=/&security=tls&sni=qeztrg7u.akscasx.workers.dev&type=ws#💙33@oneclickvpnkeys
 vless://4b4cb7dd-b741-4218-ac99-7009e78e37fc@v2py.zynexo.ir:1080?security=reality&encryption=none&pbk=ZbLRIfp7JIWgMCIAzn8OYLpTLODdU9kclqDXzQE2c3U&headerType=none&fp=chrome&spx=/8onrjgUssawAjQp&type=tcp&sni=play.google.com&sid=837366093533865c#@Soul737
 vless://4b581293-af3a-4658-b9b2-06949626bf86@104.16.80.73:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#@SheriffNet
@@ -498,8 +503,3 @@ vless://718ff826-3d64-441c-b1ec-54a1d7394931@euro.connectingissues.ir:80?mode=au
 vless://718ff826-3d64-441c-b1ec-54a1d7394931@global.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#@appsooner کانال تلگرام 🕊️
 vless://718ff826-3d64-441c-b1ec-54a1d7394931@global.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#🕊 @Fear_Config
 vless://718ff826-3d64-441c-b1ec-54a1d7394931@local.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#@appsooner کانال تلگرام 🕊️
-vless://718ff826-3d64-441c-b1ec-54a1d7394931@local.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#@prrofile_purple  ♥️👈 تلگرام
-vless://718ff826-3d64-441c-b1ec-54a1d7394931@local.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#🕊 @Fear_Config
-vless://718ff826-3d64-441c-b1ec-54a1d7394931@mci.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#@appsooner کانال تلگرام 🕊️
-vless://718ff826-3d64-441c-b1ec-54a1d7394931@mci.connectingissues.ir:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shirin-kose.de&type=xhttp#🕊 @Fear_Config
-vless://71f3cfb9-66cf-4626-9971-1c7fb4f785b9@135.125.185.26:443?security=reality&encryption=none&pbk=Fuv0oB7LjnMpqfUhaNltZdMJjfknSn_PgtacJmzNMiM&headerType=http&fp=chrome&spx=/TsqYBXSHpQSTPZL&type=tcp&sni=www.yahoo.com&sid=D8#best_internet_iran

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://2417e58e-f9fa-9981-68bf-d52c1ab67adc@ansooyefilter-bot.up.railway.app:443?encryption=none&security=tls&type=ws&host=ansooyefilter-bot.up.railway.app&path=/ws/2417e58e-f9fa-9981-68bf-d52c1ab67adc&sni=ansooyefilter-bot.up.railway.app&fp=chrome&alpn=http/1.1#RVG-@ansooyefilter
 vless://2417e58e-f9fa-9981-68bf-d52c1ab67adc@ansooyefilter-bot.up.railway.app:443?path=/ws/2417e58e-f9fa-9981-68bf-d52c1ab67adc&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ansooyefilter-bot.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ansooyefilter-bot.up.railway.app#🇺🇸@FreakConfig
 vless://246ed4c8-22af-404a-a9bf-894bcba06c1f@tstsrat.speed1vipsarbaziclick.site:80?encryption=none&host=fonts.spsps.ir&path=/profile&security=none&type=ws#🇮🇷IR-🚀@VPNine1
 vless://24a263c8-3153-404d-a567-4089cba17c10@ansooyefilter-bot.qeshmdiyar.ir:8443?security=reality&encryption=none&pbk=k-wk6CQguQMtipx1iMfDyZhyUL4FSS4T4ISLC9YTeh4&headerType=none&fp=chrome&spx=/8a2dvjADssH7mCs&type=tcp&sni=www.nvidia.com&sid=fa#🔴@v2rayngsupbot
@@ -502,4 +503,3 @@ vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@www.speedtest.net:8880?path=/?ed=20
 vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@www.speedtest.net:8880?path=/?ed=2082&security=none&encryption=none&host=Ccdn7-pro.postshup.ir&type=httpupgrade#🇨🇦@irconfiig
 vless://46aeacfa-0b4a-4e35-9a0f-6db76e92d4c6@www.speedtest.net:8880?path=/?ed=2082&security=none&encryption=none&host=Ccdn7-pro.postshup.ir&type=httpupgrade#🔵@chillguy_vpn
 vless://46b36337-3aa9-4733-97a3-3487a7efc4eb@OV2.liiliil.ir:40301?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#Telegram : @V2ynpv
-vless://47422044-85e3-426b-b6c4-3588cb24a3e5@45.130.125.160:443?path=/ae-bo&security=tls&encryption=none&insecure=0&host=s.blibli.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=s.blibli.com.cyylr.eu.cc#@V2raySup0 | 🚀

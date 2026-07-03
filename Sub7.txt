@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.45.6:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=/sg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#🍓20@oneclickvpnkeys
-vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@support.zoom.us:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#Proxy_Se7en
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@support.zoom.us:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🚀 t.me/iProxyChannel 4
 vless://66b2d54e-85ae-4664-88a2-90d70808d624@mv2.amydoodles.com:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=baba-nazan-h1.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://681314c5-b3ee-41f1-a959-fa42841f5383@1.1.1.1:1000?encryption=none&security=none&type=tcp&headerType=http&path=/&host=play.google.com#✅Sibnet_admin_bomb|📊877.46 GB|⏳∞
@@ -503,3 +501,5 @@ vless://8664d5b6-3316-a334-5163-dffb9dea4c3f@rvg-production-2030.up.railway.app:
 vless://8664d5b6-3316-a334-5163-dffb9dea4c3f@rvg-production-2030.up.railway.app:443?path=/ws/8664d5b6-3316-a334-5163-dffb9dea4c3f&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-2030.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-2030.up.railway.app#🇺🇸@FreakConfig
 vless://8664d5b6-3316-a334-5163-dffb9dea4c3f@rvg-production-2030.up.railway.app:443?path=/ws/8664d5b6-3316-a334-5163-dffb9dea4c3f&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-2030.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-2030.up.railway.app#🇺🇸@V2rayng_Fast
 vless://8664d5b6-3316-a334-5163-dffb9dea4c3f@rvg-production-2030.up.railway.app:443?path=/ws/8664d5b6-3316-a334-5163-dffb9dea4c3f&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=rvg-production-2030.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=rvg-production-2030.up.railway.app#🇺🇸@irconfiig
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf1.466688.xyz:2095?encryption=none&security=none&fp=chrome&type=ws&host=cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev&path=/@https://t.me/QiangLieTuiJian#unknown https://t.me/QiangLieTuiJian
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf10.466688.xyz:2095?encryption=none&security=none&fp=chrome&type=ws&host=cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev&path=/@https://t.me/QiangLieTuiJian#unknown https://t.me/QiangLieTuiJian

@@ -8,8 +8,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?encryption=none&security=tls&sni=kingcloud.biack.ir&fp=chrome&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=kingcloud.biack.ir&path=%2FLiL%3Fed#%40Daily_Configs
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B8%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#V2rayng_Fast
 vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?encryption=none&type=tcp&security=reality&headerType=none&sni=storage.yandex.net&fp=firefox&insecure=1&allowInsecure=1&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&flow=xtls-rprx-vision#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40proxy_kafee%205
 vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?encryption=none&type=tcp&security=reality&headerType=none&sni=storage.yandex.net&fp=chrome&insecure=1&allowInsecure=1&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&flow=xtls-rprx-vision#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40proxy_kafee%203
@@ -503,3 +501,5 @@ trojan://MITIVPN@164.38.155.135:443?security=tls&sni=95r.ir&fp=chrome&alpn=http/
 trojan://MITIVPN@172.64.32.75:443?alpn=http/1.1&fp=chrome&host=united.App-Cloud.ir&path=/MiTiVPN=Usa&sni=united.App-Cloud.ir&type=ws#🍓25@oneclickvpnkeys
 trojan://MITIVPN@172.64.32.75:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&host=united.App-Cloud.ir&fp=chrome&type=ws&sni=united.App-Cloud.ir#🇨🇦 @rayhub_ir 0704-1
 trojan://MITIVPN@172.64.32.75:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=united.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=united.App-Cloud.ir#Tel-@Alpha_V2rayip🤔 1
+trojan://MITIVPN@172.64.32.75:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=united.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=united.App-Cloud.ir#Tel-@Alpha_V2rayip🫥 2
+trojan://MITIVPN@172.64.32.75:443?type=ws&security=tls&path=/MiTiVPN=Usa&host=united.App-Cloud.ir&sni=united.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#@MoOon_proxy 100⚡

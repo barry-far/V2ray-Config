@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://9bc727d8-be3e-4bf7-9914-fabb5c59da5c@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#Channel : @Daily_Configs
-vless://9bc727d8-be3e-4bf7-9914-fabb5c59da5c@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#Channel : @proxy_kafee
 vless://9bc727d8-be3e-4bf7-9914-fabb5c59da5c@bot.sobhanpor.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=bot.sobhanpor.ir#🔵@chillguy_vpn
 vless://9be3bb59-c281-4fee-ae3d-7cf6c4b47eb4@cf1.466688.xyz:8880?encryption=none&security=none&type=ws&host=late-mountain-6801.355.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net@https://t.me/QiangLieTuiJian#unknown https://t.me/QiangLieTuiJian
 vless://9be3bb59-c281-4fee-ae3d-7cf6c4b47eb4@cf10.466688.xyz:8880?encryption=none&security=none&type=ws&host=late-mountain-6801.355.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net@https://t.me/QiangLieTuiJian#unknown https://t.me/QiangLieTuiJian
@@ -503,3 +501,5 @@ vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&securi
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=0&host=kingcloud.biack.ir&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#All--@ProxyMtAlpha--7
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=0&host=kingcloud.biack.ir&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#telegram:@sil3nt_network
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=0&host=kingcloud.biack.ir&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#🇸🇪 @V2RAYBAZI
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=0&host=kingcloud.biack.ir&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#🚀 t.me/iProxyChannel 10
+vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#@V2ray_confiig

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=/?@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=&encryption=none&host=a12.crowsvpn.shop&type=xhttp#🚀 t.me/iProxyChannel 2
-vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=/?@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=none&encryption=none&host=a12.crowsvpn.shop&type=xhttp#@MARAMBASHI 🇧🇷
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=/?@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=none&encryption=none&host=a12.crowsvpn.shop&type=xhttp#@MARAMBASHI 🇳🇱
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=/?@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=none&encryption=none&host=a12.crowsvpn.shop&type=xhttp#@Soul737
 vless://0a715ede-593a-4018-8406-66e2c3b1169c@89.106.64.15:7000?mode=stream-one&path=/?@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=none&encryption=none&host=a12.crowsvpn.shop&type=xhttp#@erfanandroid
@@ -503,3 +501,5 @@ vless://2417e58e-f9fa-9981-68bf-d52c1ab67adc@ansooyefilter-bot.up.railway.app:44
 vless://2417e58e-f9fa-9981-68bf-d52c1ab67adc@ansooyefilter-bot.up.railway.app:443?path=/ws/2417e58e-f9fa-9981-68bf-d52c1ab67adc&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ansooyefilter-bot.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=ansooyefilter-bot.up.railway.app#🇺🇸@FreakConfig
 vless://244e0962-fdb8-4d47-9170-d712133c5956@switchyard.proxy.rlwy.net:57693?mode=auto&path=/&security=reality&encryption=mlkem768x25519plus.native.0rtt.TsXpFCVQ6-fNXVULvg4CsV-KTz_slBE9qDVdFJyXwGU&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=-9My5rlJjunL92LvtnyL3mr9OOFaJYxWu8vlc3U6qUI&host=switchyard.proxy.rlwy.net&fp=chrome&spx=/dWTtS5KdUJWEeni&type=xhttp&sni=www.samsung.com&sid=f33b3a32486e28#🔵@chillguy_vpn
 vless://24a263c8-3153-404d-a567-4089cba17c10@ansooyefilter-bot.qeshmdiyar.ir:8443?security=reality&encryption=none&pbk=k-wk6CQguQMtipx1iMfDyZhyUL4FSS4T4ISLC9YTeh4&headerType=none&fp=chrome&spx=/8a2dvjADssH7mCs&type=tcp&sni=www.nvidia.com&sid=fa#🔴@v2rayngsupbot
+vless://24d49ddd-67c1-4821-b5b9-f12107366978@151.101.3.147:80?encryption=none&security=none&type=xhttp&host=baharishomalyour-name.global.ssl.fastly.net&path=/api&mode=auto&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"0"}#canfingV2rayNG-135
+vless://2501bd31-02c9-48a3-aba0-0b5725e69e8c@191.96.94.50:8080?encryption=none&security=none&type=ws&host=play.google.com&path=/#t.me/ConfigFori  -  Config 87345

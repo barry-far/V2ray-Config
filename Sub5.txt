@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://24d49ddd-67c1-4821-b5b9-f12107366978@151.101.3.147:80?encryption=none&security=none&type=xhttp&host=baharishomalyour-name.global.ssl.fastly.net&path=/api&mode=auto&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"0"}#canfingV2rayNG-135
-vless://2501bd31-02c9-48a3-aba0-0b5725e69e8c@191.96.94.50:8080?encryption=none&security=none&type=ws&host=play.google.com&path=/#t.me/ConfigFori  -  Config 87345
 vless://2501bd31-02c9-48a3-aba0-0b5725e69e8c@191.96.94.50:80?encryption=none&security=none&type=ws&host=play.google.com&path=/#t.me/ConfigFori  -  Config 87346
 vless://2501bd31-02c9-48a3-aba0-0b5725e69e8c@tr3.vidora4k.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=none&encryption=none&host=play.google.com&type=ws#@GozargahAzad|🇺🇸
 vless://2501bd31-02c9-48a3-aba0-0b5725e69e8c@tr3.vidora4k.ir:80?path=/&security=none&encryption=none&host=play.google.com&type=ws#@filembad
@@ -503,3 +501,5 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?type=tcp&encrypti
 vless://491bd18b-c1d1-4ec4-94d2-e1a13193d4da@vpn.smartrahand.com:2026?security=none&encryption=none&headerType=none&type=tcp#@v2rayngzendegimamad🕊️
 vless://493da04d-dca2-4306-acaf-f3005ea69392@fbi.gov:80?path=/&security=none&alpn=h3,h2,http/1.1&encryption=none&host=mtn.dgclix.ir&fp=chrome&type=ws#@bird_angry (mtn)
 vless://4950fb3c-634c-4b63-9647-2cc23aba8881@54.38.0.90:2083?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oLuqJsj4z6m_kns9ETrsIPA8fDrysonWXEsmn3931kY&security=reality&sid=1e&sni=icloud.com&spx=/6QzKIoOn6gI3Ri7&type=tcp#@filembad
+vless://4950fb3c-634c-4b63-9647-2cc23aba8881@54.38.0.90:2083?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oLuqJsj4z6m_kns9ETrsIPA8fDrysonWXEsmn3931kY&security=reality&sid=1e&sni=icloud.com&spx=/6QzKIoOn6gI3Ri7&type=tcp#t.me/ConfigFori  -  Config 87353
+vless://4950fb3c-634c-4b63-9647-2cc23aba8881@54.38.0.90:2083?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oLuqJsj4z6m_kns9ETrsIPA8fDrysonWXEsmn3931kY&security=reality&sid=1e&sni=icloud.com&spx=/6QzKIoOn6gI3Ri7&type=tcp#🇫🇷FR-🚀@VPNine1

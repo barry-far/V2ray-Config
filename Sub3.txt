@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.117:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@Soul737
 trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.120:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@Soul737
 trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.123:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@Soul737
 trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.123:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇩🇪Telegram:@ghostvpn141🇩🇪
@@ -503,3 +502,4 @@ vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.41:2096?path=/proxyip&sec
 vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.41:2096?path=/proxyip&security=tls&encryption=none&host=sp.linuxdododo.ccwu.cc&fp=chrome&type=ws&sni=sp.linuxdododo.ccwu.cc#🔵@chillguy_vpn
 vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.41:2096?path=/proxyip&security=tls&encryption=none&insecure=0&host=sp.linuxdododo.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=sp.linuxdododo.ccwu.cc#@V2raySup0🛍️
 vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.41:2096?path=/proxyip&security=tls&encryption=none&insecure=0&host=sp.linuxdododo.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=sp.linuxdododo.ccwu.cc#@V2ray_Alpha🐇 3
+vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.41:2096?path=/proxyip&security=tls&encryption=none&insecure=0&host=sp.linuxdododo.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=sp.linuxdododo.ccwu.cc#@meliproxyy

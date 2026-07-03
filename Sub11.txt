@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.26.12.222:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#@hex_proxy ⁵
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.26.12.222:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#🪼@ProxyVPN11 - 4
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.26.13.222:443?encryption=none&fp=chrome&host=octopusss5.info&path=/udfyfws&security=tls&sni=octopusss5.info&type=ws#✨ @NamiraConfigs | ❤️ وصل شدی جوین شو | 🚀 | 🇺🇸
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@108.162.193.162:443?encryption=none&security=tls&sni=octopusss5.info&insecure=0&allowInsecure=0&type=ws&host=octopusss5.info&path=/udfyfws#@NetFlowTools
@@ -503,3 +502,4 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?security=n
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?security=none&headerType=http&encryption=none&type=tcp#🇮🇹 telegram | @NetFlowTools
 vless://eacc2437-0c1a-440a-b871-500c9530ab15@buyeasy.th3team.ir:443?encryption=none&security=reality&sni=paly.google.com&fp=chrome&pbk=4XvfQ5CNZCaQf7prXh_TOO8HqIeMk5LXofVgQqBYxUE&sid=43414c&spx=/hAdel1Tgi7hGbuc&type=tcp&headerType=none#Channel: @Daily_Configs
 vless://eb0730d4-f581-f89f-a1a1-98bbf6ee10d6@role7.ojcenter.com:3468?security=reality&encryption=none&pbk=SvSapHrt3EpoN_JcW195G48r5nJVuioGP7LNABKWxG4&headerType=none&fp=chrome&spx=/&type=tcp&sni=telewebion.ir&sid=b6eae5ce#🇹🇷TR-🚀@V2Ray_Hub1200
+vless://eb0c6d6c-4e05-43f3-a077-8a65c926219e@104.18.153.10:8443?path=/&security=tls&alpn=http/1.1&encryption=none&host=argoovpn.imanaghapour.ir&fp=chrome&type=ws&sni=argoovpn.imanaghapour.ir#🇫🇷

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#All-@V2rayAlpha--23
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#Channel id: @ShadowProxy66 🇸🇪
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#Channel id: @ShadowProxy66🇸🇪
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=/LiL?ed&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=kingcloud.biack.ir#Channel id: @irconfiig 🇸🇪
@@ -503,3 +502,4 @@ vless://c3117cc5-9528-4177-ac05-73b5e8ebcd23@panel.dibaux.ir:80?encryption=none&
 vless://c3494c65-8cd8-4ce4-9618-11b2b4cfeeef@auth.figmafound.org:443?security=reality&encryption=none&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auth.figmafound.org&sid=fc67691a4440a84b#@icv2ray
 vless://c3494c65-8cd8-4ce4-9618-11b2b4cfeeef@play.roxgame.online:10630?mode=gun&security=reality&encryption=none&pbk=RGFMZYG7bZSl209szG0iEkFYcxbpIJBI_8lEym8zmTc&fp=chrome&type=grpc&serviceName=log&sni=deepl.com&sid=99f344b47d8d1d7b#@V2ray_confiig
 vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.26.12.222:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#Proxy_Se7en
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.26.12.222:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#@hex_proxy ⁵

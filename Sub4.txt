@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.41:2096?path=/proxyip&security=tls&encryption=none&insecure=0&host=sp.linuxdododo.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=sp.linuxdododo.ccwu.cc#@meliproxyy
 vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.70:2096?path=/proxyip&security=tls&encryption=none&insecure=0&host=sp.linuxdododo.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=sp.linuxdododo.ccwu.cc#@FarazV2ray
 vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.18.153.10:2096?path=/proxyip&security=tls&encryption=none&host=sp.linuxdododo.ccwu.cc&fp=chrome&type=ws&sni=sp.linuxdododo.ccwu.cc#🇯🇵
 vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?path=/proxyip=ProxyIP.CMLiussss.net&security=tls&encryption=none&insecure=1&host=sni.skylee4.cloudns.ch&fp=chrome&type=ws&allowInsecure=1&sni=sni.skylee4.cloudns.ch#@free_conf_iran 👈 کانفیگ رایگان
@@ -503,3 +502,4 @@ vless://1ecde8de-3910-4301-b65e-a90b73f44036@141.11.21.242:58128?security=none&e
 vless://1ecfc07d-5ab5-46cd-8438-02ff221b1881@snapp.ir:80?type=ws&path=/&host=kabotar.garfar.ir&security=none#@ehsawn8-30gig
 vless://1ee0c3d2-9c42-463f-8497-ee05f76b84e5@178.18.147.226:2053?encryption=none&flow=xtls-rprx-vision&fp=&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&security=reality&sid=c0d1d1776fed0f6d&sni=nl-t2.vinnypuxtomoon.today&type=tcp#💙4@NetFlowTools
 vless://1ee0c3d2-9c42-463f-8497-ee05f76b84e5@178.18.147.226:2053?encryption=none&type=tcp&security=reality&headerType=none&sni=nl-t2.vinnypuxtomoon.today&insecure=1&allowInsecure=1&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&sid=c0d1d1776fed0f6d&flow=xtls-rprx-vision#@NetFlowTools
+vless://1f216ab5-b0bb-44f4-8222-a05eb8c8cc7c@194.36.174.160:15300?encryption=none&security=none&type=tcp&headerType=none&note=@FreeOnlineVPN#🇫🇮 - FI - @FreeOnlineVPN

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b6e42688-3076-47aa-9345-6ff10fe1a36b@173.245.49.22:8880?path=/sync&security=none&encryption=none&host=wandering-rice-1ac4.cloudfelar.workers.dev&type=ws#@VpnCostumer+|+بیا+تو+وصل+باش+💙
 vless://b6f29f8d-016e-4f30-b57f-c0cdafab2a40@141.133.175.194:443?security=reality&encryption=none&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#@v2FreeHub 🇬🇧
 vless://b72bae22-90e8-4e4d-937d-5d8ab27b91be@185.143.233.122:8080?path=?ed=2560&security=none&encryption=none&host=f2.neuralix.ir&type=ws#@NetZone_ir
 vless://b7799b3f-a76f-4fbb-8b8c-826ff3c052a5@144.225.65.204:52833?path=/&security=none&encryption=none&type=httpupgrade#@Ap_Ir6
@@ -503,3 +502,4 @@ vless://e2773031-7418-424e-ae49-99b4b474aeba@167.233.59.162:443?security=reality
 vless://e277ac9b-3225-3381-a9fb-3585419f7142@162.159.38.119:443?path=/media14#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=media14.ftmsoft.com&type
 vless://e277ac9b-3225-3381-a9fb-3585419f7142@162.159.38.119:443?path=/media14#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=media14.ftmsoft.com&type=ws&allowInsecure=0&sni=media14.ftmsoft.com#@MARAMBASHI 🩵
 vless://e277ac9b-3225-3381-a9fb-3585419f7142@162.159.38.119:443?path=/media14&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=media14.ftmsoft.com&type=ws&allowInsecure=0&sni=media14.ftmsoft.com#@FarazV2ray
+vless://e277ac9b-3225-3381-a9fb-3585419f7142@172.64.34.119:443?path=/media14&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=media14.ftmsoft.com#Proxy_Se7en

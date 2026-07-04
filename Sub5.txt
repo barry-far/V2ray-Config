@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1e7e0537-c23d-43c2-afd5-4d7753831278@14.102.228.201:80?encryption=none&security=none&type=xhttp&host=fi-hel-1.chapjavan.ir&path=/&mode=auto#@hi_proxy_iran :👈کانال تلگرام
 vless://1e7e0537-c23d-43c2-afd5-4d7753831278@14.102.228.201:80?encryption=none&security=none&type=xhttp&host=fi-hel-1.chapjavan.ir&path=/&mode=auto#Channel : @Daily_Configs
 vless://1e7e0537-c23d-43c2-afd5-4d7753831278@45.131.6.203:2053?encryption=none&security=tls&sni=cache-h2.persia.my&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#Channel : @Daily_Configs
 vless://1e7e0537-c23d-43c2-afd5-4d7753831278@faq.chapjavan.ir:3443?encryption=none&security=tls&sni=faq.chapjavan.ir&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#Channel : @Daily_Configs
@@ -503,3 +502,4 @@ vless://45ab962c-0e61-464b-ddc6-5fdd7338398f@1.iranazizm.com:8443?mode=auto&path
 vless://45ab962c-0e61-464b-ddc6-5fdd7338398f@104.17.163.123:8443?mode=auto&path=/TELEGRAMBYACHANEL@FreeOnlineVPN&security=tls&encryption=none&host=jokerv.membergolabi.ir.&fp=chrome&type=xhttp&sni=jokerv.membergolabi.ir.&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://45ab962c-0e61-464b-ddc6-5fdd7338398f@66.81.247.155:8443?mode=auto&path=/TELEGRAMBYACHANEL@FreeOnlineVPN&security=tls&encryption=none&host=jokerv.membergolabi.ir.&fp=chrome&type=xhttp&sni=jokerv.membergolabi.ir.&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
 vless://45ab962c-0e61-464b-ddc6-5fdd7338398f@Dnss.iraniranshopdashnoard.ir:8443?mode=auto&path=/TELEGRAMBYACHANEL@FreeOnlineVPN&security=tls&encryption=none&host=jokerv.membergolabi.ir.&fp=chrome&type=xhttp&sni=jokerv.membergolabi.ir.&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN
+vless://45ab962c-0e61-464b-ddc6-5fdd7338398f@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:8443?mode=auto&path=/TELEGRAMBYACHANEL@FreeOnlineVPN&security=tls&encryption=none&host=jokerv.membergolabi.ir.&fp=chrome&type=xhttp&sni=jokerv.membergolabi.ir.&note=@FreeOnlineVPN#🇳🇱 - NL - @FreeOnlineVPN

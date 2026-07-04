@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.114:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.133.252:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@193.151.134.39:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
 vless://083399de-c587-47b3-aa4b-7ae55e40d68f@45.82.138.106:1000?security=&encryption=none&headerType=none&type=tcp#@CUSTOMVPNSERVER
@@ -503,3 +502,4 @@ vless://1e35b4bf-b270-4c0b-918d-62746eedd2ad@104.18.32.47:80?path=/?ed&security=
 vless://1e681d1b-3f6e-4bd4-9fed-b8976bd1b3be@afrcloud22.mmv.kr:443?path=/45.76.192.129=24434&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#IR-@V2rayAlpha-8
 vless://1e69bbe0-f4e6-1afc-ec48-0e727859903e@141.95.8.64:9331?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=x0PQITRDc443ujCTd0LORwvBBFGYKv6z2cvRbKHxAFU&sid=af1fac6e&spx=/&type=tcp&headerType=none#Channel : @Daily_Configs
 vless://1e7e0537-c23d-43c2-afd5-4d7753831278@14.102.228.201:2053?encryption=none&security=tls&sni=gw-f1.orgspeed.net&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&path=/#Channel : @Daily_Configs
+vless://1e7e0537-c23d-43c2-afd5-4d7753831278@14.102.228.201:80?encryption=none&security=none&type=xhttp&host=fi-hel-1.chapjavan.ir&path=/&mode=auto#@hi_proxy_iran :👈کانال تلگرام

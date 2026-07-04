@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://6xbrk0tg6228d0sr@104.16.187.249:443?path=/mobotouchh&security=tls&alpn=http/1.1&insecure=0&host=mobo.codv2.com&fp=chrome&type=ws&allowInsecure=0&sni=mobo.codv2.com#🚀@V2Ray_Hub1200
-trojan://7002R3Gxo1@45.130.125.2:443?type=ws&security=tls&path=/da&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sa.farxmode.ir&sni=sa.farxmode.ir&fp=chrome&insecure=0&allowInsecure=0#🇩🇪 Telegram @SRCVPN
-trojan://7ux2hh3vc3ksuwae@195.15.254.9:59618?security=reality&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&spx=/CluiDjm9mJhHkKt&type=tcp&sni=pt.yahoo.com&sid=019dd851#@meliproxyy
 trojan://7ux2hh3vc3ksuwae@195.15.254.9:59618?security=reality&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&spx=/CluiDjm9mJhHkKt&type=tcp&sni=pt.yahoo.com&sid=019dd851#@v2rayNplus |🇨🇭
 trojan://7ux2hh3vc3ksuwae@195.15.254.9:59618?security=reality&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&spx=/CluiDjm9mJhHkKt&type=tcp&sni=pt.yahoo.com&sid=019dd851#🇨🇭 @rayhub_ir 0703-9
 trojan://7ux2hh3vc3ksuwae@195.15.254.9:59618?security=reality&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&spx=/CluiDjm9mJhHkKt&type=tcp&sni=pt.yahoo.com&sid=019dd851#🇨🇭CH-🚀@V2Ray_Hub1200
@@ -503,3 +500,6 @@ trojan://PI36027154@pumped-eft.rooster465.autos:443#🏠46@NetFlowTools
 trojan://SoftNetConnect@147.45.70.129:2087?type=grpc&security=reality&authority=185.204.169.129&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&sid=96a17085678b&spx=/#@MoOon_proxy (3🇩🇪⚡)
 trojan://SoftNetConnect@147.45.70.129:42549?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2,http/1.1,h3&fp=chrome&insecure=1&allowInsecure=1#@MoOon_proxy (4🇩🇪⚡)
 trojan://SoftNetConnect@147.45.70.129:443?type=xhttp&security=reality&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&sid=141b14d8&spx=/#@MoOon_proxy (2🇩🇪⚡)
+trojan://SoftNetConnect@147.45.70.129:8443?type=tcp&security=reality&headerType=none&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&sid=c7&spx=/#@meliproxyy
+trojan://SoftNetConnect@147.45.70.129:8443?type=tcp&security=reality&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&sid=c7&spx=/#@MoOon_proxy (🇩🇪⚡)
+trojan://SoftNetConnect@147.45.70.129:8443?type=tcp&security=reality&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&sid=c7&spx=/#@MoOon_proxy (🇩🇪⚡)   trojan:

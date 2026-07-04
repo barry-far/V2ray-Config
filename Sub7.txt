@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=nuverv.appleseraj.ir&sni=nuverv.appleseraj.ir&fp=chrome#🇩🇪| 𝐍𝐮𝐫𝐞𝐧𝐛𝐞𝐫𝐠𝟐
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=polobash.appleseraj.ir&sni=polobash.appleseraj.ir&fp=chrome#🇵🇱| 𝐏𝐨𝐥𝐚𝐧𝐝
-vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@solar.appleseraj.ir:2083?security=tls&type=ws&headerType=&path=?ed=2048&host=rouwwwfrance.appleseraj.ir&sni=rouwwwfrance.appleseraj.ir&fp=chrome#🇬🇧| 𝐋𝐨𝐧𝐝𝐨𝐧
 vless://5ed7fb94-bacd-485b-aca1-6a439738ed1f@tunnle.izumii.ir:2009?security=none&type=tcp&headerType=&path=&host=#🇮🇷⇆🇹🇷| 𝐓𝐮𝐧𝐞𝐥
 vless://5eed5e7c-8719-4262-ab67-6524ab6f3cfa@185.143.232.201:443?path=/c08431ca7ffde3ee&security=tls&alpn=h3&encryption=none&insecure=0&host=test-hamidreza8327v.mc.filimo.cam&fp=chrome&type=ws&allowInsecure=0&sni=test-hamidreza8327v.mc.filimo.cam#@erfanandroid
 vless://5f1683f3-20a8-4523-8620-b7212270350d@s5.tehranionliine.ir:80?path=/&security=none&encryption=none&host=v2rayNplus--v2rayNplus--v2rayNplus&type=ws#https://t.me/v2rayNplus |🇹🇷
@@ -503,3 +500,6 @@ vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=&encrypti
 vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#@Begoo_VPN ¹⁹⁴
 vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#@SylphNet | 2026-06-27 02:12
 vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#@SylphNet | 2026-06-27 04:17
+vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#@hi_proxy_iran :👈کانال تلگرام
+vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#@meliproxyy
+vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#All-@V2rayAlpha--11

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.162.196.3:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#@V2ray_confiig
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.162.196.3:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=/fp&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🪼26@oneclickvpnkeys
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.162.196.3:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp#@Daily_Configs
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.162.196.3:443?path=/fp&security=tls&encryption=none&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#@Soul737
@@ -502,4 +503,3 @@ trojan://MiTiVPN@104.16.72.101:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2
 trojan://MiTiVPN@199.232.78.140:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&insecure=1&host=miticonfig.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%3E%3E%40prrofile_purple%3A%3AUS
 trojan://MiTiVPN@88.216.67.230:443?alpn=http%2F1.1&fp=firefox&host=Nel.App-Cloud.ir&path=%2FMiTiVPN%3DNL&sni=Nel.App-Cloud.ir&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://PI36027154@pro-tortoise.rooster465.autos:443?allowInsecure=1#%3E%3E%40v2nodes%3A%3AUS
-trojan://PI36027154@pumped-eft.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AFR

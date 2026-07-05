@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.18.153.10:443?encryption=none&type=ws&security=tls&path=%2Frdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=1&allowInsecure=1#🔵@chillguy_vpn
-vless://40de6299-d792-4868-8a82-411ead0aa943@nl.go-vpn.club:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&security=reality&sid=ed7b9bdfedb9b8e5&sni=gateway.icloud.com&type=tcp#%F0%9F%92%9974@NetFlowTools
-vless://fb4f96af-267f-47c1-80ba-7c763a7b0e09@167.86.83.211:443?encryption=none&fp=&pbk=Yl5jwwGZthEomnp0eVtZXcted62akm7G5pGDGv1zKn0&security=reality&sid=b00c2b8d68c6c1&sni=www.yahoo.com&type=grpc#%F0%9F%92%9962@NetFlowTools
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.101:443?insecure=0&allowInsecure=0&security=tls&sni=vangoghhh.info&type=ws&path=%2Frdfgtws&encryption=none&host=vangoghhh.info#🔵@chillguy_vpn
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.101:443?path=%2Frdfgtws&security=tls&encryption=none&host=vangoghhh.info&allowinsecure=0&type=ws&sni=vangoghhh.info#@NetFlowTools
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.101:443?path=%2Frdfgtws&security=tls&encryption=none&host=vangoghhh.info&type=ws&sni=vangoghhh.info#🔵@chillguy_vpn
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.18.153.10:443?path=/rdfgtws&security=tls&encryption=none&host=vangoghhh.info&type=ws&sni=vangoghhh.info#🎯

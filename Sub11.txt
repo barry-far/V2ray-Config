@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=/vws/&security=tls&encryption=none&insecure=0&host=bab-6.site&type=ws&allowInsecure=0&sni=bab-6.site#@V2raySup0 🚀
 vless://b5f03bd3-0c55-416b-8ef9-da02593c1466@2.27.15.95:7443?security=reality&encryption=none&pbk=WPxQ7LPnJfuchcuNLZNOFqE-dTqOfRIbscUdQS5qsV0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amedia-vod.cdnvideo.ru&sid=a1b2c3d4e5f6789a#🇺🇸US-🚀@V2Ray_Hub1200
 vless://b5f03bd3-0c55-416b-8ef9-da02593c1466@2.27.15.95:7443?security=reality&encryption=none&pbk=WPxQ7LPnJfuchcuNLZNOFqE-dTqOfRIbscUdQS5qsV0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amedia-vod.cdnvideo.ru&sid=a1b2c3d4e5f6789a#🇺🇸US-🚀@VPNine1
@@ -502,4 +503,3 @@ vless://e8076006-2073-424d-833a-3f7cbcaea963@104.19.150.143:8443?path=/?u=bceeef
 vless://e8076006-2073-424d-833a-3f7cbcaea963@104.19.150.143:8443?path=/?u=bceeef4115&security=tls&encryption=none&host=nova-crystal-stack-d6e4.nova-07a982.workers.dev&fp=chrome&type=ws&sni=nova-crystal-stack-d6e4.nova-07a982.workers.dev#🔵@chillguy_vpn
 vless://e8c61352-444f-4154-ba34-9d3141154a8d@141.101.115.71:8443?path=/uploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#@tanhanet قطع شد باز میذاریم
 vless://e8c61352-444f-4154-ba34-9d3141154a8d@162.159.253.41:8443?path=/uploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#@ai_duet عضو باشید
-vless://e8c61352-444f-4154-ba34-9d3141154a8d@172.64.155.209:8443?path=/uploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#@ai_duet

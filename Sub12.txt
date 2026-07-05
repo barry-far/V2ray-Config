@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://e8c61352-444f-4154-ba34-9d3141154a8d@172.64.155.209:8443?path=/uploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#@ai_duet
 vless://e8c61352-444f-4154-ba34-9d3141154a8d@172.64.155.209:8443?path=/uploader.php&security=tls&encryption=none&insecure=0&host=maple.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=maple.adaspoloandco.com#@tanhanet
 vless://e8e34074-166f-48a6-9f86-398ad796c3ca@162.159.140.78:8880?path=/pyip=ProxyIP.SG.CMLiussss.net&security=&encryption=none&host=hidden-bonus-24d0.232-647.workers.dev&type=ws#🚀 t.me/iProxyChannel 7
 vless://e9503cee-ae7d-4abe-b6ed-5795458073a4@104.18.16.56:2083?path=/?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=prNkjleyvh.olAmpiavaRz.ir&fp=chrome&type=ws&allowInsecure=0&sni=vddhasdasdh.olampiavarz.ir#@v2rayngzendegimamad🕊️
@@ -502,4 +503,3 @@ vless://ff43a635-641d-f535-8690-62f3e3601944@192.248.149.81:443?encryption=none&
 vless://ff43a635-641d-f535-8690-62f3e3601944@192.248.149.81:443?security=reality&encryption=none&pbk=laDETVOcOKzz_vtU8iuGEE-Sv-TxRj1yFuAvfnpclig&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=westranga.3cx.uk&sid=02216d88c44b6d80#kurdconfig
 vless://ff43a635-641d-f535-8690-62f3e3601944@192.248.149.81:443?security=reality&encryption=none&pbk=laDETVOcOKzz_vtU8iuGEE-Sv-TxRj1yFuAvfnpclig&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=westranga.3cx.uk&sid=02216d88c44b6d80#🇬🇧@V2rayng_Fast
 vless://jina@20.218.137.249:443?security=tls&alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jina-20218137249-direct.yektanet.co#Telegram : @V2ynpv
-vless://jina@20.218.137.249:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jina-20218137249-direct.yektanet.co#@v2rayngzendegimamad🕊️

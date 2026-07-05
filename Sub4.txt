@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://0586eb35-ae9a-4f18-b9ce-93c9e6eb1326@direct.novaano.ir:443?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=gkIjQzxy5EzUpurQgP7yxLuSJve8H4BdRnEwSV5iQFQ&fp=chrome&spx=/bhtcnGU0qY7ghLk&type=xhttp&sni=mail-settings.google.com&sid=7a#@NETMelliAnti
 vless://0586eb35-ae9a-4f18-b9ce-93c9e6eb1326@direct.novaano.ir:443?mode=auto&path=/&security=reality&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=gkIjQzxy5EzUpurQgP7yxLuSJve8H4BdRnEwSV5iQFQ&fp=chrome&spx=/bhtcnGU0qY7ghLk&type=xhttp&sni=mail-settings.google.com&sid=7a#@V2ray_confiig
 vless://0596d8de-cf34-402a-b533-163b15e642eb@198.41.199.255:443?path=/downloader.php&security=tls&encryption=none&insecure=0&host=windy.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=windy.adaspoloandco.com&note=@FreeOnlineVPN#🇺🇸 - US - @FreeOnlineVPN
 vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.51:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac&type=tcp&headerType=none#@Daily_Configs
@@ -502,4 +503,3 @@ vless://1ed80968-07f1-4125-8814-9c4d418fbdce@germany.gp.gamingservice.ir:50122?s
 vless://1f216ab5-b0bb-44f4-8222-a05eb8c8cc7c@194.36.174.160:15300?encryption=none&security=none&type=tcp&headerType=none&note=@FreeOnlineVPN#🇫🇮 - FI - @FreeOnlineVPN
 vless://1fa43951-0c8e-4fbc-b350-2b11f67efb57@osre3.jykvpn.com:8443?mode=auto&path=/&security=none&encryption=none&host=ads.x5.ru&type=xhttp#@V2VODKA_A🇨🇭
 vless://200f0eb5-e480-4fe5-1a80-aa39a05a93a7@snapp.ir:2087?path=/BetForward&security=tls&encryption=none=/@Mcv2rayNG-@Mcv2raNG-@Mcv2rayNG-@Mcv2rayNG-@Mcv2rayNG-@Mcv2rayNG-@Mcv2rayNG-@Mcv2rayNG-@Mcv2rayNG--@Mcv2raNG--@Mcv2rayNG--@Mcv2rayNG&host=dns.darafiq.ir&fp=chrome&type=ws&sni=dns.darafiq.ir#𝗝𝗼𝗶𝗻 ➠@Mcv2rayNG
-vless://205d2bb2-c7ac-45c1-aef8-1df5a209c364@fanlandv2.sorcepack.ir:52077?mode=gun&security=reality&encryption=none&pbk=PHBDzNOQhRFtN4bDJ6pOySCGlIA09CC_Josq13rTIwk&fp=chrome&type=grpc&sni=yahoo.com&sid=ace2abf9f3eb99c6#@fastkanfig 3

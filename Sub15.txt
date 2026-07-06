@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://MiTiVPN@45.130.125.2:443?type=ws&security=tls&path=%2FMiTiVPN%3DN-L&host=Netland.App-Cloud.ir&sni=Netland.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%40W570W
 trojan://MiTiVPN@104.21.61.186:443?type=ws&security=tls&path=%2FMiTiVPN%3DSw&host=sw-Ws.App-Cloud.ir&sni=sw-Ws.App-Cloud.ir&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%40W570W
 trojan://MiTiVPN@104.18.3.97:443?type=ws&security=tls&path=%2FMiTiVPN%3Dfll&host=Fin-land.App-Cloud.ir&sni=Fin-land.App-Cloud.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%40W570W
 vless://3da6f38f-a41b-4012-b892-d3c2594d3d8d@91.107.190.12:23426?type=tcp&encryption=none&security=reality&pbk=uLsdtjN_l8VRQN6DOi8p-ykSY3UYqotD2cpraC0KbVY&fp=chrome&sni=play.google.com&sid=9186&spx=%2Fnaranv2ray#naranv2ray`

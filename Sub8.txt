@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://58f7687b-5209-4dcd-a11e-6e4eb2191378@149.118.55.234:443?pcs=e7e1a45c6c95c7de92d2005845335145f51e31e15b8683809fdcda2b0c0b5e25&path=/xlordgrim/sg#TELEGRAM--mehrosaboran?ed=512&security=tls&encryption=none&insecure=0&host=edge.xlordgrim.com&type=ws&allowInsecure=0&sni=www.zoom.com#@mehrosaboran
-vless://58f7687b-5209-4dcd-a11e-6e4eb2191378@149.118.55.234:443?pcs=e7e1a45c6c95c7de92d2005845335145f51e31e15b8683809fdcda2b0c0b5e25&path=/xlordgrim/sg&security=tls&encryption=none&insecure=0&host=edge.xlordgrim.com&type=ws&allowInsecure=0&sni=www.zoom.com#@ICV2RAY
-vless://58f7687b-5209-4dcd-a11e-6e4eb2191378@149.118.55.234:443?pcs=e7e1a45c6c95c7de92d2005845335145f51e31e15b8683809fdcda2b0c0b5e25&path=/xlordgrim/sg&security=tls&encryption=none&insecure=0&host=edge.xlordgrim.com&type=ws&allowInsecure=0&sni=www.zoom.com#🇸🇬@FreakConfig
 vless://590dfbde-f8c8-429b-b947-39bb767ddd9c@104.24.87.230:80?encryption=none&security=none&type=ws&host=square-moon-bc81-ppal03.tivere6418.workers.dev&path=/?ed=2560#🔥Ch: @pPal03🔥
 vless://590dfbde-f8c8-429b-b947-39bb767ddd9c@172.64.92.243:80?encryption=none&security=none&type=ws&host=square-moon-bc81-ppal03.tivere6418.workers.dev&path=/?ed=2560#🔥Ch: @pPal03🔥
 vless://5910d5d4-d670-4cf2-b875-72bfef693c56@104.17.108.1:443?encryption=none&type=xhttp&mode=packet-up&host=aa.farxmode.ir&path=/?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=aa.farxmode.ir&alpn=h2,http/1.1#@EVAY_VPN
@@ -503,3 +500,6 @@ vless://721df957-3c91-439d-b937-0c620d8d56bd@46.8.158.15:8443?security=reality&e
 vless://721df957-3c91-439d-b937-0c620d8d56bd@46.8.158.15:8443?security=reality&encryption=none&pbk=XQWcPhNNEoRc8g-9m7eArmb28TA_CpTimb1R7Dy_Qzw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com#🇩🇪 V2RayyNGvpn 🇩🇪
 vless://721df957-3c91-439d-b937-0c620d8d56bd@46.8.158.17:30005?security=reality&encryption=none&pbk=kAEICRYinsD6ypo3aR950HLemR5D715_8FYbO58Whgs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com#@vasl_bashim
 vless://721df957-3c91-439d-b937-0c620d8d56bd@46.8.21.191:30001?security=reality&encryption=none&pbk=kAEICRYinsD6ypo3aR950HLemR5D715_8FYbO58Whgs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com#☑➜چنلمون: Express_freevpn@
+vless://721df957-3c91-439d-b937-0c620d8d56bd@us2.fi1-cosmostechnology.ru:443?security=reality&encryption=none&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fi1-cosmostechnology.ru#@ICV2RAY
+vless://7247b284-c40d-47c7-af4e-c4738f827a3d@5.75.196.199:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=www.unscramblerer.com&headerType=http&type=tcp#کانال ما
+vless://7247b284-c40d-47c7-af4e-c4738f827a3d@5.75.196.199:56539?security=none&encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&host=www.unscramblerer.com&headerType=http&type=tcp#🇩🇪165567 | ⚡️Telegram = t.me/SOSkeyNET

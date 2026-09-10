@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@168.222.194.138:9880?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&type=grpc&authority=&serviceName=grpc-tunnel&mode=multi#🇩🇪 DE
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@168.222.194.138:9880?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&type=grpc&authority=&serviceName=grpc-tunnel&mode=multi#🇺🇳 UN
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@168.222.194.138:9880?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#🌐سرور 50 | @ELiV2Ray
+vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9873?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#@v2ray313 کانالمون 🫪
 vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9873?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#🇭🇺🇺🇸@AZARBAYJAB1
 vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9882?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#Free x144 @Outline_Vpn
 vless://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9882?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#🇷🇺RU-🚀@VPNine1
@@ -499,7 +503,3 @@ vless://8ff24c63-a8ab-443b-98c4-cf2ea1741382@38.148.253.32:9443?security=reality
 vless://8ff2bb44-990f-4a51-93c5-125f9b00accd@77.110.127.191:9443?path=/pourya&security=none&encryption=none&type=ws#TEL;Father_vpn
 vless://8ff538e4-330c-43c1-97c8-0c90bf989331@81.12.56.132:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=shoping2.gfdcty.ir#@appsooner کانال تلگرام 🕊️
 vless://8ff8fe86-569e-4072-abf6-6d27eb5a1470@152.89.253.143:2829?encryption=none&headerType=http&host=Microsoft.com&path=/&security=none&type=tcp#Channel-@Azaranv2ray
-vless://8ff8fe86-569e-4072-abf6-6d27eb5a1470@152.89.253.143:2829?encryption=none&headerType=http&host=Microsoft.com&path=/&security=none&type=tcp#Channel-@Azaranv2ray برای تهیه اشتراک اختصاصی به ایدی زیر پیام بدین
-vless://900ca7c5-6c69-4536-b0f8-efa4e3976016@51.79.89.68:443?type=tcp&encryption=none&security=none#test canada
-vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?security=reality&encryption=none&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&headerType=none&fp=chrome&spx=/ozks0ksxmyHue4v&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=85c86a9863#@EXPRESSVPN_420
-vless://9015f0bc-2053-4ca1-9b9b-a018b97b32d2@144.31.125.60:443?security=reality&encryption=none&pbk=SVgtyuD9khylgHuB0treGekxVSHPOS-wPZTNHUf6zj8&headerType=none&fp=chrome&spx=/ozks0ksxmyHue4v&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=85c86a9863#@V2ray_confiig

@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://df6bcab7-8445-44c7-a6d0-c1a688eef0db@91.192.160.7:9999?encryption=none&security=none&type=tcp&headerType=none#کانال تلگرام : Free_VPN_CH@
+vless://df99649d-9ba7-436a-a04d-aa5ce992dcc7@h.amirghmehdiat.ir:2087?alpn=h2,http/1.1&encryption=none&fp=chrome&host=h.amirghmehdiat.ir&path=/6113&security=tls&sni=h.amirghmehdiat.ir&type=httpupgrade#🇩🇪139864 | ⚡️Telegram = t.me/SOSkeyNET
+vless://df99649d-9ba7-436a-a04d-aa5ce992dcc7@h.amirghmehdiat.ir:2087?alpn=h2,http/1.1&encryption=none&fp=chrome&host=h.amirghmehdiat.ir&path=/6113&security=tls&sni=h.amirghmehdiat.ir&type=httpupgrade#🇩🇪139865 | ⚡️Telegram = t.me/SOSkeyNET
+vless://df9f5aca-eda0-428f-a752-e53866153d12@31.56.189.27:8765?encryption=none&flow=xtls-rprx-vision&security=reality&sni=srv-21bac9.vless.monster&fp=chrome&pbk=M08l5tDmJUYELykZCNYQyFgtR9Zc-A4ZGlUSLcUeS2c&sid=1bcc9177f3124b25&spx=/ahmadv2ray&fm=ahmadv2ray&type=tcp&headerType=none#🇩🇪DE_3786_@Surfboardv2ray
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.26:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#TEL;Father_vpn
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&fp=chrome&security=reality&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#🏁 Reality | https://t.me/FREECONFIGSPLUS ✨
 vless://dfc220d1-0b3a-44a2-99e3-8075bcae3b68@45.82.67.183:443?security=reality&encryption=none&pbk=daiJkQwpAcBk7oH1iZzRthMj-jAlqovX7vAiwVqfjTU&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=northwaleswildlifetrust.org.uk&sid=8880a9f75eb46d91#@MARAMBASHI 💟
@@ -499,7 +503,3 @@ vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?encryption=none&
 vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?encryption=none&security=none&type=grpc&authority=&serviceName=chat.deepseek.com&mode=gun#🇩🇪DE_4188_@Surfboardv2ray
 vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?encryption=none&security=none&type=grpc&authority=&serviceName=chat.deepseek.com&mode=gun#🇩🇪DE_4213_@Surfboardv2ray
 vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?encryption=none&security=none&type=grpc&authority=&serviceName=chat.deepseek.com&mode=gun#🇩🇪DE_4365_@Surfboardv2ray
-vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=chat.deepseek.com#🇩🇪 V2raySaman
-vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.92:2083?encryption=none&security=none&type=grpc&authority=&serviceName=chat.deepseek.com&mode=gun#🇩🇪DE_4367_@Surfboardv2ray
-vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.92:2083?mode=gun&security=none&encryption=none&authority=Telegram-Leviko_v2ray&type=grpc&serviceName=chat.deepseek.com#🇫🇮 V2raySaman
-vless://f26d7d58-1e5d-4ff2-b56a-42f3792de323@195.133.80.8:443?security=reality&encryption=none&pbk=BfWH0Semc11YkTslIO_Igss921A5J3JMmq_i2FaZxDo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uuidp.aeternavpn.space&sid=a1b2c3d4#@ICV2RAY

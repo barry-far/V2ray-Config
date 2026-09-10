@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=chat.deepseek.com#🇩🇪 V2raySaman
+vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.92:2083?encryption=none&security=none&type=grpc&authority=&serviceName=chat.deepseek.com&mode=gun#🇩🇪DE_4367_@Surfboardv2ray
+vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.92:2083?mode=gun&security=none&encryption=none&authority=Telegram-Leviko_v2ray&type=grpc&serviceName=chat.deepseek.com#🇫🇮 V2raySaman
+vless://f26d7d58-1e5d-4ff2-b56a-42f3792de323@195.133.80.8:443?security=reality&encryption=none&pbk=BfWH0Semc11YkTslIO_Igss921A5J3JMmq_i2FaZxDo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uuidp.aeternavpn.space&sid=a1b2c3d4#@ICV2RAY
 vless://f26d7d58-1e5d-4ff2-b56a-42f3792de323@195.133.80.8:443?security=reality&encryption=none&pbk=BfWH0Semc11YkTslIO_Igss921A5J3JMmq_i2FaZxDo&host=/?TELEGRAM----TOOTFFARANGI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uuidp.aeternavpn.space&sid=a1b2c3d4#@tootffarangi🍓-13
 vless://f26d7d58-1e5d-4ff2-b56a-42f3792de323@195.133.80.8:443?security=reality&encryption=none&pbk=BfWH0Semc11YkTslIO_Igss921A5J3JMmq_i2FaZxDo&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uuidp.aeternavpn.space&sid=a1b2c3d4#@MARAMBASHI 🇫🇷
 vless://f26d7d58-1e5d-4ff2-b56a-42f3792de323@195.133.80.8:443?security=reality&encryption=none&pbk=BfWH0Semc11YkTslIO_Igss921A5J3JMmq_i2FaZxDo&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uuidp.aeternavpn.space&sid=a1b2c3d4#@MARAMBASHI 🇳🇱
@@ -499,7 +503,3 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#%3E%3E%40shadowprox
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#%3E%3E%40shadowproxy66%3A%3AXX
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881#%3E%3E%40freeland8%3A%3AUS
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#%3E%3E%40freeland8%3A%3AUS
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#%3E%3E%40v2rayNG_Matsuri%3A%3ACA
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#%3E%3E%40FreakConfig%3A%3AIT
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#%3E%3E%40outline_vpn%3A%3ACA
-ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.204:10901#%3E%3E%40configV2rayNG%3A%3AIT

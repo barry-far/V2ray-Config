@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.115:2087?path=/4bc027a44532&security=none&encryption=none&type=ws#Free x199 @Outline_Vpn
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087/?type=ws&encryption=none&flow=&path=/4bc027a44532&packetEncoding=xudp#波兰
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?&type=ws&headerType=none&path=/4bc027a44532#🇳🇱 Join+Telegram:@Farah_VPN 🇳🇱
 vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?type=ws&headerType=none&path=/4bc027a44532#@Alpha_V2rayip
@@ -503,3 +502,4 @@ vless://d551dc1e-a0d3-4d52-a8bb-756cb9dac0b2@194.110.207.48:443?security=reality
 vless://d5948eae-ef1b-45e4-81aa-d27076b56530@95.182.114.74:443?encryption=none&security=none&type=tcp#🇺🇸139736 | ⚡️Telegram = t.me/SOSkeyNET
 vless://d59a47d8-f344-4a0b-81d6-9f68cb8be873@188.114.97.6:2095?path=/?ed=2048&security=none&encryption=none&host=iNFoRmeD-PArt0Y2KT5cRvl.SaMSunGovenS.ir.&type=ws#TEL;Father_vpn
 vless://d5a34dac-faa5-42b7-b867-10bebbe84023@www.upwork.com:8443?path=/api_stream&security=tls&alpn=h2&encryption=none&insecure=0&host=a2.homayon198.ir&fp=chrome&type=ws&allowInsecure=0&sni=a2.homayon198.ir#@ansooyefilter 💫🔥
+vless://d5a34dac-faa5-42b7-b867-10bebbe84023@www.upwork.com:8443?path=/api_stream&security=tls&alpn=h2&encryption=none&insecure=0&host=a2.homayon198.ir&fp=chrome&type=ws&allowInsecure=0&sni=a2.homayon198.ir#@bored_vpn

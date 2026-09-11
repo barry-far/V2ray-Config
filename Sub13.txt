@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d5a34dac-faa5-42b7-b867-10bebbe84023@www.upwork.com:8443?path=/api_stream&security=tls&alpn=h2&encryption=none&insecure=0&host=a2.homayon198.ir&fp=chrome&type=ws&allowInsecure=0&sni=a2.homayon198.ir#@bored_vpn
 vless://d5a34dac-faa5-42b7-b867-10bebbe84023@www.upwork.com:8443?path=/api_stream&security=tls&alpn=h2&encryption=none&insecure=0&host=a2.homayon198.ir&fp=chrome&type=ws&allowInsecure=0&sni=a2.homayon198.ir#@mehrosaboran
 vless://d5a34dac-faa5-42b7-b867-10bebbe84023@www.upwork.com:8443?path=/api_stream&security=tls&alpn=h2&encryption=none&insecure=0&host=a2.homayon198.ir&fp=chrome&type=ws&allowInsecure=0&sni=a2.homayon198.ir#@v2ray313 کانالمون ⚡
 vless://d5af4dfe-eaf1-460c-87aa-fefe930db0ba@b2n.ir:443?mode=auto&path=/ChOpIn&security=tls&alpn=h2,http/1.1,h3&encryption=none&extra={"mode":"auto","xPaddingBytes":"1-1","xPaddingObfsMode":true,"xPaddingKey":"ctx","xPaddingHeader":"x-grpc-context","xPaddingMethod":"tokenish","sessionIDPlacement":"header","sessionIDKey":"Idempotency-Key","seqPlacement":"header","seqKey":"Upload-Offset","sessionPlacement":"header","sessionKey":"Idempotency-Key"}&insecure=0&host=chopin.paxr.ir&type=xhttp&allowInsecure=0&sni=chopin.paxr.ir# telegram @MTMVPN
@@ -503,3 +502,4 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.215.210:22223?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.215.210:22224?encryption=none&security=none&type=tcp#🇬🇧168625 | ⚡️Telegram = t.me/SOSkeyNET
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.81.16:22222?encryption=none&security=none&type=tcp#V2ray_confiig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.130.43.250:22222?encryption=none&security=none&type=tcp#V2ray_confiig
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.130.61.248:22222?encryption=none&security=none&type=tcp&headerType=none#🇬🇧 GB

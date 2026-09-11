@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.130.61.248:22222?encryption=none&security=none&type=tcp&headerType=none#🇬🇧 GB
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.132.102.151:22222?encryption=none&security=none&type=tcp&headerType=none#@configprxy
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.132.102.151:22222?security=none&encryption=none&headerType=none&type=tcp#bisto4_service
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.85.1:22222?encryption=none&security=none&type=tcp#(S101)🇬🇧t.me/PrivateVPNs
@@ -503,3 +502,4 @@ vless://f798a2c4-c51b-409d-b349-ca8455b36796@chopin.adaspoloandco.com:8443?path=
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@chopin.adaspoloandco.com:8443?path=/download.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#@v2ray313 کانالمون ☹️
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@chopin.adaspoloandco.com:8443?path=/download.php&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#@v2ray313 کانالمون 😬
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@chopin.adaspoloandco.com:8443?path=/download.php&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#Free x111 @Outline_Vpn
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@chopin.adaspoloandco.com:8443?path=/download.php&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#Free x146 @Outline_Vpn

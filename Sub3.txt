@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=
+trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#57
+trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@hex_proxy ³
 trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@i10VPN⁴
 trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@i10VPN⁹
 trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@i10VPN🚲
@@ -500,6 +503,3 @@ vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.34:443?path=/ws/Default&se
 vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.35:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=web-cbfc1f-b66f1b-production.up.railway.app&fp=chrome&type=ws&sni=web-cbfc1f-b66f1b-production.up.railway.app#1 🇳🇱 @V2ngNet
 vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.36:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=cloud-0c44e0-da06fa-production.up.railway.app&fp=chrome&type=ws&sni=cloud-0c44e0-da06fa-production.up.railway.app#¹🇩🇪 @V2ngFast
 vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.36:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=srv-caef5f-fcd991-production.up.railway.app&fp=chrome&type=ws&sni=srv-caef5f-fcd991-production.up.railway.app#¹🇩🇪 @V2ngFast
-vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.36:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=sys-a32887-c5c00f-production.up.railway.app&fp=chrome&type=ws&sni=sys-a32887-c5c00f-production.up.railway.app#2 🇳🇱 @V2ngNet
-vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.37:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=service-2e9ca4-a3c172-production.up.railway.app&fp=chrome&type=ws&sni=service-2e9ca4-a3c172-production.up.railway.app#²🇩🇪 @V2ngFast
-vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.37:443?path=/ws/Default&security=tls&alpn=http/1.1&encryption=none&host=web-09a073-57310f-production.up.railway.app&fp=chrome&type=ws&sni=web-09a073-57310f-production.up.railway.app#²🇩🇪 @V2ngFast

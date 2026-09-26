@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cd1956d7-f803-4e5a-b8a4-f1540bd103d1@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=pokerrr.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#kurdconfig
-vless://cd1956d7-f803-4e5a-b8a4-f1540bd103d1@199.232.78.159:443?path=/&security=tls&encryption=none&insecure=0&host=pokerrr.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇩🇪@FreakConfig
-vless://cd1956d7-f803-4e5a-b8a4-f1540bd103d1@199.232.78.159:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=pokerrr.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@MARAMBASHI 🇩🇪
-vless://cd1956d7-f803-4e5a-b8a4-f1540bd103d1@199.232.78.159:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=pokerrr.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2rayng_Fast 🇩🇪
-vless://cd23ed17-33d8-499b-8836-f16531081366@69.46.46.106:443?mode=stream-up&path=/xhttp-siz10/stream-up/cd23ed17-33d8-499b-8836-f16531081366&security=tls&alpn=h2&encryption=none&host=marble-prairie-10e2-production.up.railway.app&fp=chrome&type=xhttp&sni=marble-prairie-10e2-production.up.railway.app#All Operators @MaSTeRSeRVeR1
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.2.33:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl3.moritech.net#@Alpha_V2rayip
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.2.33:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl3.moritech.net#@appsooner کانال تلگرام
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.2.33:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl3.moritech.net#23
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.2.33:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl3.moritech.net#4
@@ -503,3 +497,9 @@ vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality
 vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?security=reality&encryption=none&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=8433cb66b6c3ab6d#@v2rayng3
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&host=---v2rayNplus&type=ws#configprxy
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=/http&encryption=none&host=@SylphNet&type=ws#@SylphNet | 2026-06-27 05:03
+vless://dc9e93bc-b53a-11f1-91d3-52540030ba36@104.194.134.23:443?security=reality&encryption=none&pbk=USxaWDRKvJlZ-aHR-OGBT2XwVas2j4_1rhZCCfVNCBY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#@VConfing
+vless://dc9e93bc-b53a-11f1-91d3-52540030ba36@104.194.134.23:443?security=reality&encryption=none&pbk=USxaWDRKvJlZ-aHR-OGBT2XwVas2j4_1rhZCCfVNCBY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#kurdconfig
+vless://dc9e93bc-b53a-11f1-91d3-52540030ba36@104.194.134.23:443?security=reality&encryption=none&pbk=USxaWDRKvJlZ-aHR-OGBT2XwVas2j4_1rhZCCfVNCBY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#🇺🇸@FreakConfig
+vless://dc9e93bc-b53a-11f1-91d3-52540030ba36@31.76.249.87:443?security=reality&encryption=none&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.akamai.com#@V2ray_Alpha🐐 2
+vless://dc9e93bc-b53a-11f1-91d3-52540030ba36@31.76.249.87:443?security=reality&encryption=none&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.akamai.com#برای اتصال دائمی جوین شو🕖 TelegramID ⌲Express_freevpn 🪩
+vless://dc9e93bc-b53a-11f1-91d3-52540030ba36@31.76.249.87:443?security=reality&encryption=none&pbk=gydLdekl4sNcE2j7vueKJJhpYWTBxlGs_VQ6-ZH55iQ&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.akamai.com#@MARAMBASHI 👽

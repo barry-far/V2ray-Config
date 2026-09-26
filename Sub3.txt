@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@213.182.199.137:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@v2ray313 کانالمون 😪
-trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@V2rayng3
-trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2rayng3
-trojan://humanity@45.130.125.160:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🕊️34@oneclickvpnkeys
-trojan://humanity@45.130.125.75:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🇸🇨181544 | ⚡️Telegram = t.me/SOSkeyNET
-trojan://humanity@45.130.125.75:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#🐸33@oneclickvpnkeys
 trojan://humanity@45.205.0.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@V2ray_confiig
 trojan://humanity@45.205.0.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2ray313 کانالمون 🌝
 trojan://humanity@78.47.146.151:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@i10VPN¹⁰
@@ -503,3 +497,9 @@ vless://13177436-dd6b-344d-711c-c7d456e69b92@69.46.46.20:443?path=/ws/13177436-d
 vless://137539a1-15a1-442d-b0d1-7a9ec3e1f1a6@digia.riziro.ir:8443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=digia.riziro.ir&mode=auto&path=/&pbk=Ve-mF0aFGxV4deOSEA8jDe3FdjxLddF7n4IchNKvcDc&security=reality&sid=f349e91517ab8da7&sni=stg-mena-images.shop.samsung.com&spx=/PwzJMkwejzU2eGy&type=xhttp&x_padding_bytes=100-1000#🇳🇱hollowcon-T2@Hollowcon
 vless://137539a1-15a1-442d-b0d1-7a9ec3e1f1a6@digin.riziro.ir:8443?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=digin.rizrio.ir&mode=auto&path=/&pbk=zKeOuPoCS_FA1bsfFr-A8MmdYIS-DhcHwxmhDC1WaSA&security=reality&sid=662bcfb6&sni=ru-images.shop.samsung.com&spx=/RLJneKD2LQg1T1x&type=xhttp&x_padding_bytes=100-1000#🇺🇸hollowocn-T2@Hollowcon
 vless://1396d26a-b004-4b49-9bfe-3ded6ea1093f@5.255.108.85:8443?encryption=none&security=reality&sni=github.com&fp=chrome&pbk=3J5mYA5NziIVJi77fRsx9dZPYWzLkvaIz-cCdZQvhn8&sid=1a2b&type=xhttp&path=/xhttp-path&mode=stream-up#Telegram: @Daily_Configs
+vless://1396d26a-b004-4b49-9bfe-3ded6ea1093f@5.255.108.85:8443?encryption=none&security=reality&sni=github.com&fp=chrome&pbk=3J5mYA5NziIVJi77fRsx9dZPYWzLkvaIz-cCdZQvhn8&sid=1a2b&type=xhttp&path=/xhttp-path&mode=stream-up#vpnsal
+vless://1397981f-401f-4896-a60c-898b359f4bde@us.1905vpn.ru:443?security=reality&encryption=none&pbk=J8BwNe_VefsV7CU7NVyCSAXiOGqA_juUdifl1f0NIQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us.1905vpn.ru&sid=9292a8cb3ba284d3#@VConfing
+vless://13ad36e6-c091-43f2-8505-47d868dd544c@172.67.141.220:80/?type=ws&encryption=none&host=ghju.apocalypse.cc.cd&path=/XR8So0uqFVa3vY9ZbxgW4&note=@FreeOnlineVPN#🇺🇸 - US - @FreeOnlineVPN
+vless://13ba9154-0ace-443b-b38a-5349031d4e1d@188.114.96.6:443?path=/---------DisVpn---------DisVpn---------DisVpn&security=tls&encryption=none&alpn=h2,http/1.1&host=DisVpn.us.kg&fp=chrome&type=ws&sni=DisVpn.us.kg#@Hope_Net-join-us-on-Telegram
+vless://13f7f938-e0bc-4804-bb4d-ff02de2d0a0c@blogweb1.pages.dev:443/?type=ws&encryption=none&flow=&host=blogweb1.pages.dev&path=/&security=tls&sni=blogweb1.pages.dev&fp=chrome#咕
+vless://140b8981-d737-77df-7fba-6a6c060909df@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/140b8981-d737-77df-7fba-6a6c060909df#112

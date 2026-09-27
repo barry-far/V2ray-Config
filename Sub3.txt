@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@V2raySaman
-trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@V2rayng_Fast
-trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@bored_vpn
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@irdusti(14)🚩⁷
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@irdusti(16)🇫🇷
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@irdusti(19)🇫🇮²
@@ -503,3 +500,6 @@ vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.66:443?path=/ws/Default&se
 vless://10d85f65-f8d6-4504-b1e2-94649db1577a@95.217.24.236:2087?security=reality&encryption=none&pbk=KN8tFlpIwPgJGwUCG7Pp9c9c0juYKPvNIv4kFHwqbyk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=62.238.41.21&sid=a32cfb5deca913ad#@NETMelliAnti
 vless://10d85f65-f8d6-4504-b1e2-94649db1577a@95.217.24.236:2087?security=reality&encryption=none&pbk=KN8tFlpIwPgJGwUCG7Pp9c9c0juYKPvNIv4kFHwqbyk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=62.238.41.21&sid=a32cfb5deca913ad#🇫🇮 Join+Telegram:@Farah_VPN 🇫🇮
 vless://10e2817c-9a84-4c42-9eff-a8cfd6ec9283@yt.nl.xanka.best:2761?security=reality&alpn=http/1.1&encryption=none&pbk=d9ncsYIjJIiCaqLszDyLhZoZ9-XMYYhBrlHUyuHFxQo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl.xanka.best&sid=a4e1fd84#🇳🇱139892 | ⚡️Telegram = t.me/SOSkeyNET
+vless://10f7eb2d-d96d-4778-9d36-aff11e9d6629@189.74.97.43:2087?encryption=none&security=none&type=ws&path=/73b6faea2d00#🇺🇿UZ_421_@Surfboardv2ray
+vless://10f7eb2d-d96d-4778-9d36-aff11e9d6629@189.74.97.43:2087?encryption=none&security=none&type=ws&path=/73b6faea2d00#🇺🇿UZ_485_@Surfboardv2ray
+vless://114afb67-199c-4e75-828e-f19a61f6d2e7@neth28272738sca.resiranha.ir:4290?security=reality&encryption=none&pbk=cIT2rZEiec-gDgmnX-5l0KgIDw_Ik-qA-4pGzGoSkHY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=d38a24b31d88527f#channel : @Daily_Configs

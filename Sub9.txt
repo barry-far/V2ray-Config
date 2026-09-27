@@ -3,13 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.235.147:62145?security=none&encryption=none&headerType=none&type=tcp#🇨🇴92Mb | @ELiV2Ray
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.195.43:62145?security=&encryption=none&headerType=&type=tcp#9287 @proxy_online_net
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.162.251:62145?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.162.251:62145?security=none&encryption=none&headerType=none&type=tcp#🇳🇱@FreakConfig
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.200.0:62145?security=none&encryption=none&headerType=none&type=tcp#kurdconfig
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.200.0:62145?security=none&encryption=none&headerType=none&type=tcp#🇳🇱@FreakConfig
-vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@193.233.255.14:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr.sellflow.org#💫@ATOVPN گیگی ۳۵۰۰
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.23:443?encryption=none&security=reality&type=tcp&sni=sellflow.org&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#🇷🇺139906 | ⚡️Telegram = t.me/SOSkeyNET
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.28:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr.sellflow.org#💫@ATOVPN گیگی ۳۵۰۰
 vless://8feb7fa4-83a9-48e6-9240-52c6683b1d32@nahazoki.shadoww345.ir:2056?mode=auto&security=reality&alpn=h3,h2,http/1.1&encryption=mlkem768x25519plus.native.0rtt.KbnZ4FRwBm5azbttBGOKctAIZh0zSh0iGoY-3bFPbjU&pbk=Rvnb3mxrH6pC8OEeiwScIOJVEAUNd-Vjb_pp5K00p1s&fp=chrome&type=xhttp&sni=dynu.com&sid=fec7f0420bb978b4#🇩🇪181903 | ⚡️Telegram = t.me/SOSkeyNET
@@ -503,3 +496,10 @@ vless://XpnTeam-29@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encrypti
 vless://XpnTeam-29@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Tel-@ProxyMtAlpha🍇 6
 vless://XpnTeam-30@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#@v2ray_phoenix
 vless://XpnTeam-30@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
+vless://XpnTeam-30@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
+vless://XpnTeam-30@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Tel-@ProxyMtAlpha🍇2
+vless://XpnTeam-31@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@appsooner کانال تلگرام
+vless://XpnTeam-31@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
+vless://XpnTeam-31@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
+vless://XpnTeam-31@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@vmesskhodam
+vless://XpnTeam-32@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#@v2ray_phoenix

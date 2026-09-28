@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://90eacce7-8baa-49a4-be0e-eb056e0f7a01@channelhollowcon.onrender.com:443?encryption=none&security=tls&sni=channelhollowcon.onrender.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=channelhollowcon.onrender.com&path=/ws/90eacce7-8baa-49a4-be0e-eb056e0f7a01#@hollowcon
 vless://915773aa-b54f-43b7-8206-456bb4dff914@webshecan.webredirect.org:2087?type=tcp&security=reality&fp=chrome&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sni=www.speedtest.net&flow=xtls-rprx-vision&sid=53242a95&spx=/#@WebShecan-27Mordad-Night
 vless://91629adb-c144-4216-8093-140d1f55ee5e@5.75.149.156:443?mode=auto&path=/farasati1&security=reality&encryption=none&pbk=as04WkYoj-P4vEjJFXB3LeA_Rkt7Ud4pV2oTZ3bZwQg&fp=chrome&spx=/&type=xhttp&sni=www.wikipedia.org&sid=1c213fd68e13#Telegram @mtmvpn
 vless://9198f982-ef72-5da8-c1fb-6ae60c6abf53@victoryprovpn-production-f93a.up.railway.app:443?path=/ws/9198f982-ef72-5da8-c1fb-6ae60c6abf53&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=victoryprovpn-production-f93a.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=victoryprovpn-production-f93a.up.railway.app#@IRAN_V2RAY1 🌟
@@ -503,3 +502,4 @@ vless://XpnTeam-27@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encrypti
 vless://XpnTeam-27@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#@v2ray_phoenix
 vless://XpnTeam-27@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@V2ray_Alpha🌞14
 vless://XpnTeam-27@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
+vless://XpnTeam-27@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran

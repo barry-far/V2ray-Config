@@ -4,7 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 trojan://m%69tivpn@199.232.78.170:443?path=%40mehrosabiran&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40mehrosaboran
-trojan://m%69tivpn@167.82.76.7:443?path=%40mehrosaboran&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---us--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40mehrosaboran
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.18.32.87:443?path=/trojan&security=tls&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=id1.nathaya.web.id&fp=unsafe&type=ws&allowInsecure=0&sni=id1.nathaya.web.id#[ 🇨🇦 ] | @Cfox_SerVer
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.18.32.87:443?path=/trojan&security=tls&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=id1.nathaya.web.id&type=ws&allowInsecure=0&sni=id1.nathaya.web.id#kurdconfig
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.18.32.87:443?path=/trojan&security=tls&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=id1.nathaya.web.id&type=ws&allowInsecure=0&sni=id1.nathaya.web.id#🇨🇦@FreakConfig
@@ -548,6 +547,7 @@ trojan://7dafe71e-2be6-302f-bdfc-e6319a3299bc@15.204.20.229:443?security=tls#%F0
 trojan://b2dd238f-11e7-43aa-84b5-8c20ab24741f@165.154.246.195:49004?security=tls&sni=us-c.bbbb.pw#%F0%9F%87%B9%F0%9F%87%BCTW-165.154.246.195-0186
 trojan://b2dd238f-11e7-43aa-84b5-8c20ab24741f@165.154.246.195:49003?security=tls&sni=us-b.bbbb.pw#%F0%9F%87%B9%F0%9F%87%BCTW-165.154.246.195-0199
 trojan://b2dd238f-11e7-43aa-84b5-8c20ab24741f@165.154.246.195:49000?security=tls&sni=hk-a.bbbb.pw#%F0%9F%87%B9%F0%9F%87%BCTW-165.154.246.195-0200
+trojan://f62b3d55-66e5-4a2e-9ddc-a294bbce7b13@58.16.188.36:233?security=tls&sni=inf-uk1.qchwnd.moe#%F0%9F%87%A8%F0%9F%87%B3CN-58.16.188.36-0013
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.2:10823?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.2-0208
 trojan://b2dd238f-11e7-43aa-84b5-8c20ab24741f@165.154.246.195:49002?security=tls&sni=us-a.bbbb.pw#%F0%9F%87%B9%F0%9F%87%BCTW-165.154.246.195-0213
 trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:49438?security=tls&sni=hn.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-104.219.250.37-0220

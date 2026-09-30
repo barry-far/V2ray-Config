@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
+vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.129:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
+vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
+vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
 vless://bd134ebe-650c-4bd6-a208-2463b226adb2@104.17.147.22:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#@Vpn_Mikey | unlimitedGB 🇫🇷
 vless://bd5186bb-8223-46b7-bb55-4345988ec205@194.110.207.70:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=frantax.my3cx.de&sid=fd55b698ee8c3629#@confiig_hub
 vless://bd5bbbac-adc3-4b23-d3ac-8506694c0ef9@151.101.56.6:443?path=/?TELEGRAM--KANAL--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray--@mainv2ray&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#ᴬᴸᴸ🇫🇮➣@mainv2ray
@@ -499,7 +503,3 @@ vless://d0f0a880-0df1-0005-bdf1-5669fb9483ce@179.254.109.54:443?flow=xtls-rprx-v
 vless://d0f0a880-0df1-0005-bdf1-5669fb9483ce@179.254.109.54:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=cosw.ggisopi.su&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&type=tcp&headerType=none#🇩🇪All⁵ | @BigSmoke_Config
 vless://d0f0a880-0df1-0005-bdf1-5669fb9483ce@179.254.109.54:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cosw.ggisopi.su#@ICV2RAY
 vless://d0f0a880-0df1-0005-bdf1-5669fb9483ce@179.254.109.54:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cosw.ggisopi.su#Free x571 @Outline_Vpn
-vless://d0f0a880-0df1-0005-bdf1-5669fb9483ce@179.254.109.54:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cosw.ggisopi.su#[59471] - Telegram : @V2All
-vless://d0f0a880-0df1-0005-bdf1-5669fb9483ce@179.254.109.54:443?type=tcp&security=reality&sni=cosw.ggisopi.su&fp=chrome&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&sid=&flow=xtls-rprx-vision#🇺🇦 Join+Telegram:@Farah_VPN 🇺🇦
-vless://d0f0a880-0df1-0005-bdf1-5669fb9483ce@cosw.ggisopi.su:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cosw.ggisopi.su#@ICV2RAY
-vless://d0f0a880-0df1-48c9-bdf1-5669fb9483ce@136.148.71.151:443?security=reality&encryption=none&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=germa12.ggisopi.su#@FarazV2ray

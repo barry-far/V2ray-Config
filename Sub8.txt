@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://7b11c7e2-cb50-4aad-8bc4-996fdde69b4d@45.134.38.8:10071?security=reality&encryption=none&pbk=vKwb09bRtduMwrkaiyGl8_W40BxT2dSGb-3xmD1JuWY&headerType=none&fp=chrome&type=tcp&sni=commondatastorage.googleapis.com&sid=bd2efbd84a3817aa#@irdusti(19)🇩🇪
+vless://7b50da93-0841-4044-af6a-99bb9dcda6fc@45.130.254.193:443?mode=auto&path=/xh&security=tls&encryption=none&insecure=0&host=nd-25-5.anti-zaim.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=nd-25-5.anti-zaim.ru#10-IR--@V2rayAlpha
+vless://7b50da93-0841-4044-af6a-99bb9dcda6fc@45.130.254.193:443?mode=auto&path=/xh&security=tls&encryption=none&insecure=0&host=nd-25-5.anti-zaim.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=nd-25-5.anti-zaim.ru#11-IR--@V2rayAlpha
+vless://7b50da93-0841-4044-af6a-99bb9dcda6fc@45.130.254.193:443?mode=auto&path=/xh&security=tls&encryption=none&insecure=0&host=nd-25-5.anti-zaim.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=nd-25-5.anti-zaim.ru#@meliproxyy
 vless://7b50da93-0841-4044-af6a-99bb9dcda6fc@45.130.254.193:443?mode=auto&path=/xh&security=tls&encryption=none&insecure=0&host=nd-25-5.anti-zaim.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=nd-25-5.anti-zaim.ru#@tootffarangi🍓-14MTN
 vless://7b50da93-0841-4044-af6a-99bb9dcda6fc@45.130.254.193:443?mode=auto&path=/xh&security=tls&encryption=none&insecure=0&host=nd-25-5.anti-zaim.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=nd-25-5.anti-zaim.ru#@vmesc
 vless://7b50da93-0841-4044-af6a-99bb9dcda6fc@45.130.254.193:443?mode=auto&path=/xh&security=tls&encryption=none&insecure=0&host=nd-25-5.anti-zaim.ru&type=xhttp&allowInsecure=0&sni=nd-25-5.anti-zaim.ru#@v2raybaaz
@@ -499,7 +503,3 @@ vless://966990b5-5868-4af1-add6-011c72b4a443@45.207.157.8:9443/?type=tcp&encrypt
 vless://969a990d-5289-7ae1-5e71-90476928f93a@209.38.53.131:1161?encryption=none&security=none&type=tcp&headerType=http&host=www.tno.nl#@ICV2RAY
 vless://969a990d-5289-7ae1-5e71-90476928f93a@209.38.53.131:1161?encryption=none&security=none&type=tcp&headerType=http&host=www.tno.nl#Channel : @Daily_Configs
 vless://969a990d-5289-7ae1-5e71-90476928f93a@209.38.53.131:1161?encryption=none&type=tcp&headerType=http&host=www.tno.nl#@V2ray_confiig
-vless://969a990d-5289-7ae1-5e71-90476928f93a@209.38.53.131:1161?security=none&encryption=none&host=www.tno.nl&headerType=http&type=tcp#@appsooner کانال تلگرام
-vless://969a990d-5289-7ae1-5e71-90476928f93a@209.38.53.131:1161?security=none&encryption=none&host=www.tno.nl&headerType=http&type=tcp#• 🇳🇱 | 𝗡𝗲𝘁𝗵𝗲𝗿𝗹𝗮𝗻𝗱𝘀 - @HesarWeb
-vless://969a990d-5289-7ae1-5e71-90476928f93a@209.38.53.131:8039?security=reality&encryption=none&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tno.nl&sid=35938c4e546cd459#@MARAMBASHI 🇹🇷
-vless://96be5da6-5a25-4c96-b790-08fb39f69f07@65.109.218.12:5050?security=none&encryption=none&headerType=http&type=tcp#Free x555 @Outline_Vpn

@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@91.193.59.191:2087?encryption=none&fp=chrome&host=vlso5.1d.mom&path=/socks5=888:888@hkip.1d.mom:1080&security=tls&sni=vlso5.1d.mom&type=ws#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
+vless://a1fbffe9-8e5a-5a0e-9333-045d32eccd59@france.cloudpath.live:443?security=reality&encryption=none&pbk=dp4zdTaX89_Ls34gM_x8BSBTx50p4X7asR3H1q_jIn4&headerType=none&fp=chrome&type=tcp&sni=microsoft.com&sid=b00e098b#@TanhaNet⭐️
+vless://a224d815-c1a6-4898-92e6-1602ce706ddd@94.183.154.216:2003?encryption=mlkem768x25519plus.native.0rtt.100-111-1111.75-0-111.50-0-3333.156NRkt21U_2b3dQK0MprNGqLivKRysedHYJNmESJVY&flow=xtls-rprx-vision&security=reality&sni=www.filimo.com&fp=chrome&pbk=oxVeOPOnhOnMvPA-pZ2z_OAbXsf2oCp9YRt7TcmdjBo&sid=2c4a61e923dd21e2&type=tcp&headerType=none#Channel : @Daily_Configs
+vless://a22bff60-a40a-4250-bde2-4c660e363b47@104.17.169.13:2053?path=/axch1mttbxz2k55y01&security=tls&encryption=none&insecure=0&host=inDeX.HaRMONiCA01.WORkers.DeV&type=ws&allowInsecure=0&sni=inDeX.HaRMONiCA01.WORkers.DeV#[ 🇨🇦 ] | @Cfox_SerVer
 vless://a237ca49-48d5-466f-aee5-c44f728a99ab@138.16.129.32:8443?security=reality&encryption=none&pbk=Z3dT5WeVvmrbBtZycHfI3kO6kyoLH3tAqpT_ReaMaxI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&sid=4f676caa93313eab#Telegram 🆔@cnetvpn
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2086?path=/?ed=2080&security=none&encryption=none&host=bio.mehrsazi.ir&type=httpupgrade&note=@FreeOnlineVPN#🇩🇪 - DE - @FreeOnlineVPN
 vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?mode=auto&path=/category/music&security=none&encryption=none&host=iran.boltboost.gg&type=xhttp#@KAFING_2
@@ -499,7 +503,3 @@ vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alp
 vless://bca46025-bf43-40c0-895b-054a6fbcfd32@172.235.38.85:42942?security=reality&encryption=none&pbk=JmkfJoDWpAqt6gj4cbc4_cwItsdryMlV7joAGfNTKQU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=a56d7d8da977f860#🇺🇸 | 12
 vless://bcc2f72f-62ea-4d2d-914a-8a6ae5409724@78.159.245.51:6443?security=reality&encryption=none&pbk=o-QrksJtRE_UOjwUEAkN_T_3wo8HWXFo5F97BOmzKAw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=docs.helpscenter.xyz&sid=4c2f8435d7555b76#@Tarkshodeh 🇮🇱
 vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
-vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.140.106:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
-vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.129:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12
-vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#@CUSTOMVPNSERVER
-vless://bcce095a-9f98-4e23-a68c-8bbecb785dcd@104.19.141.3:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=1&host=afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=afrcloud1.c01.kr#Arshiavpn12

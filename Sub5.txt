@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://2db3c7fd-e34a-4f5e-9e63-2aa55f6f9f99@23.191.200.207:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI&security=reality&sni=dl.google.com&type=tcp#🌟74@oneclickvpnkeys
-vless://2de2347a-a796-4028-b55f-277f41d45ddd@199.232.78.159:443?path=/&security=tls&encryption=none&host=pokerrr.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#@v2ray_phoenix
 vless://2df56fd0-d1b7-4793-b877-acd356d960f7@172.67.71.217:443?path=/?ed=8080&security=tls&encryption=none&host=download-93w.pages.dev&fp=chrome&type=ws&sni=pages.dev#🩵+@Azarakhsh_Proxy+🩷
 vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@104.21.51.196:8443?path=/&security=tls&encryption=none&insecure=0&host=ad-005.zen2bswa.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-005.zen2bswa.info#@hopev2ray🤍
 vless://2e274cd1-3e74-4505-a878-590088561b60@media-dan1.team-pluss.ir:12345?security=reality&alpn=h3,h2,http/1.1&encryption=none&pbk=1N8CIM6v_TgbIDNneyEPNQ92hyq5Eyh_irJWOXKDBDw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sheets.google.com&sid=2b368990a94e8cbb#@i10VPN🚨
@@ -503,3 +501,5 @@ vless://454431fc-71e2-42b1-b375-5b55dd06666a@62.192.153.132:443?encryption=none&
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@62.192.153.132:443?encryption=none&type=raw&security=reality&sni=example.org&fp=chrome&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&spx=/HesarWeb#• 🇩🇪 | 𝗚𝗲𝗿𝗺𝗮𝗻𝘆 - @HesarWeb
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@62.192.153.132:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=chrome&type=tcp&sni=example.org#@meliproxyy
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@62.192.153.132:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=chrome&type=tcp&sni=example.org#Tel-@ProxyMtAlpha🙃 8
+vless://454431fc-71e2-42b1-b375-5b55dd06666a@62.192.153.132:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=chrome&type=tcp&sni=example.org#Tel-@ProxyMtAlpha🥕 1
+vless://454431fc-71e2-42b1-b375-5b55dd06666a@62.192.153.132:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=chrome&type=tcp&sni=example.org#Telegram @mtmvpn

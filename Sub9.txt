@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8ff285c0-0409-4631-a60e-89787a0a54e5@fde.velnix-services.ir:2087?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&pbk=wspJoRxoPU0UoLyKLQc7pDfOdhTpMjGZtC_jL4TB4GM&sid=9d0f#@filembad
-vless://8ff285c0-0409-4631-a60e-89787a0a54e5@fde.velnix-services.ir:2087?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&pbk=wspJoRxoPU0UoLyKLQc7pDfOdhTpMjGZtC_jL4TB4GM&sid=9d0f#🔵@chillguy_vpn
 vless://8ff285c0-0409-4631-a60e-89787a0a54e5@fih.velnix-services.ir:2087?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&alpn=h3,h2,http/1.1&pbk=mGLy6fkb9rtdpGYfxeit6YejxnfRCA_-o5I8VIoIXDs&sid=3c4d#@filembad
 vless://8ff285c0-0409-4631-a60e-89787a0a54e5@fih.velnix-services.ir:2087?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&alpn=h3,h2,http/1.1&pbk=mGLy6fkb9rtdpGYfxeit6YejxnfRCA_-o5I8VIoIXDs&sid=3c4d#🔵@chillguy_vpn
 vless://8ff285c0-0409-4631-a60e-89787a0a54e5@fr.velnix-services.ir:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=www.edge.com&fp=chrome&pbk=Wauiet-69OLfIy6eM4_wsIFbI1bTyvO8sES9p--zQ3M&sid=5e6f7a8b9c0d1e2a#@filembad
@@ -503,3 +501,5 @@ vless://XpnTeam-30@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encrypti
 vless://XpnTeam-30@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
 vless://XpnTeam-30@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran
 vless://XpnTeam-31@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@appsooner کانال تلگرام
+vless://XpnTeam-31@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@bored_vpn
+vless://XpnTeam-31@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#@mehrosaboran

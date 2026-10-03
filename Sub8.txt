@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://75cc7568-abb0-46a8-88be-8137d3c647d4@152.228.139.33:51671?security=reality&encryption=none&pbk=-5PowNUY37Pi01YKO9fjRTrum1m_9n6XauaPDpmOJzU&fp=chrome&type=grpc&serviceName=grpc_common3&sni=www.sony.com&sid=2fed44d8c59f7e71#@MyVless
-vless://75cc7568-abb0-46a8-88be-8137d3c647d4@152.228.139.33:51671?security=reality&encryption=none&pbk=-5PowNUY37Pi01YKO9fjRTrum1m_9n6XauaPDpmOJzU&fp=chrome&type=grpc&serviceName=grpc_common3&sni=www.sony.com&sid=2fed44d8c59f7e71#@hex_proxy ⁵
 vless://75cc7568-abb0-46a8-88be-8137d3c647d4@152.228.139.33:51671?security=reality&encryption=none&pbk=-5PowNUY37Pi01YKO9fjRTrum1m_9n6XauaPDpmOJzU&type=grpc&serviceName=grpc_common3&sni=www.sony.com&sid=2fed44d8c59f7e71#@FarazV2ray
 vless://75cc7568-abb0-46a8-88be-8137d3c647d4@152.228.139.33:51671?security=reality&encryption=none&pbk=-5PowNUY37Pi01YKO9fjRTrum1m_9n6XauaPDpmOJzU&type=grpc&serviceName=grpc_common3&sni=www.sony.com&sid=2fed44d8c59f7e71#@Shh_Proxy-New⁷
 vless://75cc7568-abb0-46a8-88be-8137d3c647d4@152.228.139.33:51671?security=reality&encryption=none&pbk=-5PowNUY37Pi01YKO9fjRTrum1m_9n6XauaPDpmOJzU&type=grpc&serviceName=grpc_common3&sni=www.sony.com&sid=2fed44d8c59f7e71#@V2raySaman
@@ -503,3 +501,5 @@ vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.28:443?security=reality&
 vless://8ff24c63-a8ab-443b-98c4-cf2ea1741382@38.148.253.32:9443?security=reality&encryption=none&pbk=z5ey3dBNwJciLD1_V2P_rKYGEd2Lk_V1IOl2uRDZwhQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=blog.jetbrains.com&sid=f5b880a0529326c1#@Begoo_VPN ²⁸⁸
 vless://8ff285c0-0409-4631-a60e-89787a0a54e5@dk.novarairam.ir:8880?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&pbk=b8404ntvN41a4-2x8Bf4dr_1uoDQs_wNKRC2_Jx7BR4&sid=fe1c8989777ba056#@filembad
 vless://8ff285c0-0409-4631-a60e-89787a0a54e5@dk.novarairam.ir:8880?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&pbk=b8404ntvN41a4-2x8Bf4dr_1uoDQs_wNKRC2_Jx7BR4&sid=fe1c8989777ba056#🔵@chillguy_vpn
+vless://8ff285c0-0409-4631-a60e-89787a0a54e5@fde.velnix-services.ir:2087?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&pbk=wspJoRxoPU0UoLyKLQc7pDfOdhTpMjGZtC_jL4TB4GM&sid=9d0f#@filembad
+vless://8ff285c0-0409-4631-a60e-89787a0a54e5@fde.velnix-services.ir:2087?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&pbk=wspJoRxoPU0UoLyKLQc7pDfOdhTpMjGZtC_jL4TB4GM&sid=9d0f#🔵@chillguy_vpn

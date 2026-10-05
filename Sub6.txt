@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://452f869f-7720-47c3-a175-b6673e31d3e8@pl-irancell7.xelfona.ir:2095?encryption=none&security=none&type=httpupgrade&host=connectivitycheck.android.com&path=/#Telegram : @Daily_Configs
-vless://452f869f-7720-47c3-a175-b6673e31d3e8@tr-irancell4.xelfona.ir:20018?security=none&encryption=none&host=connectivitycheck.android.com&headerType=http&type=tcp#🇩🇪⇝ @GpConnectSho کانکت شو! 💠
-vless://452f869f-7720-47c3-a175-b6673e31d3e8@us-vpnstore.rovilo.ir:20018?encryption=none&security=none&type=tcp&headerType=http&host=connectivitycheck.android.com#Channel : @Daily_Configs
-vless://452f869f-7720-47c3-a175-b6673e31d3e8@us-vpnstore.rovilo.ir:20018?encryption=none&security=none&type=tcp&headerType=http&host=connectivitycheck.android.com#Telegram : @Daily_Configs
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@103.75.125.17:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=chrome&type=tcp&sni=example.org#@irdusti(26)🇳🇱¹
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@185.213.20.133:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=chrome&type=tcp&sni=example.org#@Napsternetvirani
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@2.58.66.143:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=chrome&type=tcp&sni=example.org#@irdusti(26)🇩🇪¹
@@ -503,3 +499,7 @@ vless://5999a497-a2da-41d0-92cb-5b758082f83c@162.217.248.241:443/?type=tcp&encry
 vless://5999a497-a2da-41d0-92cb-5b758082f83c@167.104.216.12:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=kamaz4.api3-max.ru&alpn=h2,http/1.1&fp=chrome#@Vpn_Mafia 🇫🇷
 vless://5999a497-a2da-41d0-92cb-5b758082f83c@167.104.216.206:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=kamaz03.api3-max.ru&alpn=h2,http/1.1&fp=chrome#@Vpn_Mafia 🇫🇷
 vless://5a201de9-624a-4b58-b62e-32756556cdfc@s1d.syslogd.ir:443?path=/pa-m-v2&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=prx.nikpush.ir&type=ws&allowInsecure=0&sni=1fe60fe05d84ecc3.nikpush.ir#@Selinc
+vless://5a201de9-624a-4b58-b62e-32756556cdfc@s1d.syslogd.ir:443?path=/pa-m-v2&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=prx.nikpush.ir&type=ws&allowInsecure=0&sni=1fe60fe05d84ecc3.nikpush.ir#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️📶‎🛰️591🌐🆕
+vless://5aa02d95-185d-4205-9d5d-306440cce49f@poli.appleseraj.ir:2083?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=russia2.appleseraj.ir&type=ws&allowInsecure=0&sni=russia2.appleseraj.ir#@KAFING_2
+vless://5aa02d95-185d-4205-9d5d-306440cce49f@poli.appleseraj.ir:2096?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=nurenburges.appleseraj.ir&type=ws&allowInsecure=0&sni=nurenburges.appleseraj.ir#@KAFING_2
+vless://5aae7d2d-c152-42cc-afb6-fe805fb94531@139.162.149.105:80?&type=ws&headerType=none&path=/#🇩🇪 Join+Telegram:@Farah_VPN 🇩🇪

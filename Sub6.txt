@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://46204d16-fd9d-4ab6-a2ad-3c29bd523110@178.236.246.9:8443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=scstSNvoaY9_9cauw_7JGQMWciyqpO4NTRrhT0yOY1A&sid=feaaa10a951dd4f0&spx=/7577e007915dc3d&type=xhttp&host=subgift.duckdns.org&path=/subgift&mode=auto&extra={"mode":"auto","xPaddingBytes":"0"}#122
 vless://46699f9f-b815-47d8-a657-08494b74aa93@132.243.65.159:443?security=reality&encryption=none&pbk=RO5YMxxtJmZo2w370qG-seJ41toowHPbz6i2uXJ2gG0&headerType=&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ee.global-cdn.org&sid=7a3f9e2b1c8d4f6a#[ 🇪🇪 ] | @Cfox_SerVer
 vless://469677f4-acd1-4f1e-82d1-1f92704c0ee7@finl1.povrak.ir:28095?security=none&encryption=mlkem768x25519plus.native.0rtt.VuFxON-WTmoLTTMoAjvx_rTJ-R4rDaGfM0iDKn8sJTg&headerType=none&type=tcp#@V2ray_confiig
 vless://469677f4-acd1-4f1e-82d1-1f92704c0ee7@finl3.povrak.ir:26474?security=none&encryption=mlkem768x25519plus.native.0rtt.BOvEnh5jCDxg6tnJyW1sTZStVYBuVMUvzME-VBm6CEI&headerType=none&type=tcp#@V2ray_confiig
@@ -503,3 +502,4 @@ vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.104.103:9881?mode=gun&secur
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.104.103:9881?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#@mehrosaboran
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.104.103:9881?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#@v2ray313 کانالمون 💕
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.104.103:9881?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#@v2ray_phoenix
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.106.182:9881?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com#Free x467 @Outline_Vpn

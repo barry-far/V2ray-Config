@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.0.169:2086?security=none&type=ws&path=/?ed=2560security=tls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.43.187:2086?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=/?ed=2560security=tls#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.154.8:2052?security=none&type=ws&path=/?ed=2560security=tls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&packetEncoding=xudp&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr#🇸🇬 Join+Telegram:@Farah_VPN 🇸🇬
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:2082?security=none&type=ws&path=/?ed=2560&host=zb1zi.s3nx.dyz.hh.vavava.kdns.fr&encryption=none#🇨🇦 Join+Telegram:@Farah_VPN 🇨🇦
 vless://483e8c71-ae8e-7554-42fe-667eca8d017d@69.46.46.104:443?mode=stream-up&path=/xhttp-siz10/stream-up/483e8c71-ae8e-7554-42fe-667eca8d017d&security=tls&alpn=h2&encryption=none&host=silent-horizon-f5de-production.up.railway.app&fp=chrome&type=xhttp&sni=silent-horizon-f5de-production.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://484b5843-388f-4a8a-a601-3d833642c10d@soskeynets.rubyshow.ir:443?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=cdn.rubyshow.ir&path=/sendx&security=tls&sni=cdn.rubyshow.ir&type=ws#🇨🇦139877 | ⚡️Telegram = t.me/SOSkeyNET
 vless://486169a3-ce5f-4d93-8d01-f619d4443e5d@cp.so.rezzip.com:443?path=?ed=2560&security=tls&alpn=h2&encryption=none&insecure=0&host=pandura.lat&fp=chrome&type=ws&allowInsecure=0&sni=pandura.lat#Arshiavpn12
@@ -499,7 +503,3 @@ vless://5910d5d4-d670-4cf2-b875-72bfef693c56@104.17.108.1:443?encryption=none&ty
 vless://592bac53-90ec-44b5-811b-01f6adf28f41@104.16.203.166:80?encryption=none&security=none&type=ws&host=wild-glade-236b-ppal03.xawego3471.workers.dev&path=/?ed=2560#🥸Tel: @pPal03🥸جوین بدید گوگولیا🥸
 vless://592bac53-90ec-44b5-811b-01f6adf28f41@104.24.140.39:80?encryption=none&security=none&type=ws&host=wild-glade-236b-ppal03.xawego3471.workers.dev&path=/?ed=2560#🥸Tel: @pPal03🥸جوین بدید گوگولیا🥸
 vless://593bf46b-8316-5050-9357-d8a41e4db78b@51.255.166.202:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=e3k67dwms3-51255166202-direct.tavafog.com#@V2raySaman
-vless://593bf46b-8316-5050-9357-d8a41e4db78b@51.255.166.202:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=e3k67dwms3-51255166202-direct.tavafog.com#@V2ray_Alpha🥏 10
-vless://593bf46b-8316-5050-9357-d8a41e4db78b@51.255.166.202:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=e3k67dwms3-51255166202-direct.tavafog.com#@hex_proxy ⁴
-vless://593bf46b-8316-5050-9357-d8a41e4db78b@51.255.166.202:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=e3k67dwms3-51255166202-direct.tavafog.com#@outline_ir
-vless://593bf46b-8316-5050-9357-d8a41e4db78b@51.255.166.202:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=e3k67dwms3-51255166202-direct.tavafog.com#@vasl_bashim

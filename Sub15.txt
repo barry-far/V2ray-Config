@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://de5906f3-df38-4463-aa9d-2b01320cc6ea@31.76.76.28:443?path=/&security=none&encryption=none&type=ws#@Tarkshodeh 🇸🇻
+vless://de5906f3-df38-4463-aa9d-2b01320cc6ea@31.76.76.28:443?security=&encryption=none&type=ws#@Tarkshodeh 🇮🇴
 vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&type=xhttp&sni=www.google.com&sid=44#@v2rayng3
 vless://de92dc6a-4eed-4888-9077-1fc006ad339d@sy2.syragame.com:443?type=xhttp&host=sy.syragame.com&path=/&mode=auto&security=tls&sni=sy.syragame.com&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#@CxrolVPN
 vless://deba253c-fceb-4efb-b1b8-f7295ef2ec36@45.142.44.112:8443?security=reality&encryption=none&pbk=1ZjjxRjaJlzXQOupvNZ5pyK5xbaZGskjC6HkXGzMjys&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.g.co&sid=1ec515b87b68eab9#YFZ 145 @Outline_Vpn
@@ -501,5 +503,3 @@ vless://ef5f6054-61c7-4ce8-a35b-dbcec449f242@31.77.61.213:443?security=reality&e
 vless://ef5f6054-61c7-4ce8-a35b-dbcec449f242@31.77.61.89:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jobinvest.ru#🇫🇷 | 9
 vless://ef864178-98ac-493b-ae7e-054c362c348f@us2-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=/&flow=xtls-rprx-vision#@Hope_Net-join-us-on-Telegram
 vless://efd11a89-7506-44ce-95b6-6654859f155b@172.237.88.103:443?security=reality&encryption=none&pbk=EeLAX-BAjzSdRes-zpUFzVOYsBedmP8lUOHhXXJFXyI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zoom.us&sid=5a42dbd7e26a0415#11654@proxy_online_net
-vless://efd11a89-7506-44ce-95b6-6654859f155b@172.237.88.103:443?security=reality&encryption=none&pbk=EeLAX-BAjzSdRes-zpUFzVOYsBedmP8lUOHhXXJFXyI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zoom.us&sid=5a42dbd7e26a0415#@ConfigV2RayNG
-vless://efd11a89-7506-44ce-95b6-6654859f155b@172.237.88.103:443?security=reality&encryption=none&pbk=EeLAX-BAjzSdRes-zpUFzVOYsBedmP8lUOHhXXJFXyI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zoom.us&sid=5a42dbd7e26a0415#@FXxNET⚡️

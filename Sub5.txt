@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#TEL;Father_vpn
+trojan://telegram-id-directvpn@15.223.8.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
+trojan://telegram-id-privatevpns@13.37.180.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
+trojan://vP!XvZBNdw.e*ddSgmH!@188.114.96.3:2096?security=tls&sni=n0q4XPrJ2D4X4PRCQ29L8JKCZd0.pAGES.dev&alpn=http/1.1&fp=chrome&type=ws&host=n0q4xprj2d4x4prcq29l8jkczd0.pages.dev&path=/tr/ZFttmjSqvda5ohOQ?ed=2560#🇩🇪All⁶ | @BigSmoke_Config
+vless://--DIGiV2RAY---@185.146.173.59:80?path=/Digiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
+vless://--DIGiV2RAY---@discord.gg:80?path=/Digiv2ray-&security=none&encryption=none&host=ædígí.RadioTeHran.oRG.&type=ws#MCI
+vless://--JOIN--ELiV2RAY-@tg.ELiV2ray.io.:80?type=ws&path=/@ELiV2ray-@ELiV2ray-ELi.elmahstyle.ir?ed=80&host=ELi.V2ray.motorcycles&security=none#@Hope_Net-join-us-on-Telegram
 vless://-DIGiV2RAY@185.146.173.59:80?path=/Digiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#MTN
 vless://-DIGiV2RAY@discord.gg:80?path=/Digiv2ray-&security=none&encryption=none&host=ædígí.RadioTeHran.oRG.&type=ws#MCI
 vless://0050dd81-65fb-439c-abf6-c4c609205c44@104.21.18.141:443?path=/vl/uS3nCneDSYbdF04CAp?ed&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=f2au50vwmige9oftda.netizo14.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=f2AU50vwMiGE9OFTDa.NEtiZO14.WORkERs.DEv#@prrofile_purple | 𝗙𝗮𝗦𝗧 💚
@@ -496,10 +503,3 @@ vless://1cbf2f56-926e-4a69-a325-d2794a22d411@199.232.245.94:443?mode=auto&path=/
 vless://1cbf2f56-926e-4a69-a325-d2794a22d411@199.232.77.215:443?mode=auto&path=/&security=tls&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=rohamhaaaavista.com&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#@Tarkshodeh 🇸🇻
 vless://1cbf2f56-926e-4a69-a325-d2794a22d411@199.232.78.150:443?mode=auto&path=/&security=tls&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=rohamhaaaavista.com&fp=chrome&type=xhttp&allowInsecure=0&sni=global.fastly.com#@Tarkshodeh 🇸🇻
 vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?path=/id-tksi&security=tls&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#TEL:Father_vpn
-vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@13.140.94.191:443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8f3c6e2a1b5d4f09#@ICV2RAY
-vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@13.140.94.191:443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8f3c6e2a1b5d4f09#@MigMigVPNSHOP
-vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@177.202.70.13:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&security=reality&sid=8f3c6e2a1b5d4f09&sni=tradingview.com&type=tcp#@VPsave
-vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@177.202.70.13:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&security=reality&sid=8f3c6e2a1b5d4f09&sni=tradingview.com&type=tcp#⚡68@oneclickvpnkeys
-vless://1d54a125-8f1e-46bb-9a23-0ecf4ac92db8@104.21.8.201:2096?path=/fqg7aacd8s&security=tls&encryption=none&insecure=0&host=cdn-ca.skyvora.app&fp=chrome&type=ws&allowInsecure=0&sni=cdn-ca.skyvora.app#@Tarkahodeh 🏴󠁧󠁢󠁷󠁬󠁳󠁿
-vless://1df05cde-34a0-44ce-8059-44a7b1e7782b@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🔷️@ai_duet
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@147.45.108.45:443?security=reality&encryption=none&pbk=IuzAWh6UM62Txrnh_No9y5n6wmZecyR1ki8z5xor-0g&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=absolute-disaster.org#@Nexus_Panell چنل تلگرام

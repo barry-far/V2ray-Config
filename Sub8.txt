@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3fde8314-1e32-45c1-a88b-0c58a93a3538@45.88.12.111:2083?path=/vless-ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=crt.onecloudstream.com#@ICV2RAY
-vless://3fde8314-1e32-45c1-a88b-0c58a93a3538@45.88.12.111:2083?path=/vless-ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=crt.onecloudstream.com#@MigMigVPNSHOP
 vless://3fde8314-1e32-45c1-a88b-0c58a93a3538@45.88.12.111:2083?path=/vless-ws&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=crt.onecloudstream.com#@TEHRANARGO
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&flow=xtls-rprx-vision&fp=chrome&headerType=none&encryption=none&type=tcp&sid=00000000&security=reality&sni=qq.utiltools.site#@nofiltering2
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.site&sid=00000000#@Shh_Proxy-New⁹
@@ -503,3 +501,5 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@62.182.192.195:443?path=/fdip#TELEG
 vless://498a8e0a-e40d-418b-8209-e6e437e97d83@104.16.85.118:2083?path=/ws&security=tls&encryption=none&insecure=0&host=prisonvpnc.n8xyd0tsxn-b25.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=prisonvpnc.n8xyd0tsxn-b25.workers.dev#@prisonvpnc
 vless://498a8e0a-e40d-418b-8209-e6e437e97d83@104.16.85.118:80?path=/ws&security=none&encryption=none&host=prisonvpnc.n8xyd0tsxn-b25.workers.dev&type=ws#@prisonvpnc
 vless://498a8e0a-e40d-418b-8209-e6e437e97d83@104.18.32.35:2052?path=/ws&security=none&encryption=none&host=prisonvpnc.n8xyd0tsxn-b25.workers.dev&type=ws#@prisonvpnc
+vless://498a8e0a-e40d-418b-8209-e6e437e97d83@104.19.42.130:443?path=/ws&security=tls&encryption=none&insecure=0&host=prisonvpnc.n8xyd0tsxn-b25.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=prisonvpnc.n8xyd0tsxn-b25.workers.dev#@prisonvpnc
+vless://498a8e0a-e40d-418b-8209-e6e437e97d83@104.20.39.21:2086?path=/ws&security=none&encryption=none&host=prisonvpnc.n8xyd0tsxn-b25.workers.dev&type=ws#@prisonvpnc

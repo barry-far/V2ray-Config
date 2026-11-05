@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://116e7d57-afcf-4558-be0a-01e80fe6cd31@rm4.rmastore.ir:2053?path=/nlrma&security=&encryption=mlkem768x25519plus.native.0rtt.0zrIHtnNGtLLe7tm3aMwb5bJbza8t3DqG8TMfEJgflA&type=ws#11796@proxy_online_net
-vless://116e7d57-afcf-4558-be0a-01e80fe6cd31@rm4.rmastore.ir:2053?path=/nlrma&security=&encryption=mlkem768x25519plus.native.0rtt.0zrIHtnNGtLLe7tm3aMwb5bJbza8t3DqG8TMfEJgflA&type=ws#11798@proxy_online_net
 vless://116e7d57-afcf-4558-be0a-01e80fe6cd31@rm4.rmastore.ir:2053?path=/nlrma&security=&encryption=mlkem768x25519plus.native.0rtt.0zrIHtnNGtLLe7tm3aMwb5bJbza8t3DqG8TMfEJgflA&type=ws#@FXxNET⚡️
 vless://116e7d57-afcf-4558-be0a-01e80fe6cd31@rm4.rmastore.ir:2053?path=/nlrma&security=&encryption=mlkem768x25519plus.native.0rtt.0zrIHtnNGtLLe7tm3aMwb5bJbza8t3DqG8TMfEJgflA&type=ws#@ICV2RAY
 vless://116e7d57-afcf-4558-be0a-01e80fe6cd31@rm4.rmastore.ir:2053?path=/nlrma&security=&encryption=mlkem768x25519plus.native.0rtt.0zrIHtnNGtLLe7tm3aMwb5bJbza8t3DqG8TMfEJgflA&type=ws#@MigMigVPNSHOP
@@ -503,3 +501,5 @@ vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=/v1&security
 vless://2ab04aa0-5f28-432f-96c7-d168d09973d8@103.21.244.255:80?encryption=none&security=none&type=ws&host=hidden-river-df80-ppal03.bewome9099.workers.dev&path=/?ed=2560#😎Tel: @pPal03😎Join Telegram😎
 vless://2ab04aa0-5f28-432f-96c7-d168d09973d8@104.16.38.60:80?encryption=none&security=none&type=ws&host=hidden-river-df80-ppal03.bewome9099.workers.dev&path=/?ed=2560#😎Tel: @pPal03😎Join Telegram😎
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au7.pad-sservice.lat:8443?path=/AU7W#TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=au7.pad-sservice.lat&fp=chrome&type=ws&sni=au7.pad-sservice.lat#@v2ray_phoenix
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@de5.pad-sservice.lat:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=de5.pad-service.com&type=ws&allowInsecure=0&sni=de5.pad-sservice.lat#[118621]
+vless://2b2ea9d8-501e-4b79-8fd9-19bff6ed5cf5@pl.cloudtechone.org:443?security=reality&encryption=none&pbk=_IBXb9NfhsnS21XbU9PIl73ExvrjXGXVLO0Za1ui5Fo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.cloudtechone.org&sid=f93c9d5127e622e4#@fastkanfig کانال تلگرام

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://dca945d2-6d9b-434f-8754-3626a6a75e21@94.140.0.74:2087?path=/&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#@KAFING_2
-vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.119:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&type=tcp&sni=google.com&sid=3ca620a7ed5f3196#TEL;Father_vpn
 vless://dcec1f6d-0584-48ee-9e67-c2e16f23904a@2.27.122.221:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.nvidia.com&pbk=YuFm9PUkI61urw2Uzk_bulQJdblxqxebBafwKHW-8TE&sid=b484941b4767eb#⚡️  @Nap_v2ray 🇫🇮
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?path=/--Telegram---@MiTiVPN/---@MiTiVPN/---MiTiVPN/---@MiTiVPN&security=tls&encryption=none&insecure=0&host=www.getasa.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.getasa.ir#@KAFING_2
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=/--Telegram---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=web.abcallcenter.com#@KAFING_2
@@ -503,3 +501,5 @@ vless://f082cc63-9b4d-4b02-97d3-c31508d829d1@16.171.60.127:443?encryption=none&f
 vless://f0b144bd-4c44-440d-b630-d79ec82cad3a@77.91.69.169:19226?security=reality&encryption=none&pbk=PQjgf7GxBd2tDXf0zl9Z5rTZo7LdsWj0hGZLH-lJ-Uk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7c#YFZ 198 @Outline_Vpn
 vless://f0eac976-e4e2-4e24-bc86-cda82ee31442@5.129.215.87:40443?security=reality&sni=deepl.com&fp=chrome&pbk=7QJA1tXQcNj8gioQVzief5a4KeUTDT7R8FE0jfKU41k&sid=3180&type=tcp&path=/#🇷🇺139910 | ⚡️Telegram = t.me/SOSkeyNET
 vless://f1349fb7-899b-4076-ad67-c2cc6e4bd1f9@140.233.177.28:39521?security=&encryption=none&headerType=&type=tcp#🇩🇪139731 | ⚡️Telegram = t.me/SOSkeyNET
+vless://f1505323-ecb6-4152-9a5b-d37b3ae1cacf@65.109.178.164:443?security=reality&encryption=none&pbk=l8PcaI8FgBc7p2r-Smg5KA_5s-lOZCd2H2MZY7aBXSs&headerType=none&fp=chrome&type=tcp&sni=play-apps-features.googleusercontent.com&sid=5cdb1993e026ff60#🇫🇮 | 7
+vless://f1632cd2-3dd7-41c3-9755-6fea5f85a8db@lit3.litiran.ir:2053?mode=auto&path=/&security=tls&encryption=none&insecure=0&host=image-ukr.kafeistanbul.shop&type=xhttp&allowInsecure=0&sni=image-ukr.kafeistanbul.shop#@configprxy

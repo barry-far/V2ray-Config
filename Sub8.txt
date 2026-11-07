@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@13.143.167.154:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw&security=reality&sni=pl-balancer.peregrine-sub.net&type=tcp#@VPsave
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@2.26.55.145:1443?security=reality&encryption=none&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=se.peregrine-sub.net&sid=7b6803a79bba5c52#@VConfing
 vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@2.26.55.145:1443?security=reality&encryption=none&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=se.peregrine-sub.net&sid=7b6803a79bba5c52#YFZ 234 @Outline_Vpn
 vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@pl.peregrine-sub.net:1443?security=reality&encryption=none&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.peregrine-sub.net&sid=7b6803a79bba5c52#@v2ray_configs_pools 🌍 💎
 vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@tr.peregrine-sub.net:8443?encryption=none&type=xhttp&path=/&security=reality&fp=chrome&sni=tr.peregrine-sub.net&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&sid=7b6803a79bba5c52#⚡️ @Nap_v2ray 🇹🇷
@@ -501,5 +503,3 @@ vless://4c4fb45f-03d3-4346-92b3-7b01e3d4de1b@static.241.103.99.91.clients.your-s
 vless://4c4fb45f-03d3-4346-92b3-7b01e3d4de1b@static.241.103.99.91.clients.your-server.de:8443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=static.241.103.99.91.clients.your-server.de#🇩🇪@FreakConfig
 vless://4c4fb45f-03d3-4346-92b3-7b01e3d4de1b@static.252.108.99.91.clients.your-server.de:8443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=static.252.108.99.91.clients.your-server.de#@VPsave
 vless://4c4fb45f-03d3-4346-92b3-7b01e3d4de1b@static.80.222.99.91.clients.your-server.de:8443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=static.80.222.99.91.clients.your-server.de#@VPsave
-vless://4c58afde-50b4-4cbe-be1a-f70646c0545c@[::ffff:681f:1025]:80?path=/checkout&security=none&encryption=none&host=soFTWARe.dL-VscOde.COM&type=ws#🔺@DemonVpn🔻+Hamrah+Aval
-vless://4c910f7d-a04a-434d-9f33-974dd21446a8@us-1.veraspeed.ir:443?security=reality&encryption=mlkem768x25519plus.random.0rtt.100-111-1111.75-0-111.50-0-3333.HqAJDapKVNOb1sf4hJJ9Bj_TFbuhclVZ185D0-R022o&pbk=aOfiTGCPr4ZjytCZrTL5zcMe-azl_FuG2Ywc1ZxH538&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=thestraightpath.ca&sid=fe9d69f0913cef88#@Tarkshodeh 🇳🇬

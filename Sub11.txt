@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://7cde4592-4758-415f-8b97-c188faa4d1c9@188.225.25.142:443?security=reality&encryption=none&pbk=SxbaWzlvE_HQqqsA4PNX2PFcSYXTVE2nZlgLc7cPOgk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=prime.betust.net&sid=8681edc9#@Tarkshodeh 🇧🇲
+vless://7cde4592-4758-415f-8b97-c188faa4d1c9@188.225.25.195:443?security=reality&encryption=none&pbk=Fe_144ALuRRedGs06ljDnE1f_G2B2wE4i9_diqw5LnY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=app25.betust.net&sid=a16bc894#@hopev2ray🤎
 vless://7cde4592-4758-415f-8b97-c188faa4d1c9@188.225.77.241:443?security=reality&encryption=none&pbk=YczbievYAOeZIypa58aRpil6XbfdyifK_0cFJWn8-yg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api.betust.net&sid=d6c172d3#@Tarkshodeh 🇧🇲
 vless://7cefd992-452a-4c28-86bb-6195876582cf@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/&security=tls&encryption=none&insecure=0&host=netheri.global.ssl.fastly.net.&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#vpnsal
 vless://7cefd992-452a-4c28-86bb-6195876582cf@199.232.78.120:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/&security=tls&encryption=none&insecure=0&host=swedish.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#vpnsal
@@ -501,5 +503,3 @@ vless://95c89885-8552-4c55-bb54-5d86e4672f72@SORR.zqpm.ir:20753?security=reality
 vless://95c89885-8552-4c55-bb54-5d86e4672f72@SORR.zqpm.ir:20753?security=reality&encryption=none&pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2efbb0033df59520#@tootffarangi🍓
 vless://95c89885-8552-4c55-bb54-5d86e4672f72@SORR.zqpm.ir:20753?security=reality&encryption=none&pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2efbb0033df59520#Channel : @Daily_Configs
 vless://95c89885-8552-4c55-bb54-5d86e4672f72@SORR.zqpm.ir:20753?security=reality&encryption=none&pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2efbb0033df59520#🇸🇪208276 | ⚡️Telegram = t.me/SOSkeyNET
-vless://95c89885-8552-4c55-bb54-5d86e4672f72@SORR.zqpm.ir:20753?security=reality&encryption=none&pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2efbb0033df59520#🇸🇪208325 | ⚡️Telegram = t.me/LonUp_M
-vless://95d0e214-eab0-4701-93ed-fea4f1b56062@84.32.101.84:443?fp=chrome&mode=gun&sni=reg.jarbook.net&sid=dceb4214&serviceName=BookCatalog&pbk=nUUSNvkc5Xy6LRCP4yeFvbI8wFMx7gdgruPMNBq7jzo&encryption=none&security=reality&type=grpc#@nofiltering2

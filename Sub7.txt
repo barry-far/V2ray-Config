@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@185.179.190.170:59222?mode=gun&security=reality&encryption=none&pbk=riOqDvO6CI06_GP7aJEtDH27zPWu6BiFwGrUESatk1I&fp=chrome&type=grpc&sni=tbank.ru&sid=e03d3096bebd#🇷🇺 | @ELiV2Ray
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@196.247.163.10:443?security=reality&encryption=none&pbk=5984Ah0pkfSVekU5xafQ1trZZN7MyNCJ-3KfCo-O6A4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=britainmh.eosvpn.com#YFZ 174 @Outline_Vpn
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.29.255.123:59539?security=reality&encryption=none&pbk=R6mPqCsjZMWauci4LHw7Qp1LGKmBd-sxMXplyOn9bSQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudflare-dns.com#@V2ray_Alpha🛖 12
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.29.255.123:59539?security=reality&encryption=none&pbk=R6mPqCsjZMWauci4LHw7Qp1LGKmBd-sxMXplyOn9bSQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudflare-dns.com#برای اتصال دائمی جوین شو🪭 TelegramID ⌲Express_freevpn 🪩
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.29.255.123:59539?security=reality&encryption=none&pbk=R6mPqCsjZMWauci4LHw7Qp1LGKmBd-sxMXplyOn9bSQ&type=tcp&flow=xtls-rprx-vision&sni=cloudflare-dns.com&fp=chrome#🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸
@@ -501,5 +503,3 @@ vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:443?security=tls&encr
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@172.67.139.85:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/AWGG17eLHc5QLzJr?ed=2560#CxrolVPN Free (4)
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/Ay0V02ow7rt6P1Ml?ed=2560&sni=cxrolvpn.vipserver2.workers.dev&fp=chrome&alpn=http/1.1#CxrolVPN Free (2)
 vless://429efff7-16bd-499e-85a5-a6f4b89c2773@www.speedtest.net:80?security=none&encryption=none&type=ws&host=cxrolvpn.vipserver2.workers.dev&path=/FkJEHRUYQOp0TIQ5?ed=2560#CxrolVPN Free (1)
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@13.143.167.154:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Y2uyTCt5ofoFht6Xl-55dBPCBUiYi1fFTVcmZtoiqFw&security=reality&sni=pl-balancer.peregrine-sub.net&type=tcp#@VPsave
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@2.26.55.145:1443?security=reality&encryption=none&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=se.peregrine-sub.net&sid=7b6803a79bba5c52#@VConfing

@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://ed189537-41de-4abe-9f8b-bb75d457722d@log.bpminecraft.com:8880?path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&encryption=none&host=lucky-cake-4f58.318-5ee.workers.dev&type=ws#%3E%3E%40outline_vpn%3A%3AUS
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AXX
 vless://e5c5c336-8ca7-44bc-82d6-0473a55ad1ae@188.114.97.6:8080?encryption=none&security=none&type=ws&host=pingoneorg.hydrash.workers.dev&path=%2F&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%221%22%5D%2C%20%22delays%22%3A%20%5B%224%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D#%3E%3E%40ShadowsocksM%3A%3AUS
 vless://ea50b1a3-3a98-4c5e-a150-48ada40d68d7@cf-vless-4cf55824.aimall.fr:443?encryption=none&security=tls&sni=cf-vless-4cf55824.aimall.fr&fp=chrome&type=ws&host=cf-vless-4cf55824.aimall.fr&path=%2Fconnect#%3E%3E%40v2nodes%3A%3AUS
 vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=%2F5021201ef53f&security=none&encryption=none&type=ws#%3E%3E%40V2rayNG3%3A%3AUZ

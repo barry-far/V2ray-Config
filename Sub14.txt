@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c387b0f2-5d9e-4c95-882d-1d5eeb443ce2@varzesh3.com:443?path=/movie&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir&fp=chrome&type=ws&allowInsecure=0&sni=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir#@VPsave
 vless://c419edf5-45b0-44cb-94dd-c66f9b395260@79.141.164.81:443?mode=gun&security=reality&encryption=none&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&fp=chrome&type=grpc&serviceName=neurex&sni=nla.kosmosapp.net&sid=27350908de933e09#@VConfing
 vless://c419edf5-45b0-44cb-94dd-c66f9b395260@79.141.164.81:443?mode=gun&security=reality&encryption=none&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&fp=chrome&type=grpc&serviceName=neurex&sni=nla.kosmosapp.net&sid=27350908de933e09#@v2ray_phoenix
 vless://c41ca8a9-336f-4197-8f03-861bc84c8036@uk.ui.skydown.info:80?type=xhttp&path=/yokoso/sharingan&host=uk.ui.skydown.info&security=reality&pbk=h_OMTyJA9NgPXJa59jvVvydKDz4L61upmQUae1sTTGU&fp=chrome&sni=www.sony.com&sid=86f88a262c1cbc56&spx=/&encryption=none#V2raySamanbot
@@ -503,3 +502,4 @@ vless://dc7d45c9-c942-41e3-b880-9a7fd5b64e2f@199.232.78.159:443?path=/&security=
 vless://dc7d45c9-c942-41e3-b880-9a7fd5b64e2f@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_a1ia.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#@v2ray313 کانالمون 🌸
 vless://dc7d45c9-c942-41e3-b880-9a7fd5b64e2f@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_a11ia.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#@v2ray313 کانالمون ❤️‍🔥
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&host=---v2rayNplus&type=ws#configprxy
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=/http&encryption=none&host=@SylphNet&type=ws#@SylphNet | 2026-06-27 05:03

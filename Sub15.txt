@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=/http&encryption=none&host=@SylphNet&type=ws#@SylphNet | 2026-06-27 05:03
 vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@212.193.0.105:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn-rum-keno-prsv.keno.su&fp=chrome&security=reality&pbk=Cw04nkURk7InPCPZl-0PovP44rh5o74dMHBUFOsjFig&sid=a1b2c3d4e5f60718&packetEncoding=xudp#🇷🇴8@exclavevpn
 vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@212.193.0.105:443?security=reality&encryption=none&pbk=Cw04nkURk7InPCPZl-0PovP44rh5o74dMHBUFOsjFig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn-rum-keno-prsv.keno.su&sid=a1b2c3d4e5f60718#@meliproxyy
 vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@212.193.0.105:443?security=reality&encryption=none&pbk=Cw04nkURk7InPCPZl-0PovP44rh5o74dMHBUFOsjFig&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn-rum-keno-prsv.keno.su&sid=a1b2c3d4e5f60718#@ConfigV2RayNG
@@ -503,3 +502,4 @@ vless://f46182d1-e13b-47d3-97e2-fa5426a93e7c@45.132.75.213:2053?security=reality
 vless://f46182d1-e13b-47d3-97e2-fa5426a93e7c@45.132.75.213:2053?security=reality&encryption=none&pbk=TpWeZocgNOygOhMo0l7oJawPu7STkn9D-SOa0UppcyY&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=cd7e85995ae2afc9#@meliproxyy
 vless://f46182d1-e13b-47d3-97e2-fa5426a93e7c@45.132.75.213:2053?security=reality&encryption=none&pbk=TpWeZocgNOygOhMo0l7oJawPu7STkn9D-SOa0UppcyY&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=cd7e85995ae2afc9#🔵@chillguy_vpn
 vless://f46182d1-e13b-47d3-97e2-fa5426a93e7c@45.132.75.213:2053?security=reality&encryption=none&pbk=TpWeZocgNOygOhMo0l7oJawPu7STkn9D-SOa0UppcyY&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=cd7e85995ae2afc9#Tel@MARAMBASHI 🇧🇷
+vless://f47057d5-120d-4b42-b6d6-30469aef6813@185.211.57.168:48312?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=d9eM_jy8ztZrOf3DMq1m55VQSo7bnKcG1dRnO9ktJ2Y&sid=902c315efc&type=tcp&headerType=http&host=technolife.com#@VPsave

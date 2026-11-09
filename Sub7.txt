@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://327b1113-049e-4256-8d72-8815643dbb65@148.135.86.162:10000?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=addons.mozilla.org&pbk=DCbnS4mIPc1W2-wI0MGHhykwzf2nVuZvBadErSE6MxU&sid=a1b2c3d4#⚡️ @Nap_v2ray 🇺🇸
 vless://327b1113-049e-4256-8d72-8815643dbb65@148.135.86.162:10000?security=reality&encryption=none&pbk=DCbnS4mIPc1W2-wI0MGHhykwzf2nVuZvBadErSE6MxU&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=a1b2c3d4#Tel@MARAMBASHI 🇳🇱
 vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?encryption=none&security=tls&sni=kk-ru24a1.testkknegr.online&alpn=h2&fp=chrome&type=grpc&mode=gun&authority=&serviceName=vlgrpc#🇩🇪All⁶ | @BigSmoke_Config
 vless://32ed7262-74d2-40ea-a038-6bf074bc463e@185.168.195.211:21527?security=reality&type=tcp&sid=823ec0b7b5084ffe&pbk=SsIiRnSI27T6_EU71nUXgFfE0NmJhsA2UwhR5WC25UY&fp=chrome&sni=www.apple.com&spx=/&headerType=none&encryption=none#Telegram:@v2rayng3
@@ -503,3 +502,4 @@ vless://46cd9dee-dcb2-6c5f-d892-8b033a4db269@multipanel-production-c545.up.railw
 vless://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170:443?security=tls&sni=orbylume.my.to&fp=chrome&type=ws&path=/tvpn-tor/is&host=orbylume.my.to#@VPsave
 vless://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170:443?security=tls&type=ws&path=/tvpn-tor/is&host=orbylume.my.to&sni=orbylume.my.to&fp=chrome&encryption=none#@VPsave
 vless://46f8712b-5289-45d1-858d-1f01f97b8ffe@xui-oh.sahebkarami.ir:9443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xui-oh.sahebkarami.ir#@VConfing
+vless://46f8712b-5289-45d1-858d-1f01f97b8ffe@xui-oh.sahebkarami.ir:9443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xui-oh.sahebkarami.ir#🇺🇸210456 | ⚡️Telegram = t.me/SOSkeyNET

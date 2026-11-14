@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@lv3.nexfile.net:4443?mode=auto&path=/api/v1/sync/&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=lv3.nexfile.net#YFZ 374 @Outline_Vpn
-vless://a366968f-fc43-4376-80ee-a23e2389b170@91.107.207.171:80?path=/?ed=1024&security=&encryption=mlkem768x25519plus.native.0rtt.GlIc2LFlqBQ3itRnw8zoo3tfD7MSknWWmmLVDdr88jE&host=dynu.com&type=httpupgrade#@TEHRANARGO
 vless://a366968f-fc43-4376-80ee-a23e2389b170@91.107.207.171:80?path=/?ed=1024&security=&encryption=mlkem768x25519plus.native.0rtt.GlIc2LFlqBQ3itRnw8zoo3tfD7MSknWWmmLVDdr88jE&host=dynu.com&type=httpupgrade#@V2rayNPVTConfig
 vless://a366968f-fc43-4376-80ee-a23e2389b170@91.107.207.171:80?path=/?ed=1024&security=none&encryption=mlkem768x25519plus.native.0rtt.GlIc2LFlqBQ3itRnw8zoo3tfD7MSknWWmmLVDdr88jE&host=dynu.com&type=httpupgrade#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️📶🛰️683🌐🆕
 vless://a368752a-32fc-42f3-980a-6b049218b23f@india.letsconnectpoint.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=india.letsconnectpoint.com&fp=chrome&pbk=erUEmyU1QK8y2corQh9bOjk0oHl2Mo6Z9WgoyKg_rC0&sid=c1e3d5d4&type=tcp&headerType=none#@VPNConnectd
@@ -503,3 +501,5 @@ vless://b9fe0667-dce6-4259-9c8e-b7ffe2d00276@s1.eldoradu.ir:2083?security=tls&ho
 vless://ba3aa71a-cecb-45af-860a-7d785a953a24@127.0.0.1:40443?encryption=none&security=tls&sni=infinityservers.space&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&path=/&mode=auto&extra={"xPaddingBytes":"100-1000"}#FREE_IRAN (Germany) (SNI Spoofing)
 vless://ba693fde-7c75-488c-af87-eab46956a77c@static.69.71.203.116.clients.your-server.de:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=static.69.71.203.116.clients.your-server.de&fp=chrome&alpn=h2,http/1.1&type=tcp&headerType=none#@v2ray_configs_pools⚡️
 vless://ba746959-18e7-471c-b00f-fa5cdd930abf@104.21.89.181:8880?security=false&fp=chrome&type=ws&headerType=none&host=crimson-bread-c38e.295.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net#[129943]
+vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@109.120.177.84:443?security=tls&encryption=none&headerType=none&type=tcp&sni=decdn7.suio.me#@CUSTOMVPNSERVER
+vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@109.120.177.84:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=decdn7.suio.me#⚡Telegram =@CUSTOMVPNSERVER

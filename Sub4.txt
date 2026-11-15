@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.iloverussia2026.com#@hex_proxy ⁷
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.iloverussia2026.com#Tel-@ProxyMtAlpha🪁 4
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&insecure=0&host=/?Telegram---@bored_vpn&headerType=none&type=tcp&allowInsecure=0&sni=api.iloverussia2026.com#bored_vpn
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&insecure=0&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=api.iloverussia2026.com#Telegram 👉🏼 @planB_net  • 08
@@ -502,4 +503,3 @@ trojan://humanity@104.27.201.80:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@104.27.203.207:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@pass_net🎃🕸️🎃
 trojan://humanity@104.27.203.207:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@pass_net🎃🕸️🎃🇨🇦
 trojan://humanity@108.162.194.134:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@pass_net🎃🕸️🎃
-trojan://humanity@108.162.194.134:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦TM (@AZARBAYJAB1)

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/&security=tls&encryption=none&insecure=0&host=canoijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#🇨🇦 @VEGAAS_VPN
 vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/&security=tls&encryption=none&insecure=0&host=finalnsdger.global.ssl.fastly.net.&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#@ConfigV2RayNG
 vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/&security=tls&encryption=none&insecure=0&host=finalnsdger.global.ssl.fastly.net.&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#@FarazV2ray
 vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=/&security=tls&encryption=none&insecure=0&host=finalnsdger.global.ssl.fastly.net.&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#MTMVPN
@@ -502,4 +503,3 @@ vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@104.18.38.33:443?path=/?TELEGRAM--M
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@104.18.38.33:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2048&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#@ConfigV2RayNG
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@104.18.38.33:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2048&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#Tel@MARAMBASHI 🇸🇪
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@104.18.38.33:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2048&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#🇺🇸US_117_@Surfboardv2ray
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@104.18.38.33:443?path=/?TELEGRAM—MARAMBASHI—MARAMBASHI—MARAMBASHI—MARAMBASHI?ed=2048&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#@VPNConnectd

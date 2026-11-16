@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://274a6abb-caab-4d0b-b199-35c47a4e72be@ir.maralfood1i.ir:443?mode=auto&path=/AX-Core&security=reality&encryption=mlkem768x25519plus.native.0rtt.paU5w1PzfFmav2LECwYgR_5M7Rj8-brDjkG_IjOkdUA&pbk=s2vQU57_HBo5KZ2oQdjYTrYb4Y4Mm6sq_cV8psFX7UU&fp=chrome&type=xhttp&sni=addons.mozilla.org&sid=070d902aa9c5b4ed#@sora1co
-vless://279e5c33-e95f-410d-b666-0613fb8a054f@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=community.fastly.steamstatic.com&mode=auto&path=/&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000","xPaddingObfsMode":true}&insecure=0&host=ltgoiss3vmsgt3e.global.ssl.fastly.net&allowInsecure=0#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️📶‎🛰️661🌐🆕
-vless://27b9f6d7-1668-4b8a-acf1-11398febcfee@189.74.114.116:443/?type=grpc&encryption=none&flow=&serviceName=3e99d50d5740985d&security=tls&sni=edge.mediastvor.cc#🇳🇱 13@ exclavevpn
-vless://27b9f6d7-1668-4b8a-acf1-11398febcfee@189.74.118.11:443/?type=grpc&encryption=none&flow=&serviceName=r7Kp4mN9tQ2v&security=tls&sni=cz.mediastvor.cc&allowInsecure=1#🇨🇿 13@exclavevpn
 vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?&type=ws&headerType=none&path=/#🇰🇷 Join+Telegram:@Farah_VPN 🇰🇷
 vless://27f1eba3-0d5f-47c3-8dfa-f734f3aeccdf@tun404.app9.ir:8023?encryption=none&security=reality&sni=speedtest.net&fp=chrome&pbk=3VKs9HG9EgsB69ppfvFEJcXiO5MDOvvQOByDD2HceXQ&sid=b7e45d3a65bfc319&type=tcp&headerType=none#Channel : @Daily_Configs
 vless://27f1eba3-0d5f-47c3-8dfa-f734f3aeccdf@tun404.app9.ir:8023?security=reality&encryption=none&pbk=3VKs9HG9EgsB69ppfvFEJcXiO5MDOvvQOByDD2HceXQ&headerType=none&fp=chrome&type=tcp&sni=speedtest.net&sid=b7e45d3a65bfc319#12650@proxy_online_net
@@ -503,3 +499,7 @@ vless://3d730013-2c01-42bd-9034-7aaf56da37bb@pl10.bexait.ir:2434?security=realit
 vless://3d730013-2c01-42bd-9034-7aaf56da37bb@pl2.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#🇵🇱 Poland
 vless://3d730013-2c01-42bd-9034-7aaf56da37bb@pl3.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#🇵🇱 Poland
 vless://3d730013-2c01-42bd-9034-7aaf56da37bb@pl4.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#🇵🇱 Poland
+vless://3d730013-2c01-42bd-9034-7aaf56da37bb@pl5.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#🇵🇱 Poland
+vless://3d730013-2c01-42bd-9034-7aaf56da37bb@pl6.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#🇵🇱 Poland
+vless://3d730013-2c01-42bd-9034-7aaf56da37bb@pl7.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#🇵🇱 Poland
+vless://3d730013-2c01-42bd-9034-7aaf56da37bb@pl8.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#🇵🇱 Poland

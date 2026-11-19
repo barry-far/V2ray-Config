@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@ip.notomarosww.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net#⚡Telegram =@CUSTOMVPNSERVER
 vless://832c8f42-7fe1-4aa4-9171-eb9dddbf6fef@172.67.130.159:2096?path=/78bc8&security=tls&encryption=none&insecure=0&host=cdn-sg.skyvora.app&fp=chrome&type=ws&allowInsecure=0&sni=cdn-sg.skyvora.app#@Tarkahodeh 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 vless://8344360f-0349-4784-a19f-33fd92e89389@sync.2ml.bid:443?encryption=none&security=tls&sni=sync.2ml.bid&type=grpc&serviceName=v3-direct#@V2rayNPVTConfig
 vless://8344360f-0349-4784-a19f-33fd92e89389@sync.2ml.bid:443?encryption=none&security=tls&sni=sync.2ml.bid&type=grpc&serviceName=v3-direct#ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ = @ꜰxxɴᴇᴛ🧲
@@ -503,3 +502,4 @@ vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@45.131.65.105:443?encryption=none&f
 vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@45.131.65.105:443?encryption=none&fp=chrome&pbk=K41mxSIT1WcM8QEiZQxs7n_qOroaPucFMHamzWICKVQ&security=reality&sni=playza-app.com&type=tcp#🇩🇪09 | ⚡Telegram = t.me/ex_proxies
 vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@45.131.65.105:443?security=reality&encryption=none&pbk=K41mxSIT1WcM8QEiZQxs7n_qOroaPucFMHamzWICKVQ&headerType=none&fp=chrome&type=tcp&sni=playza-app.com#🇩🇪DE-🚀@VPNine1
 vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@45.131.65.105:443?type=tcp&security=reality&fp=chrome&pbk=K41mxSIT1WcM8QEiZQxs7n_qOroaPucFMHamzWICKVQ&sni=playza-app.com#@VPsave
+vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@45.144.52.195:443?encryption=none&flow=xtls-rprx-vision&pbk=wpKYWqa_j7WXClXDdSL-llXhjH918G_U7jfpHAMSGWk&security=reality&sni=fl-modx.nodexphere.net&type=tcp&fp=chrome#🇫🇮05 | ⚡Telegram = t.me/ex_proxies

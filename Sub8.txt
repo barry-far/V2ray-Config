@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@168.222.43.151:443?path=/api/v3/pulse&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn2.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn2.zovip2.ir#Telegram @mtmvpn
 vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@168.222.43.151:443?path=/api/v3/pulse?ed#Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn2.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn2.zovip2.ir#Telegram 👉🏼 @planB_net  • 14
 vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@n1.topingr.ir:443?path=/api/v3/pulse&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn2.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn2.zovip2.ir#Tel-@ProxyMtAlpha🍟5
 vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@n1.topingr.ir:443?path=/api/v3/pulse&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cdn2.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn2.zovip2.ir#kurdconfig
@@ -503,3 +502,4 @@ vless://4ad9f982-b56a-444a-9684-35ce51307a36@82.146.42.160:2058?security=reality
 vless://4afbc5bba252bf79d95f5c1eaae11a37@69.46.46.71:443?path=/ws/4afbc5bba252bf79d95f5c1eaae11a37&security=tls&alpn=http/1.1&encryption=none&host=srv-16eb07-23a65a-production.up.railway.app&fp=chrome&type=ws&sni=srv-16eb07-23a65a-production.up.railway.app#All Operators @MaSTeRSeRVeR1
 vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?encryption=none&type=grpc&mode=gun&serviceName=glush.de3.v1&security=tls&sni=luminexorizon.ink&alpn=h2&fp=chrome#@VPsave
 vless://4bde8d55-d91c-45e9-9b36-e6448a194527@188.114.97.6:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=dfsuporte.garena.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=dfsuporte.garena.com.ex33r.eu.cc#TEL;Father_vpn
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@164.37.100.195:443?security=reality&encryption=none&pbk=s0ypPx0AL3k2KOk74tbm-aE-i7eIR_MYVzfLHZeLaUk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tomaz1337shellbuy.vvzzkontaktezzvv.garden&sid=2e124af254a65e7c#@hopev2ray💛

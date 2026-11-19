@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://e7e90e6b-8069-4cb8-bad9-a3b364dd5d71@84.32.189.155:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=e7e90e6b.ferrin.uk#@hopev2ray💙
 vless://e7e90e6b-8069-4cb8-bad9-a3b364dd5d71@84.32.189.155:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=e7e90e6b.ferrin.uk#@hopev2ray🧡
 vless://e7ee38d7-f8ad-4d14-a491-2d9e18011845@144.31.217.148:443?security=reality&flow=xtls-rprx-vision&sni=norvegia29838199399293838.izzzyvpn.space&type=tcp&fp=chrome&pbk=B6ZflW5h3Kce42IdizfHqjd_iq4ReXyJywBk-sjB0Gc&sid=945994fe7b858108#[129957]
 vless://e84e0918-68ca-4fcc-a1d1-b566fd9ac7ee@193.23.201.133:5432?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#@Tarkahodeh 🏴󠁧󠁢󠁷󠁬󠁳󠁿
@@ -503,3 +502,4 @@ vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@200.165.231.209:443?encryption=none
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?path=/api/connect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0#@Tarkshodeh 🇩🇪
 vless://ff0b6ba8-bed0-4c4d-bbc9-23af47582615@91.210.169.181:443?path=/api/connect&security=tls&encryption=none&insecure=0&host=wstg.datasynctrue.online&type=ws&allowInsecure=0#@Tarkshodeh 🇺🇲
 vless://ff150806-a80c-4703-a930-56b55576df18@31.77.199.15:443?security=reality&encryption=none&pbk=nOFA5Nv0ZPwpT-TPxlo_OE7I3ViBO1ocUri1m8vM5jU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp-nrt-2.blook.network&sid=414de300#@VPsave
+vless://ff5fc681-8548-4621-87d1-6b123db48f64@172.235.49.52:443?encryption=none&fp=&host=itunes.apple.com&path=/ws&pbk=Md-qJgtcKVbuLuwCX8r-VZnfKq3z_3CtyPt3CRcqdQE&security=reality&sid=270d474c&sni=itunes.apple.com&type=ws#🇺🇸218763 | ⚡️Telegram = t.me/SOSkeyNET

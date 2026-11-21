@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3692de53-42e6-4aed-a522-40ec355dcd2f@104.17.70.206:8443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=free.sahanwickramasinghe.com&fp=chrome&type=ws&allowInsecure=0#Channel id: @ConfigV2RayNG 🇺🇸
 vless://3692de53-42e6-4aed-a522-40ec355dcd2f@104.17.70.206:8443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=free.sahanwickramasinghe.com&fp=chrome&type=ws&allowInsecure=0&sni=free.sahanwickramasinghe.com#Channel id: @ConfigV2RayNG 🇺🇸
 vless://3692de53-42e6-4aed-a522-40ec355dcd2f@104.17.70.206:8443?security=tls&encryption=none&insecure=0&host=free.sahanwickramasinghe.com&fp=chrome&type=ws&allowInsecure=0#Channel id: @ConfigV2RayNG 🇺🇸
 vless://3692de53-42e6-4aed-a522-40ec355dcd2f@104.17.70.206:8443?security=tls&encryption=none&insecure=0&host=free.sahanwickramasinghe.com&fp=chrome&type=ws&allowInsecure=0&sni=free.sahanwickramasinghe.com#Channel id: @ConfigV2RayNG 🇺🇸
@@ -503,3 +502,4 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?security=realit
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#13123@proxy_online_net
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@Capoit
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@FarazV2ray
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@V2rayng_Fast

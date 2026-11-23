@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c53ea5e9-ed8b-4990-805d-7f1d6451426c@durov.sky-vault.top:8443?security=reality&encryption=none&pbk=fSVfR9NB-6J6smrZlavi0GWd8JfDh0aXuEkKbtuFzUI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=durov.sky-vault.top&sid=3cbc3d737fb9c4af#ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ = @ꜰxxɴᴇᴛ🍿
 vless://c543f005-59f7-40c1-9ae6-37505691d5be@51.77.217.70:2053?security=reality&encryption=none&pbk=UKvonm_uE7TSwksQIVQuNYgYwmcidr_g4lDIE2JW_Ag&headerType=none&fp=chrome&type=tcp&sni=www.google.com&sid=4868e772d098f0af#@hopev2ray💜
 vless://c5468915-f60c-4134-b4d3-eb24501d7c65@sonau.yaremonta.loc.cc:443?security=reality&encryption=none&pbk=_DS81HrngZsd_laYN5H0ZLvrqWhiW2DgMP2ea8KQkBc&headerType=&fp=chrome&spx=/5c9eb9b2ec2d856&type=tcp&sni=dl.google.com&sid=abcd1234#@VPsave
 vless://c5468915-f60c-4134-b4d3-eb24501d7c65@sonau.yaremonta.loc.cc:443?security=reality&encryption=none&pbk=_DS81HrngZsd_laYN5H0ZLvrqWhiW2DgMP2ea8KQkBc&headerType=none&fp=chrome&spx=/5c9eb9b2ec2d856&type=tcp&sni=dl.google.com&sid=abcd1234#@meliproxyy
@@ -502,4 +503,3 @@ vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?flow=xtls-rprx-
 vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?security=reality&encryption=none&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=get.jarbook.net&sid=c6f97313#YFZ 373 @Outline_Vpn
 vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?security=reality&encryption=none&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=get.jarbook.net&sid=c6f97313#YFZ 391 @Outline_Vpn
 vless://ddc0bc7e-04c6-4ff9-9adb-c68c71606e8f@95.217.24.119:2087?security=reality&encryption=none&pbk=_FKzdndiMfCSU5YLVXSBqzk2lIG0W2-DauFpos684Uc&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=62.238.103.54&sid=e9fae729e40ae07e#@NETMelliAnti
-vless://de178eba-d2c0-419b-849c-d66dcc0c0e3d@91.107.191.110:443?security=reality&encryption=none&pbk=AUlUBgfu10aO2aTaT-YwKbdh00NU1SP4uzZVt6Q0Th8&headerType=none&fp=chrome&spx=/583c1d205c1b22e&type=tcp&sni=es-us.vida-estilo.yahoo.com&sid=ee93f78385e68258#@daredevill_404

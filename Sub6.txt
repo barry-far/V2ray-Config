@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://nzrc4ma4087c1ukr@104.18.154.96:2083?path=/WWEiIlL225IiiILl&security=tls&insecure=0&host=dl1.rahetejarat.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=dl2.rahetejarat.com#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
-trojan://nzrc4ma4087c1ukr@188.114.96.1:2083?path=/WWEiIlL225IiiILl&security=tls&insecure=0&host=dl1.rahetejarat.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=dl2.rahetejarat.com#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
-trojan://nzrc4ma4087c1ukr@188.114.96.4:2083?path=/WWEiIlL225IiiILl&security=tls&insecure=0&host=dl1.rahetejarat.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=dl2.rahetejarat.com#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
-trojan://nzrc4ma4087c1ukr@188.114.96.5:2083?path=/WWEiIlL225IiiILl&security=tls&insecure=0&host=dl1.rahetejarat.com&fp=chrome&type=httpupgrade&allowInsecure=0&sni=dl2.rahetejarat.com#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
 trojan://og85o9QeVVvtMD2sxPjO@sonau.yaremonta.loc.cc:8444?security=none&headerType=&type=tcp#@v2ray_configs_pools 🌍 🔥
 trojan://pHLdtRnEC5stYZvt9GqMyMYx215AskPW@sw100.marshonet.store:8228/?type=grpc&serviceName=trgrpc&security=tls&sni=sw100.marshonet.store&alpn=h2&fp=chrome#@OutlineReleasedKey
 trojan://poimnap@alireza.karamoz1.ir:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=alireza.karamoz1.ir#@appsooner کانال تلگرام 🕊️
@@ -503,3 +499,7 @@ vless://18d817c9-0dfc-4fa9-8214-2df503f0b6eb@sof.edgeptr.org:443?security=realit
 vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@188.166.44.179:443?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#@Tarkshodeh 🇸🇻
 vless://18f1b94e-35f1-4c7f-953c-7b4681c52339@64.225.99.211:443?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#@Tarkshodeh 🇸🇻
 vless://18fe142e-1522-47ae-af55-bd8daf6273df@mail3.besttotaldns.com:443?security=tls&fp=chrome&alpn=http/1.1&sni=mail3.besttotaldns.com&type=ws&headerType=none&host=mail3.besttotaldns.com&path=/wo9a5v3jcz#🇫🇮FI-🚀@VPNine1
+vless://19773cc6-89a3-47c6-bc10-885460cd2b7b@89.167.17.75:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@CUSTOMVPNSERVER
+vless://19841976-1b67-49e4-9f21-804d10b2fd00@89.116.72.217:8880?encryption=mlkem768x25519plus.native.0rtt.U8fzW-FW7FJZpf3gVKExdUeArvvW5R7Yvtl7w2m0kUg&fp=&pbk=OjDDQkw-g0y3OGcZUgsT_k4N_QtBDjgcjYF9it6Nyz4&security=reality&sid=cb4a2e4c&sni=www.microsoft.com&type=tcp#filembad-95
+vless://19841976-1b67-49e4-9f21-804d10b2fd00@89.116.72.217:8880?encryption=mlkem768x25519plus.native.0rtt.U8fzW-FW7FJZpf3gVKExdUeArvvW5R7Yvtl7w2m0kUg&fp=&pbk=OjDDQkw-g0y3OGcZUgsT_k4N_QtBDjgcjYF9it6Nyz4&security=reality&sid=cb4a2e4c&sni=www.microsoft.com&type=tcp#🈸32@oneclickvpnkeys
+vless://19841976-1b67-49e4-9f21-804d10b2fd00@89.116.72.217:8880?security=reality&encryption=mlkem768x25519plus.native.0rtt.U8fzW-FW7FJZpf3gVKExdUeArvvW5R7Yvtl7w2m0kUg&pbk=OjDDQkw-g0y3OGcZUgsT_k4N_QtBDjgcjYF9it6Nyz4&headerType=&type=tcp&sni=www.microsoft.com&sid=cb4a2e4c#@meliproxyy
